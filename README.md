@@ -1,4 +1,4 @@
-# Modelo_de_Liberacao-Credito-II
+# Liberação de Credito
 
 Um escritório contábil, em nome de uma plataforma online de crédito da Alemanha nos contratou para fazer algumas análises e criar um modelo que identifica possíveis fraudadores.
 
