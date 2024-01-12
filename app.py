@@ -28,19 +28,19 @@ if pagina == 'Modelo - Liberação de Crédito':
         st.write('Selecione a idade entre 18 e 65 anos:')
         idade = st.number_input('Idade', 18, 65, 18)
         
-        st.write('Garantias:')
+        #st.write('Saldo na conta:')
+        saldo = ['sem conta','negativo','ate 200','200+']
+        conta = st.selectbox('Saldo na conta', saldo)
+        
+        #st.write('Garantias:')
         gar = ['nenhum','fiador','co-aplicante']
         garantia = st.selectbox('Garantias', gar) 
         
-        st.write('Histórico do cliente:')
+        #st.write('Histórico do cliente:')
         his = ['pagamento em dia','conta crítica','já atrasou pagamentos','creditos quitados','primeira vez']
-        historico = st.selectbox('Historico', his)
+        historico = st.selectbox('Historico', his)       
         
-        st.write('Saldo na conta:')
-        saldo = ['sem conta','negativo','ate 200','200+']
-        conta = st.selectbox('Valor', saldo)
-        
-        input0 = {'Meses':[duração], 'Idade':[idade], 'Garantias':[garantia], 'Historico':[historico],'Valor':[conta]}
+        input0 = {'Meses':[duração], 'Idade':[idade], 'Saldo na conta':[conta], 'Garantias':[garantia], 'Historico':[historico]}
         input = pd.DataFrame(input0)
         
         st.markdown('---')
