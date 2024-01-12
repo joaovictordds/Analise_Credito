@@ -1,0 +1,1001 @@
+conta,duração,historico,motivo,quantia,poupança,emprego,taxa,status,garantia,residencia,propriedades,idade,financiamentos,moradia,creditos,trabalho,dependentes,telefone,estrangeiro,pagador
+negativo,6,conta crítica,radio/televisão,1169,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,67,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),48,pagamento em dia,radio/televisão,5951,<100,"[1,4) anos",2,feminino/divorciado,nenhum,2,imobiliario,22,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,12,conta crítica,educação,2096,<100,"[4,7) anos",2,masculino/solteiro,nenhum,3,imobiliario,49,nenhum,própria,1,nível 1,2,não,não,bom
+negativo,42,pagamento em dia,móveis,7882,<100,"[4,7) anos",2,masculino/solteiro,fiador,4,seguro  de vida,45,nenhum,de graça,1,nível 2,2,não,não,bom
+negativo,24,já atrasou pagamentos,carro novo,4870,<100,"[1,4) anos",3,masculino/solteiro,nenhum,4,sem propriedades,53,nenhum,de graça,2,nível 2,2,não,não,mau
+sem conta,36,pagamento em dia,educação,9055,sem conta,"[1,4) anos",2,masculino/solteiro,nenhum,4,sem propriedades,35,nenhum,de graça,1,nível 1,2,sim,não,bom
+sem conta,24,pagamento em dia,móveis,2835,[500-1000),> 7 anos,3,masculino/solteiro,nenhum,4,seguro  de vida,53,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),36,pagamento em dia,carro usado,6948,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,35,nenhum,alugada,1,nível 3,1,sim,não,bom
+sem conta,12,pagamento em dia,radio/televisão,3059,>1000,"[4,7) anos",2,masculino/divorciado,nenhum,4,imobiliario,61,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),30,conta crítica,carro novo,5234,<100,desempregado,4,masculino/casado,nenhum,2,carro,28,nenhum,própria,2,nível 3,1,não,não,mau
+[0-200),12,pagamento em dia,carro novo,1295,<100,< 1 ano,3,feminino/divorciado,nenhum,1,carro,25,nenhum,alugada,1,nível 2,1,não,não,mau
+negativo,48,pagamento em dia,negócios,4308,<100,< 1 ano,3,feminino/divorciado,nenhum,4,seguro  de vida,24,nenhum,alugada,1,nível 2,1,não,não,mau
+[0-200),12,pagamento em dia,radio/televisão,1567,<100,"[1,4) anos",1,feminino/divorciado,nenhum,1,carro,22,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,24,conta crítica,carro novo,1199,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,60,nenhum,própria,2,nível 1,1,não,não,mau
+negativo,15,pagamento em dia,carro novo,1403,<100,"[1,4) anos",2,feminino/divorciado,nenhum,4,carro,28,nenhum,alugada,1,nível 2,1,não,não,bom
+negativo,24,pagamento em dia,radio/televisão,1282,[100-500),"[1,4) anos",4,feminino/divorciado,nenhum,2,carro,32,nenhum,própria,1,nível 1,1,não,não,mau
+sem conta,24,conta crítica,radio/televisão,2424,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,53,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,30,primeira vez,negócios,8072,sem conta,< 1 ano,2,masculino/solteiro,nenhum,3,carro,25,bancos,própria,3,nível 2,1,não,não,bom
+[0-200),24,pagamento em dia,carro usado,12579,<100,> 7 anos,4,feminino/divorciado,nenhum,2,sem propriedades,44,nenhum,de graça,1,nível 3,1,sim,não,mau
+sem conta,24,pagamento em dia,radio/televisão,3430,[500-1000),> 7 anos,3,masculino/solteiro,nenhum,2,carro,31,nenhum,própria,1,nível 2,2,sim,não,bom
+sem conta,9,conta crítica,carro novo,2134,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,carro,48,nenhum,própria,3,nível 2,1,sim,não,bom
+negativo,6,pagamento em dia,radio/televisão,2647,[500-1000),"[1,4) anos",2,masculino/solteiro,nenhum,3,imobiliario,44,nenhum,alugada,1,nível 2,2,não,não,bom
+negativo,10,conta crítica,carro novo,2241,<100,< 1 ano,1,masculino/solteiro,nenhum,3,imobiliario,48,nenhum,alugada,2,nível 1,2,não,sim,bom
+[0-200),12,conta crítica,carro usado,1804,[100-500),< 1 ano,3,masculino/solteiro,nenhum,4,seguro  de vida,44,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,10,conta crítica,móveis,2069,sem conta,"[1,4) anos",2,masculino/casado,nenhum,1,carro,26,nenhum,própria,2,nível 2,1,não,sim,bom
+negativo,6,pagamento em dia,móveis,1374,<100,"[1,4) anos",1,masculino/solteiro,nenhum,2,imobiliario,36,bancos,própria,1,nível 1,1,sim,não,bom
+sem conta,6,primeira vez,radio/televisão,426,<100,> 7 anos,4,masculino/casado,nenhum,4,carro,39,nenhum,própria,1,nível 1,1,não,não,bom
+200+,12,creditos quitados,radio/televisão,409,>1000,"[1,4) anos",3,feminino/divorciado,nenhum,3,imobiliario,42,nenhum,alugada,2,nível 2,1,não,não,bom
+[0-200),7,pagamento em dia,radio/televisão,2415,<100,"[1,4) anos",3,masculino/solteiro,fiador,2,imobiliario,34,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,60,já atrasou pagamentos,negócios,6836,<100,> 7 anos,3,masculino/solteiro,nenhum,4,sem propriedades,63,nenhum,própria,2,nível 2,1,sim,não,mau
+[0-200),18,pagamento em dia,negócios,1913,>1000,< 1 ano,3,masculino/casado,nenhum,3,imobiliario,36,bancos,própria,1,nível 2,1,sim,não,bom
+negativo,24,pagamento em dia,móveis,4020,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,27,lojas,própria,1,nível 2,1,não,não,bom
+[0-200),18,pagamento em dia,carro novo,5866,[100-500),"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,30,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,12,conta crítica,negócios,1264,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,57,nenhum,alugada,1,nível 1,1,não,não,bom
+200+,12,pagamento em dia,móveis,1474,<100,< 1 ano,4,feminino/divorciado,nenhum,1,seguro  de vida,33,bancos,própria,1,nível 3,1,sim,não,bom
+[0-200),45,conta crítica,radio/televisão,4746,<100,< 1 ano,4,masculino/solteiro,nenhum,2,seguro  de vida,25,nenhum,própria,2,nível 1,1,não,não,mau
+sem conta,48,conta crítica,educação,6110,<100,"[1,4) anos",1,masculino/solteiro,nenhum,3,sem propriedades,31,bancos,de graça,1,nível 2,1,sim,não,bom
+200+,18,pagamento em dia,radio/televisão,2100,<100,"[1,4) anos",4,masculino/solteiro,co-aplicante,2,imobiliario,37,lojas,própria,1,nível 2,1,não,não,mau
+200+,10,pagamento em dia,itens de casa,1225,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,37,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),9,pagamento em dia,radio/televisão,458,<100,"[1,4) anos",4,masculino/solteiro,nenhum,3,imobiliario,24,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,30,pagamento em dia,radio/televisão,2333,[500-1000),> 7 anos,4,masculino/solteiro,nenhum,2,carro,30,bancos,própria,1,nível 3,1,não,não,bom
+[0-200),12,pagamento em dia,radio/televisão,1158,[500-1000),"[1,4) anos",3,masculino/divorciado,nenhum,1,carro,26,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),18,já atrasou pagamentos,reparos,6204,<100,"[1,4) anos",2,masculino/solteiro,nenhum,4,imobiliario,44,nenhum,própria,1,nível 1,2,sim,não,bom
+negativo,30,conta crítica,carro usado,6187,[100-500),"[4,7) anos",1,masculino/casado,nenhum,4,carro,24,nenhum,alugada,2,nível 2,1,não,não,bom
+negativo,48,conta crítica,carro usado,6143,<100,> 7 anos,4,feminino/divorciado,nenhum,4,sem propriedades,58,lojas,de graça,2,nível 1,1,não,não,mau
+sem conta,11,conta crítica,carro novo,1393,<100,< 1 ano,4,feminino/divorciado,nenhum,4,carro,35,nenhum,própria,2,nível 3,1,não,não,bom
+sem conta,36,pagamento em dia,radio/televisão,2299,[500-1000),> 7 anos,4,masculino/solteiro,nenhum,4,carro,39,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,6,pagamento em dia,carro usado,1352,[500-1000),desempregado,1,feminino/divorciado,nenhum,2,seguro  de vida,23,nenhum,alugada,1,desempregado,1,sim,não,bom
+sem conta,11,conta crítica,carro novo,7228,<100,"[1,4) anos",1,masculino/solteiro,nenhum,4,seguro  de vida,39,nenhum,própria,2,nível 1,1,não,não,bom
+sem conta,12,pagamento em dia,radio/televisão,2073,[100-500),"[1,4) anos",4,feminino/divorciado,co-aplicante,2,imobiliario,28,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),24,já atrasou pagamentos,móveis,2333,sem conta,< 1 ano,4,masculino/solteiro,nenhum,2,seguro  de vida,29,bancos,própria,1,nível 1,1,não,não,bom
+[0-200),27,já atrasou pagamentos,carro usado,5965,<100,> 7 anos,1,masculino/solteiro,nenhum,2,carro,30,nenhum,própria,2,nível 3,1,sim,não,bom
+sem conta,12,pagamento em dia,radio/televisão,1262,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,carro,25,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,18,pagamento em dia,carro usado,3378,sem conta,"[1,4) anos",2,masculino/solteiro,nenhum,1,seguro  de vida,31,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),36,já atrasou pagamentos,carro novo,2225,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,57,bancos,de graça,2,nível 2,1,sim,não,mau
+sem conta,6,creditos quitados,carro novo,783,sem conta,"[1,4) anos",1,masculino/solteiro,fiador,2,imobiliario,26,lojas,própria,1,nível 1,2,não,não,bom
+[0-200),12,pagamento em dia,radio/televisão,6468,sem conta,desempregado,2,masculino/solteiro,nenhum,1,sem propriedades,52,nenhum,própria,1,nível 3,1,sim,não,mau
+sem conta,36,conta crítica,radio/televisão,9566,<100,"[1,4) anos",2,feminino/divorciado,nenhum,2,carro,31,lojas,própria,2,nível 2,1,não,não,bom
+200+,18,pagamento em dia,carro novo,1961,<100,> 7 anos,3,feminino/divorciado,nenhum,2,carro,23,nenhum,própria,1,nível 3,1,não,não,bom
+negativo,36,conta crítica,móveis,6229,<100,< 1 ano,4,feminino/divorciado,co-aplicante,4,sem propriedades,23,nenhum,alugada,2,nível 1,1,sim,não,mau
+[0-200),9,pagamento em dia,negócios,1391,<100,"[1,4) anos",2,masculino/casado,nenhum,1,imobiliario,27,bancos,própria,1,nível 2,1,sim,não,bom
+[0-200),15,conta crítica,radio/televisão,1537,sem conta,> 7 anos,4,masculino/solteiro,fiador,4,imobiliario,50,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),36,primeira vez,negócios,1953,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,61,nenhum,de graça,1,nível 3,1,sim,não,mau
+[0-200),48,primeira vez,negócios,14421,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,25,nenhum,própria,1,nível 2,1,sim,não,mau
+sem conta,24,pagamento em dia,radio/televisão,3181,<100,< 1 ano,4,feminino/divorciado,nenhum,4,seguro  de vida,26,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,27,pagamento em dia,reparos,5190,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,48,nenhum,própria,4,nível 2,2,sim,não,bom
+sem conta,12,pagamento em dia,radio/televisão,2171,<100,< 1 ano,2,feminino/divorciado,nenhum,2,carro,29,bancos,própria,1,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,carro novo,1007,>1000,"[1,4) anos",4,masculino/casado,nenhum,1,imobiliario,22,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,36,pagamento em dia,educação,1819,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,sem propriedades,37,lojas,de graça,1,nível 2,1,sim,não,mau
+sem conta,36,pagamento em dia,radio/televisão,2394,sem conta,"[1,4) anos",4,feminino/divorciado,nenhum,4,carro,25,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,36,pagamento em dia,carro usado,8133,<100,"[1,4) anos",1,feminino/divorciado,nenhum,2,seguro  de vida,30,bancos,própria,1,nível 2,1,não,não,bom
+sem conta,7,conta crítica,radio/televisão,730,sem conta,> 7 anos,4,masculino/solteiro,nenhum,2,seguro  de vida,46,nenhum,alugada,2,nível 1,1,sim,não,bom
+negativo,8,conta crítica,outros,1164,<100,> 7 anos,3,masculino/solteiro,nenhum,4,sem propriedades,51,bancos,de graça,2,nível 3,2,sim,não,bom
+[0-200),42,conta crítica,negócios,5954,<100,"[4,7) anos",2,feminino/divorciado,nenhum,1,imobiliario,41,bancos,própria,2,nível 1,1,não,não,bom
+negativo,36,pagamento em dia,educação,1977,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,40,nenhum,própria,1,nível 3,1,sim,não,mau
+negativo,12,conta crítica,carro usado,1526,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,66,nenhum,de graça,2,nível 3,1,não,não,bom
+negativo,42,pagamento em dia,radio/televisão,3965,<100,< 1 ano,4,masculino/solteiro,nenhum,3,carro,34,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),11,já atrasou pagamentos,radio/televisão,4771,<100,"[4,7) anos",2,masculino/solteiro,nenhum,4,seguro  de vida,51,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,54,primeira vez,carro usado,9436,sem conta,"[1,4) anos",2,masculino/solteiro,nenhum,2,seguro  de vida,39,nenhum,própria,1,nível 1,2,não,não,bom
+[0-200),30,pagamento em dia,móveis,3832,<100,< 1 ano,2,masculino/casado,nenhum,1,seguro  de vida,22,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,radio/televisão,5943,sem conta,< 1 ano,1,feminino/divorciado,nenhum,1,carro,44,nenhum,própria,2,nível 2,1,sim,não,mau
+sem conta,15,pagamento em dia,radio/televisão,1213,[500-1000),> 7 anos,4,masculino/solteiro,nenhum,3,seguro  de vida,47,lojas,própria,1,nível 2,1,sim,não,bom
+sem conta,18,pagamento em dia,negócios,1568,[100-500),"[1,4) anos",3,feminino/divorciado,nenhum,4,seguro  de vida,24,nenhum,alugada,1,nível 1,1,não,não,bom
+negativo,24,pagamento em dia,outros,1755,<100,> 7 anos,4,feminino/divorciado,fiador,4,imobiliario,58,nenhum,própria,1,nível 1,1,sim,não,bom
+negativo,10,pagamento em dia,radio/televisão,2315,<100,> 7 anos,3,masculino/solteiro,nenhum,4,imobiliario,52,nenhum,própria,1,nível 1,1,não,não,bom
+sem conta,12,conta crítica,negócios,1412,<100,"[1,4) anos",4,feminino/divorciado,fiador,2,imobiliario,29,nenhum,própria,2,nível 3,1,sim,não,bom
+[0-200),18,conta crítica,móveis,1295,<100,< 1 ano,4,feminino/divorciado,nenhum,1,seguro  de vida,27,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),36,pagamento em dia,educação,12612,[100-500),"[1,4) anos",1,masculino/solteiro,nenhum,4,sem propriedades,47,nenhum,de graça,1,nível 2,2,sim,não,mau
+negativo,18,pagamento em dia,carro novo,2249,[100-500),"[4,7) anos",4,masculino/solteiro,nenhum,3,carro,30,nenhum,própria,1,nível 3,2,sim,não,bom
+negativo,12,primeira vez,reparos,1108,<100,"[4,7) anos",4,masculino/solteiro,nenhum,3,imobiliario,28,nenhum,própria,2,nível 2,1,não,não,mau
+sem conta,12,conta crítica,radio/televisão,618,<100,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,56,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,12,conta crítica,carro usado,1409,<100,> 7 anos,4,masculino/solteiro,nenhum,3,imobiliario,54,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,12,conta crítica,radio/televisão,797,sem conta,> 7 anos,4,feminino/divorciado,nenhum,3,seguro  de vida,33,bancos,própria,1,nível 1,2,não,não,mau
+200+,24,conta crítica,móveis,3617,sem conta,> 7 anos,4,masculino/solteiro,co-aplicante,4,sem propriedades,20,nenhum,alugada,2,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,carro novo,1318,>1000,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,54,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),54,primeira vez,negócios,15945,<100,< 1 ano,3,masculino/solteiro,nenhum,4,sem propriedades,58,nenhum,alugada,1,nível 2,1,sim,não,mau
+sem conta,12,conta crítica,educação,2012,sem conta,"[4,7) anos",4,feminino/divorciado,nenhum,2,carro,61,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),18,pagamento em dia,negócios,2622,[100-500),"[1,4) anos",4,masculino/solteiro,nenhum,4,carro,34,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),36,conta crítica,radio/televisão,2337,<100,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,36,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),20,já atrasou pagamentos,carro usado,7057,sem conta,"[4,7) anos",3,masculino/solteiro,nenhum,4,seguro  de vida,36,bancos,alugada,2,nível 3,2,sim,não,bom
+sem conta,24,pagamento em dia,carro novo,1469,[100-500),> 7 anos,4,masculino/casado,nenhum,4,imobiliario,41,nenhum,alugada,1,nível 1,1,não,não,bom
+[0-200),36,pagamento em dia,radio/televisão,2323,<100,"[4,7) anos",4,masculino/solteiro,nenhum,4,carro,24,nenhum,alugada,1,nível 2,1,não,não,bom
+sem conta,6,já atrasou pagamentos,radio/televisão,932,<100,"[1,4) anos",3,feminino/divorciado,nenhum,2,imobiliario,24,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),9,conta crítica,móveis,1919,<100,"[4,7) anos",4,masculino/solteiro,nenhum,3,carro,35,nenhum,alugada,1,nível 2,1,sim,não,bom
+sem conta,12,pagamento em dia,carro usado,2445,sem conta,< 1 ano,2,masculino/casado,nenhum,4,carro,26,nenhum,alugada,1,nível 2,1,sim,não,bom
+[0-200),24,conta crítica,outros,11938,<100,"[1,4) anos",2,masculino/solteiro,co-aplicante,3,carro,39,nenhum,própria,2,nível 3,2,sim,não,mau
+sem conta,18,creditos quitados,carro novo,6458,<100,> 7 anos,2,masculino/solteiro,nenhum,4,sem propriedades,39,bancos,própria,2,nível 3,2,sim,não,mau
+[0-200),12,pagamento em dia,carro novo,6078,<100,"[4,7) anos",2,masculino/solteiro,nenhum,2,carro,32,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,24,pagamento em dia,móveis,7721,sem conta,< 1 ano,1,feminino/divorciado,nenhum,2,seguro  de vida,30,nenhum,própria,1,nível 2,1,sim,sim,bom
+[0-200),14,pagamento em dia,negócios,1410,[500-1000),> 7 anos,1,masculino/casado,nenhum,2,imobiliario,35,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),6,já atrasou pagamentos,negócios,1449,[100-500),> 7 anos,1,masculino/divorciado,nenhum,2,carro,31,bancos,própria,2,nível 2,2,não,não,bom
+200+,15,pagamento em dia,educação,392,<100,< 1 ano,4,feminino/divorciado,nenhum,4,seguro  de vida,23,nenhum,alugada,1,nível 2,1,sim,não,bom
+[0-200),18,pagamento em dia,carro novo,6260,<100,"[4,7) anos",3,masculino/solteiro,nenhum,3,imobiliario,28,nenhum,alugada,1,nível 1,1,não,não,bom
+sem conta,36,conta crítica,carro novo,7855,<100,"[1,4) anos",4,feminino/divorciado,nenhum,2,imobiliario,25,lojas,própria,2,nível 2,1,sim,não,mau
+negativo,12,pagamento em dia,radio/televisão,1680,[500-1000),> 7 anos,3,masculino/casado,nenhum,1,imobiliario,35,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,48,conta crítica,radio/televisão,3578,sem conta,> 7 anos,4,masculino/solteiro,nenhum,1,imobiliario,47,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,42,pagamento em dia,radio/televisão,7174,sem conta,"[4,7) anos",4,feminino/divorciado,nenhum,3,carro,30,nenhum,própria,1,nível 3,1,sim,não,mau
+negativo,10,conta crítica,móveis,2132,sem conta,< 1 ano,2,feminino/divorciado,co-aplicante,3,imobiliario,27,nenhum,alugada,2,nível 2,1,não,sim,bom
+negativo,33,conta crítica,móveis,4281,[500-1000),"[1,4) anos",1,feminino/divorciado,nenhum,4,carro,23,nenhum,própria,2,nível 2,1,não,não,mau
+[0-200),12,conta crítica,carro novo,2366,[500-1000),"[4,7) anos",3,masculino/divorciado,nenhum,3,carro,36,nenhum,própria,1,nível 3,1,sim,não,bom
+negativo,21,pagamento em dia,radio/televisão,1835,<100,"[1,4) anos",3,feminino/divorciado,nenhum,2,imobiliario,25,nenhum,própria,2,nível 2,1,sim,não,mau
+sem conta,24,conta crítica,carro usado,3868,<100,> 7 anos,4,feminino/divorciado,nenhum,2,carro,41,nenhum,alugada,2,nível 3,1,sim,não,bom
+sem conta,12,pagamento em dia,móveis,1768,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,imobiliario,24,nenhum,alugada,1,nível 1,1,não,não,bom
+200+,10,conta crítica,carro novo,781,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,63,nenhum,de graça,2,nível 2,1,sim,não,bom
+[0-200),18,pagamento em dia,móveis,1924,sem conta,< 1 ano,4,feminino/divorciado,nenhum,3,imobiliario,27,nenhum,alugada,1,nível 2,1,não,não,mau
+negativo,12,conta crítica,carro novo,2121,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,30,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,12,pagamento em dia,radio/televisão,701,<100,"[1,4) anos",4,masculino/casado,nenhum,2,imobiliario,40,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),12,pagamento em dia,reparos,639,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,30,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),12,conta crítica,carro usado,1860,<100,desempregado,4,masculino/solteiro,nenhum,2,carro,34,nenhum,própria,2,nível 3,1,sim,não,bom
+negativo,12,conta crítica,carro novo,3499,<100,"[1,4) anos",3,feminino/divorciado,co-aplicante,2,imobiliario,29,nenhum,própria,2,nível 2,1,não,não,mau
+[0-200),48,pagamento em dia,carro novo,8487,sem conta,"[4,7) anos",1,feminino/divorciado,nenhum,2,carro,24,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,36,já atrasou pagamentos,educação,6887,<100,"[1,4) anos",4,masculino/solteiro,nenhum,3,seguro  de vida,29,lojas,própria,1,nível 2,1,sim,não,mau
+sem conta,15,pagamento em dia,móveis,2708,<100,< 1 ano,2,masculino/solteiro,nenhum,3,seguro  de vida,27,bancos,própria,2,nível 1,1,não,não,bom
+sem conta,18,pagamento em dia,móveis,1984,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,sem propriedades,47,bancos,de graça,2,nível 2,1,não,não,bom
+sem conta,60,pagamento em dia,radio/televisão,10144,[100-500),"[4,7) anos",2,feminino/divorciado,nenhum,4,imobiliario,21,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,12,conta crítica,radio/televisão,1240,sem conta,> 7 anos,4,feminino/divorciado,nenhum,2,imobiliario,38,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,27,já atrasou pagamentos,carro usado,8613,>1000,"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,27,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,radio/televisão,766,[500-1000),"[1,4) anos",4,masculino/solteiro,nenhum,3,imobiliario,66,nenhum,própria,1,nível 1,1,não,não,mau
+[0-200),15,conta crítica,radio/televisão,2728,sem conta,"[4,7) anos",4,masculino/solteiro,fiador,2,imobiliario,35,bancos,própria,3,nível 2,1,sim,não,bom
+200+,12,pagamento em dia,radio/televisão,1881,<100,"[1,4) anos",2,feminino/divorciado,nenhum,2,carro,44,nenhum,alugada,1,nível 1,1,sim,não,bom
+200+,6,pagamento em dia,carro novo,709,>1000,< 1 ano,2,masculino/casado,nenhum,2,imobiliario,27,nenhum,própria,1,desempregado,1,não,sim,bom
+[0-200),36,pagamento em dia,radio/televisão,4795,<100,< 1 ano,4,feminino/divorciado,nenhum,1,sem propriedades,30,nenhum,própria,1,nível 3,1,sim,não,bom
+negativo,27,pagamento em dia,radio/televisão,3416,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,carro,27,nenhum,própria,1,nível 3,1,não,não,bom
+negativo,18,pagamento em dia,móveis,2462,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,22,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,21,conta crítica,móveis,2288,<100,< 1 ano,4,feminino/divorciado,nenhum,4,seguro  de vida,23,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),48,creditos quitados,negócios,3566,[100-500),"[4,7) anos",4,masculino/solteiro,nenhum,2,carro,30,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,6,conta crítica,carro novo,860,<100,> 7 anos,1,feminino/divorciado,nenhum,4,sem propriedades,39,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,12,conta crítica,carro novo,682,[100-500),"[4,7) anos",4,feminino/divorciado,nenhum,3,carro,51,nenhum,própria,2,nível 2,1,sim,não,bom
+negativo,36,conta crítica,móveis,5371,<100,"[1,4) anos",3,masculino/solteiro,fiador,2,seguro  de vida,28,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,18,conta crítica,radio/televisão,1582,>1000,> 7 anos,4,masculino/solteiro,nenhum,4,carro,46,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,6,pagamento em dia,radio/televisão,1346,[100-500),> 7 anos,2,masculino/solteiro,nenhum,4,sem propriedades,42,bancos,de graça,1,nível 2,2,sim,não,bom
+sem conta,10,pagamento em dia,radio/televisão,1924,<100,"[1,4) anos",1,masculino/solteiro,nenhum,4,seguro  de vida,38,nenhum,própria,1,nível 2,1,sim,sim,bom
+200+,36,pagamento em dia,radio/televisão,5848,<100,"[1,4) anos",4,masculino/solteiro,nenhum,1,carro,24,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),24,conta crítica,carro usado,7758,>1000,> 7 anos,2,feminino/divorciado,nenhum,4,sem propriedades,29,nenhum,alugada,1,nível 2,1,não,não,bom
+[0-200),24,já atrasou pagamentos,negócios,6967,[100-500),"[4,7) anos",4,masculino/solteiro,nenhum,4,carro,36,nenhum,alugada,1,nível 3,1,sim,não,bom
+negativo,12,pagamento em dia,móveis,1282,<100,"[1,4) anos",2,feminino/divorciado,nenhum,4,carro,20,nenhum,alugada,1,nível 2,1,não,não,mau
+negativo,9,conta crítica,reparos,1288,[100-500),> 7 anos,3,masculino/solteiro,fiador,4,imobiliario,48,nenhum,própria,2,nível 2,2,não,sim,bom
+negativo,12,creditos quitados,retreinamentos,339,<100,> 7 anos,4,masculino/casado,nenhum,1,carro,45,bancos,própria,1,nível 1,1,não,não,bom
+[0-200),24,pagamento em dia,carro novo,3512,[100-500),"[4,7) anos",2,masculino/solteiro,nenhum,3,carro,38,bancos,própria,2,nível 2,1,sim,não,bom
+sem conta,6,conta crítica,radio/televisão,1898,sem conta,"[1,4) anos",1,masculino/solteiro,nenhum,2,imobiliario,34,nenhum,própria,2,nível 1,2,não,não,bom
+sem conta,24,conta crítica,radio/televisão,2872,[100-500),> 7 anos,3,masculino/solteiro,nenhum,4,imobiliario,36,nenhum,própria,1,nível 2,2,sim,não,bom
+sem conta,18,conta crítica,carro novo,1055,<100,< 1 ano,4,feminino/divorciado,nenhum,1,seguro  de vida,30,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,15,pagamento em dia,itens de casa,1262,[500-1000),"[4,7) anos",4,masculino/solteiro,nenhum,3,seguro  de vida,36,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),10,pagamento em dia,carro novo,7308,<100,desempregado,2,masculino/solteiro,nenhum,4,sem propriedades,70,bancos,de graça,1,nível 3,1,sim,não,bom
+sem conta,36,pagamento em dia,carro novo,909,[500-1000),> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,36,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,6,pagamento em dia,móveis,2978,[500-1000),"[1,4) anos",1,masculino/solteiro,nenhum,2,carro,32,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,18,pagamento em dia,móveis,1131,<100,desempregado,4,feminino/divorciado,nenhum,2,carro,33,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),11,pagamento em dia,móveis,1577,>1000,< 1 ano,4,feminino/divorciado,nenhum,1,imobiliario,20,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,móveis,3972,<100,"[4,7) anos",2,feminino/divorciado,nenhum,4,seguro  de vida,25,nenhum,alugada,1,nível 2,1,sim,não,bom
+[0-200),24,conta crítica,negócios,1935,<100,> 7 anos,4,masculino/divorciado,nenhum,4,imobiliario,31,nenhum,própria,2,nível 2,1,sim,não,mau
+negativo,15,primeira vez,carro novo,950,<100,> 7 anos,4,masculino/solteiro,nenhum,3,carro,33,nenhum,alugada,2,nível 2,2,não,não,mau
+sem conta,12,pagamento em dia,móveis,763,<100,"[1,4) anos",4,feminino/divorciado,nenhum,1,imobiliario,26,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),24,já atrasou pagamentos,móveis,2064,<100,desempregado,3,feminino/divorciado,nenhum,2,seguro  de vida,34,nenhum,própria,1,nível 3,1,sim,não,mau
+[0-200),8,pagamento em dia,radio/televisão,1414,<100,"[1,4) anos",4,masculino/solteiro,fiador,2,imobiliario,33,nenhum,própria,1,nível 2,1,não,sim,bom
+negativo,21,já atrasou pagamentos,educação,3414,<100,< 1 ano,2,masculino/solteiro,nenhum,1,seguro  de vida,26,nenhum,própria,2,nível 2,1,não,não,mau
+sem conta,30,creditos quitados,carro usado,7485,sem conta,desempregado,4,feminino/divorciado,nenhum,1,imobiliario,53,bancos,própria,1,nível 3,1,sim,não,mau
+negativo,12,pagamento em dia,móveis,2577,<100,"[1,4) anos",2,masculino/divorciado,nenhum,1,carro,42,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,6,conta crítica,radio/televisão,338,[500-1000),> 7 anos,4,masculino/solteiro,nenhum,4,carro,52,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,12,pagamento em dia,radio/televisão,1963,<100,"[4,7) anos",4,masculino/solteiro,nenhum,2,carro,31,nenhum,alugada,2,nível 3,2,sim,não,bom
+negativo,21,conta crítica,carro novo,571,<100,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,65,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,36,já atrasou pagamentos,negócios,9572,<100,< 1 ano,1,masculino/divorciado,nenhum,1,carro,28,nenhum,própria,2,nível 2,1,não,não,mau
+[0-200),36,já atrasou pagamentos,negócios,4455,<100,"[1,4) anos",2,masculino/divorciado,nenhum,2,imobiliario,30,lojas,própria,2,nível 3,1,sim,não,mau
+negativo,21,creditos quitados,carro novo,1647,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,40,nenhum,própria,2,nível 1,2,não,não,mau
+sem conta,24,conta crítica,móveis,3777,>1000,"[1,4) anos",4,masculino/solteiro,nenhum,4,imobiliario,50,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),18,conta crítica,carro novo,884,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,36,bancos,própria,1,nível 2,2,sim,não,mau
+sem conta,15,conta crítica,radio/televisão,1360,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,31,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),9,creditos quitados,carro usado,5129,<100,> 7 anos,2,feminino/divorciado,nenhum,4,sem propriedades,74,bancos,de graça,1,nível 3,2,sim,não,mau
+[0-200),16,conta crítica,carro novo,1175,<100,desempregado,2,masculino/solteiro,nenhum,3,carro,68,nenhum,de graça,3,desempregado,1,sim,não,bom
+negativo,12,pagamento em dia,radio/televisão,674,[100-500),"[4,7) anos",4,masculino/casado,nenhum,1,seguro  de vida,20,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),18,primeira vez,móveis,3244,<100,"[1,4) anos",1,feminino/divorciado,nenhum,4,carro,33,bancos,própria,2,nível 2,1,sim,não,bom
+sem conta,24,pagamento em dia,negócios,4591,>1000,"[1,4) anos",2,masculino/solteiro,nenhum,3,seguro  de vida,54,nenhum,própria,3,nível 3,1,sim,não,mau
+[0-200),48,primeira vez,negócios,3844,[100-500),"[4,7) anos",4,masculino/solteiro,nenhum,4,sem propriedades,34,nenhum,de graça,1,nível 1,2,não,não,mau
+[0-200),27,pagamento em dia,negócios,3915,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,36,nenhum,própria,1,nível 2,2,sim,não,mau
+sem conta,6,pagamento em dia,radio/televisão,2108,<100,"[4,7) anos",2,masculino/casado,nenhum,2,imobiliario,29,nenhum,alugada,1,nível 2,1,não,não,bom
+[0-200),45,pagamento em dia,radio/televisão,3031,[100-500),"[1,4) anos",4,masculino/solteiro,fiador,4,seguro  de vida,21,nenhum,alugada,1,nível 2,1,não,não,mau
+[0-200),9,conta crítica,educação,1501,<100,> 7 anos,2,feminino/divorciado,nenhum,3,carro,34,nenhum,própria,2,nível 3,1,sim,não,mau
+sem conta,6,conta crítica,radio/televisão,1382,<100,"[1,4) anos",1,feminino/divorciado,nenhum,1,carro,28,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),12,pagamento em dia,móveis,951,[100-500),< 1 ano,4,feminino/divorciado,nenhum,4,carro,27,bancos,alugada,4,nível 2,1,não,não,mau
+[0-200),24,pagamento em dia,carro usado,2760,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,36,bancos,de graça,1,nível 2,1,sim,não,bom
+[0-200),18,já atrasou pagamentos,móveis,4297,<100,> 7 anos,4,masculino/divorciado,nenhum,3,sem propriedades,40,nenhum,própria,1,nível 3,1,sim,não,mau
+sem conta,9,conta crítica,educação,936,[500-1000),> 7 anos,4,masculino/solteiro,nenhum,2,carro,52,nenhum,própria,2,nível 2,1,sim,não,bom
+negativo,12,pagamento em dia,carro novo,1168,<100,"[1,4) anos",4,masculino/casado,nenhum,3,imobiliario,27,nenhum,própria,1,nível 1,1,não,não,bom
+sem conta,27,já atrasou pagamentos,negócios,5117,<100,"[4,7) anos",3,masculino/solteiro,nenhum,4,carro,26,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,12,pagamento em dia,retreinamentos,902,<100,"[4,7) anos",4,masculino/casado,nenhum,4,seguro  de vida,21,nenhum,alugada,1,nível 2,1,não,não,mau
+sem conta,12,conta crítica,carro novo,1495,<100,> 7 anos,4,masculino/solteiro,nenhum,1,imobiliario,38,nenhum,própria,2,nível 1,2,não,não,bom
+negativo,30,conta crítica,carro usado,10623,<100,> 7 anos,3,masculino/solteiro,nenhum,4,sem propriedades,38,nenhum,de graça,3,nível 3,2,sim,não,bom
+sem conta,12,conta crítica,móveis,1935,<100,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,43,nenhum,própria,3,nível 2,1,sim,não,bom
+[0-200),12,conta crítica,itens de casa,1424,<100,"[4,7) anos",4,masculino/solteiro,nenhum,3,seguro  de vida,26,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,24,pagamento em dia,negócios,6568,<100,"[1,4) anos",2,masculino/casado,nenhum,2,carro,21,lojas,própria,1,nível 1,1,não,não,bom
+sem conta,12,pagamento em dia,carro usado,1413,>1000,"[4,7) anos",3,masculino/solteiro,nenhum,2,seguro  de vida,55,nenhum,própria,1,nível 2,1,não,sim,bom
+sem conta,9,conta crítica,radio/televisão,3074,sem conta,"[1,4) anos",1,masculino/solteiro,nenhum,2,imobiliario,33,nenhum,própria,2,nível 2,2,não,não,bom
+sem conta,36,pagamento em dia,radio/televisão,3835,sem conta,> 7 anos,2,feminino/divorciado,nenhum,4,imobiliario,45,nenhum,própria,1,nível 1,1,sim,não,bom
+negativo,27,primeira vez,negócios,5293,<100,desempregado,2,masculino/solteiro,nenhum,4,seguro  de vida,50,lojas,própria,2,nível 2,1,sim,não,mau
+200+,30,já atrasou pagamentos,negócios,1908,<100,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,66,nenhum,própria,1,nível 3,1,sim,não,mau
+sem conta,36,conta crítica,radio/televisão,3342,sem conta,> 7 anos,4,masculino/solteiro,nenhum,2,carro,51,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),6,conta crítica,retreinamentos,932,sem conta,"[4,7) anos",1,feminino/divorciado,nenhum,3,seguro  de vida,39,nenhum,própria,2,nível 1,1,não,não,bom
+negativo,18,primeira vez,negócios,3104,<100,"[4,7) anos",3,masculino/solteiro,nenhum,1,seguro  de vida,31,bancos,própria,1,nível 2,1,sim,não,bom
+200+,36,pagamento em dia,radio/televisão,3913,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,imobiliario,23,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,24,pagamento em dia,móveis,3021,<100,"[1,4) anos",2,masculino/divorciado,nenhum,2,imobiliario,24,nenhum,alugada,1,nível 1,1,não,não,bom
+sem conta,10,pagamento em dia,carro novo,1364,<100,"[1,4) anos",2,feminino/divorciado,nenhum,4,carro,64,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),12,pagamento em dia,radio/televisão,625,<100,< 1 ano,4,masculino/casado,fiador,1,imobiliario,26,bancos,própria,1,nível 1,1,não,não,bom
+negativo,12,pagamento em dia,educação,1200,sem conta,"[1,4) anos",4,feminino/divorciado,nenhum,4,seguro  de vida,23,bancos,alugada,1,nível 2,1,sim,não,bom
+sem conta,12,pagamento em dia,radio/televisão,707,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,imobiliario,30,bancos,própria,2,nível 2,1,não,não,bom
+sem conta,24,já atrasou pagamentos,negócios,2978,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,4,imobiliario,32,nenhum,própria,2,nível 2,2,sim,não,bom
+sem conta,15,pagamento em dia,carro usado,4657,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,carro,30,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,36,primeira vez,reparos,2613,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,27,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),48,pagamento em dia,radio/televisão,10961,>1000,"[4,7) anos",1,masculino/solteiro,co-aplicante,2,sem propriedades,27,bancos,própria,2,nível 2,1,sim,não,mau
+negativo,12,pagamento em dia,móveis,7865,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,53,nenhum,de graça,1,nível 3,1,sim,não,mau
+sem conta,9,pagamento em dia,radio/televisão,1478,<100,"[4,7) anos",4,masculino/solteiro,nenhum,2,carro,22,nenhum,própria,1,nível 2,1,não,não,mau
+negativo,24,pagamento em dia,móveis,3149,<100,< 1 ano,4,masculino/solteiro,nenhum,1,sem propriedades,22,bancos,de graça,1,nível 2,1,não,não,bom
+200+,36,pagamento em dia,radio/televisão,4210,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,26,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,9,pagamento em dia,carro novo,2507,[500-1000),> 7 anos,2,masculino/solteiro,nenhum,4,sem propriedades,51,nenhum,de graça,1,nível 1,1,não,não,bom
+sem conta,12,pagamento em dia,radio/televisão,2141,[100-500),"[4,7) anos",3,masculino/solteiro,nenhum,1,sem propriedades,35,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),18,pagamento em dia,radio/televisão,866,<100,"[1,4) anos",4,masculino/casado,fiador,2,imobiliario,25,nenhum,própria,1,nível 1,1,não,não,bom
+sem conta,4,conta crítica,radio/televisão,1544,<100,"[4,7) anos",2,masculino/solteiro,nenhum,1,imobiliario,42,nenhum,própria,3,nível 1,2,não,não,bom
+negativo,24,pagamento em dia,radio/televisão,1823,<100,desempregado,4,masculino/solteiro,nenhum,2,carro,30,lojas,própria,1,nível 3,2,não,não,mau
+[0-200),6,pagamento em dia,carro novo,14555,sem conta,desempregado,1,masculino/solteiro,nenhum,2,seguro  de vida,23,nenhum,própria,1,desempregado,1,sim,não,mau
+[0-200),21,pagamento em dia,negócios,2767,[100-500),> 7 anos,4,masculino/divorciado,nenhum,2,carro,61,bancos,alugada,2,nível 1,1,não,não,mau
+sem conta,12,conta crítica,radio/televisão,1291,<100,"[1,4) anos",4,feminino/divorciado,nenhum,2,seguro  de vida,35,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,30,pagamento em dia,radio/televisão,2522,<100,> 7 anos,1,masculino/solteiro,fiador,3,seguro  de vida,39,nenhum,própria,1,nível 2,2,não,não,bom
+negativo,24,pagamento em dia,carro novo,915,sem conta,> 7 anos,4,feminino/divorciado,nenhum,2,carro,29,bancos,própria,1,nível 2,1,não,não,mau
+sem conta,6,pagamento em dia,radio/televisão,1595,<100,"[4,7) anos",3,masculino/solteiro,nenhum,2,seguro  de vida,51,nenhum,própria,1,nível 2,2,não,não,bom
+negativo,48,primeira vez,carro usado,4605,<100,> 7 anos,3,masculino/solteiro,nenhum,4,sem propriedades,24,nenhum,de graça,2,nível 2,2,não,não,mau
+sem conta,12,conta crítica,negócios,1185,<100,"[1,4) anos",3,feminino/divorciado,nenhum,2,imobiliario,27,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,12,creditos quitados,retreinamentos,3447,[500-1000),"[1,4) anos",4,feminino/divorciado,nenhum,3,imobiliario,35,nenhum,própria,1,nível 1,2,não,não,bom
+sem conta,24,pagamento em dia,negócios,1258,<100,"[4,7) anos",4,masculino/solteiro,nenhum,1,imobiliario,25,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,12,conta crítica,radio/televisão,717,<100,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,52,nenhum,própria,3,nível 2,1,não,não,bom
+sem conta,6,primeira vez,carro novo,1204,[100-500),"[1,4) anos",4,masculino/solteiro,nenhum,1,sem propriedades,35,bancos,alugada,1,nível 2,1,não,sim,bom
+200+,24,pagamento em dia,móveis,1925,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,imobiliario,26,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,18,pagamento em dia,radio/televisão,433,<100,desempregado,3,feminino/divorciado,co-aplicante,4,imobiliario,22,nenhum,alugada,1,nível 2,1,não,não,mau
+negativo,6,conta crítica,carro novo,666,>1000,"[4,7) anos",3,feminino/divorciado,nenhum,4,imobiliario,39,nenhum,própria,2,nível 1,1,sim,não,bom
+200+,12,pagamento em dia,móveis,2251,<100,"[1,4) anos",1,feminino/divorciado,nenhum,2,carro,46,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),30,pagamento em dia,carro novo,2150,<100,"[1,4) anos",4,feminino/divorciado,fiador,2,sem propriedades,24,bancos,própria,1,nível 2,1,não,não,mau
+sem conta,24,já atrasou pagamentos,móveis,4151,[100-500),"[1,4) anos",2,masculino/solteiro,nenhum,3,seguro  de vida,35,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),9,pagamento em dia,móveis,2030,sem conta,"[4,7) anos",2,masculino/solteiro,nenhum,1,carro,24,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),60,já atrasou pagamentos,radio/televisão,7418,sem conta,"[1,4) anos",1,masculino/solteiro,nenhum,1,imobiliario,27,nenhum,própria,1,nível 1,1,não,não,bom
+sem conta,24,conta crítica,radio/televisão,2684,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,imobiliario,35,nenhum,própria,2,nível 1,1,não,não,bom
+negativo,12,creditos quitados,radio/televisão,2149,<100,"[1,4) anos",4,masculino/divorciado,nenhum,1,sem propriedades,29,nenhum,de graça,1,nível 2,1,não,não,mau
+sem conta,15,pagamento em dia,carro usado,3812,[100-500),< 1 ano,1,feminino/divorciado,nenhum,4,carro,23,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,11,conta crítica,radio/televisão,1154,[100-500),desempregado,4,feminino/divorciado,nenhum,4,imobiliario,57,nenhum,própria,3,nível 1,1,não,não,bom
+negativo,12,pagamento em dia,móveis,1657,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,imobiliario,27,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,24,pagamento em dia,radio/televisão,1603,<100,> 7 anos,4,feminino/divorciado,nenhum,4,carro,55,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,18,conta crítica,carro novo,5302,<100,> 7 anos,2,masculino/solteiro,nenhum,4,sem propriedades,36,nenhum,de graça,3,nível 3,1,sim,não,bom
+sem conta,12,conta crítica,educação,2748,<100,> 7 anos,2,feminino/divorciado,nenhum,4,sem propriedades,57,bancos,de graça,3,nível 1,1,não,não,bom
+sem conta,10,conta crítica,carro novo,1231,<100,> 7 anos,3,masculino/solteiro,nenhum,4,imobiliario,32,nenhum,própria,2,nível 1,2,não,sim,bom
+[0-200),15,pagamento em dia,radio/televisão,802,<100,> 7 anos,4,masculino/solteiro,nenhum,3,carro,37,nenhum,própria,1,nível 2,2,não,não,mau
+sem conta,36,conta crítica,negócios,6304,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,36,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,radio/televisão,1533,<100,< 1 ano,4,feminino/divorciado,nenhum,3,carro,38,lojas,própria,1,nível 2,1,sim,não,bom
+negativo,14,pagamento em dia,carro novo,8978,<100,> 7 anos,1,masculino/divorciado,nenhum,4,seguro  de vida,45,nenhum,própria,1,nível 3,1,sim,sim,mau
+sem conta,24,pagamento em dia,radio/televisão,999,sem conta,> 7 anos,4,masculino/solteiro,nenhum,2,carro,25,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,18,pagamento em dia,carro novo,2662,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,3,seguro  de vida,32,nenhum,própria,1,nível 2,1,não,sim,bom
+sem conta,12,conta crítica,móveis,1402,[500-1000),"[4,7) anos",3,feminino/divorciado,nenhum,4,carro,37,nenhum,alugada,1,nível 2,1,sim,não,bom
+[0-200),48,creditos quitados,carro novo,12169,sem conta,desempregado,4,masculino/solteiro,co-aplicante,4,sem propriedades,36,nenhum,de graça,1,nível 3,1,sim,não,bom
+[0-200),48,pagamento em dia,radio/televisão,3060,<100,"[4,7) anos",4,masculino/solteiro,nenhum,4,imobiliario,28,nenhum,própria,2,nível 2,1,não,não,mau
+negativo,30,pagamento em dia,reparos,11998,<100,< 1 ano,1,masculino/divorciado,nenhum,1,sem propriedades,34,nenhum,própria,1,nível 1,1,sim,não,mau
+sem conta,9,pagamento em dia,radio/televisão,2697,<100,"[1,4) anos",1,masculino/solteiro,nenhum,2,imobiliario,32,nenhum,própria,1,nível 2,2,não,não,bom
+sem conta,18,conta crítica,radio/televisão,2404,<100,"[1,4) anos",2,feminino/divorciado,nenhum,2,carro,26,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,12,pagamento em dia,móveis,1262,sem conta,> 7 anos,2,masculino/divorciado,nenhum,4,seguro  de vida,49,nenhum,própria,1,nível 1,1,sim,não,bom
+sem conta,6,pagamento em dia,móveis,4611,<100,< 1 ano,1,feminino/divorciado,nenhum,4,seguro  de vida,32,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,24,pagamento em dia,radio/televisão,1901,[100-500),"[1,4) anos",4,masculino/solteiro,nenhum,4,carro,29,nenhum,alugada,1,nível 3,1,sim,não,bom
+sem conta,15,conta crítica,carro usado,3368,>1000,> 7 anos,3,masculino/solteiro,nenhum,4,sem propriedades,23,nenhum,alugada,2,nível 2,1,sim,não,bom
+sem conta,12,pagamento em dia,móveis,1574,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,imobiliario,50,nenhum,própria,1,nível 2,1,não,não,bom
+200+,18,creditos quitados,radio/televisão,1445,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,4,carro,49,bancos,própria,1,nível 1,1,não,não,bom
+sem conta,15,conta crítica,móveis,1520,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,63,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),24,conta crítica,carro novo,3878,[100-500),< 1 ano,4,masculino/divorciado,nenhum,2,carro,37,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,47,pagamento em dia,carro novo,10722,<100,< 1 ano,1,feminino/divorciado,nenhum,1,imobiliario,35,nenhum,própria,1,nível 1,1,sim,não,bom
+negativo,48,pagamento em dia,carro usado,4788,<100,"[4,7) anos",4,masculino/solteiro,nenhum,3,seguro  de vida,26,nenhum,própria,1,nível 2,2,não,não,bom
+[0-200),48,já atrasou pagamentos,outros,7582,[100-500),desempregado,2,masculino/solteiro,nenhum,4,sem propriedades,31,nenhum,de graça,1,nível 3,1,sim,não,bom
+[0-200),12,pagamento em dia,radio/televisão,1092,<100,"[1,4) anos",4,feminino/divorciado,fiador,4,imobiliario,49,nenhum,própria,2,nível 2,1,sim,não,bom
+negativo,24,já atrasou pagamentos,radio/televisão,1024,<100,< 1 ano,4,masculino/casado,nenhum,4,imobiliario,48,lojas,própria,1,nível 2,1,não,não,mau
+sem conta,12,pagamento em dia,negócios,1076,<100,"[1,4) anos",2,masculino/casado,nenhum,2,imobiliario,26,nenhum,própria,1,nível 2,1,sim,sim,bom
+[0-200),36,pagamento em dia,carro usado,9398,<100,< 1 ano,1,masculino/casado,nenhum,4,carro,28,nenhum,alugada,1,nível 3,1,sim,não,mau
+negativo,24,conta crítica,carro usado,6419,<100,> 7 anos,2,feminino/divorciado,nenhum,4,sem propriedades,44,nenhum,de graça,2,nível 3,2,sim,não,bom
+200+,42,conta crítica,carro usado,4796,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,56,nenhum,de graça,1,nível 2,1,não,não,bom
+sem conta,48,conta crítica,negócios,7629,sem conta,> 7 anos,4,masculino/divorciado,nenhum,2,carro,46,bancos,própria,2,nível 3,2,não,não,bom
+[0-200),48,pagamento em dia,móveis,9960,<100,< 1 ano,1,feminino/divorciado,nenhum,2,carro,26,nenhum,própria,1,nível 2,1,sim,não,mau
+sem conta,12,pagamento em dia,carro usado,4675,sem conta,< 1 ano,1,feminino/divorciado,nenhum,4,carro,20,nenhum,alugada,1,nível 2,1,não,não,bom
+sem conta,10,pagamento em dia,carro novo,1287,sem conta,> 7 anos,4,masculino/solteiro,co-aplicante,2,seguro  de vida,45,nenhum,própria,1,nível 1,1,não,sim,bom
+sem conta,18,pagamento em dia,móveis,2515,<100,"[1,4) anos",3,masculino/solteiro,nenhum,4,imobiliario,43,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),21,conta crítica,móveis,2745,>1000,"[4,7) anos",3,masculino/solteiro,nenhum,2,carro,32,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,6,pagamento em dia,carro novo,672,<100,desempregado,1,feminino/divorciado,nenhum,4,imobiliario,54,nenhum,própria,1,desempregado,1,sim,não,bom
+[0-200),36,primeira vez,radio/televisão,3804,<100,"[1,4) anos",4,feminino/divorciado,nenhum,1,carro,42,nenhum,própria,1,nível 2,1,sim,não,mau
+200+,24,conta crítica,carro novo,1344,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,2,imobiliario,37,bancos,própria,2,nível 1,2,não,não,mau
+negativo,10,conta crítica,carro novo,1038,<100,"[4,7) anos",4,masculino/solteiro,co-aplicante,3,seguro  de vida,49,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,48,conta crítica,carro novo,10127,[500-1000),"[1,4) anos",2,masculino/solteiro,nenhum,2,sem propriedades,44,bancos,de graça,1,nível 2,1,não,não,mau
+sem conta,6,pagamento em dia,móveis,1543,>1000,"[1,4) anos",4,masculino/divorciado,nenhum,2,imobiliario,33,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,30,pagamento em dia,carro usado,4811,sem conta,"[4,7) anos",2,feminino/divorciado,nenhum,4,seguro  de vida,24,lojas,alugada,1,nível 1,1,não,não,bom
+negativo,12,pagamento em dia,radio/televisão,727,[100-500),< 1 ano,4,masculino/casado,nenhum,3,sem propriedades,33,nenhum,própria,1,nível 1,1,sim,não,mau
+[0-200),8,pagamento em dia,móveis,1237,<100,"[1,4) anos",3,feminino/divorciado,nenhum,4,imobiliario,24,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),9,pagamento em dia,carro novo,276,<100,"[1,4) anos",4,masculino/casado,nenhum,4,imobiliario,22,nenhum,alugada,1,nível 1,1,não,não,bom
+[0-200),48,pagamento em dia,outros,5381,sem conta,desempregado,3,masculino/solteiro,nenhum,4,sem propriedades,40,bancos,de graça,1,desempregado,1,sim,não,bom
+sem conta,24,pagamento em dia,móveis,5511,[100-500),"[1,4) anos",4,masculino/solteiro,nenhum,1,carro,25,lojas,própria,1,nível 2,1,não,não,bom
+200+,24,pagamento em dia,móveis,3749,<100,< 1 ano,2,feminino/divorciado,nenhum,4,carro,26,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,carro novo,685,<100,"[4,7) anos",2,masculino/casado,nenhum,3,carro,25,bancos,própria,1,nível 1,1,não,não,mau
+200+,4,pagamento em dia,carro novo,1494,sem conta,< 1 ano,1,masculino/solteiro,nenhum,2,imobiliario,29,nenhum,própria,1,nível 1,2,não,sim,bom
+negativo,36,creditos quitados,móveis,2746,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,31,bancos,própria,1,nível 2,1,não,não,mau
+negativo,12,pagamento em dia,móveis,708,<100,"[1,4) anos",2,masculino/solteiro,fiador,3,seguro  de vida,38,nenhum,própria,1,nível 1,2,não,não,bom
+[0-200),24,pagamento em dia,móveis,4351,sem conta,"[1,4) anos",1,feminino/divorciado,nenhum,4,seguro  de vida,48,nenhum,própria,1,nível 1,1,sim,não,bom
+sem conta,12,conta crítica,educação,701,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,32,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,15,já atrasou pagamentos,móveis,3643,<100,> 7 anos,1,feminino/divorciado,nenhum,4,seguro  de vida,27,nenhum,própria,2,nível 1,1,não,não,bom
+[0-200),30,conta crítica,carro novo,4249,<100,desempregado,4,masculino/casado,nenhum,2,carro,28,nenhum,própria,2,nível 3,1,não,não,mau
+negativo,24,pagamento em dia,radio/televisão,1938,<100,< 1 ano,4,masculino/divorciado,nenhum,3,seguro  de vida,32,nenhum,própria,1,nível 2,1,não,não,mau
+negativo,24,pagamento em dia,carro usado,2910,<100,"[4,7) anos",2,masculino/solteiro,nenhum,1,sem propriedades,34,nenhum,de graça,1,nível 3,1,sim,não,bom
+negativo,18,pagamento em dia,móveis,2659,>1000,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,28,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,18,conta crítica,carro novo,1028,<100,"[1,4) anos",4,feminino/divorciado,nenhum,3,imobiliario,36,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,8,conta crítica,carro novo,3398,<100,"[4,7) anos",1,masculino/solteiro,nenhum,4,imobiliario,39,nenhum,própria,2,nível 1,1,não,sim,bom
+sem conta,12,conta crítica,móveis,5801,sem conta,> 7 anos,2,masculino/solteiro,nenhum,4,seguro  de vida,49,nenhum,alugada,1,nível 2,1,sim,não,bom
+sem conta,24,pagamento em dia,carro novo,1525,>1000,"[4,7) anos",4,feminino/divorciado,nenhum,3,carro,34,nenhum,própria,1,nível 2,2,sim,não,bom
+200+,36,pagamento em dia,radio/televisão,4473,<100,> 7 anos,4,masculino/solteiro,nenhum,2,carro,31,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),6,pagamento em dia,radio/televisão,1068,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,28,nenhum,própria,1,nível 2,2,não,não,bom
+negativo,24,conta crítica,carro usado,6615,<100,desempregado,2,masculino/solteiro,nenhum,4,sem propriedades,75,nenhum,de graça,2,nível 3,1,sim,não,bom
+sem conta,18,conta crítica,educação,1864,[100-500),"[1,4) anos",4,feminino/divorciado,nenhum,2,imobiliario,30,nenhum,própria,2,nível 2,1,não,não,mau
+[0-200),60,pagamento em dia,carro novo,7408,[100-500),< 1 ano,4,feminino/divorciado,nenhum,2,seguro  de vida,24,nenhum,própria,1,nível 3,1,não,não,mau
+sem conta,48,conta crítica,carro usado,11590,[100-500),"[1,4) anos",2,feminino/divorciado,nenhum,4,carro,24,bancos,alugada,2,nível 1,1,não,não,mau
+negativo,24,primeira vez,móveis,4110,<100,> 7 anos,3,masculino/solteiro,nenhum,4,sem propriedades,23,bancos,alugada,2,nível 2,2,não,não,mau
+negativo,6,conta crítica,móveis,3384,<100,"[1,4) anos",1,masculino/divorciado,nenhum,4,imobiliario,44,nenhum,alugada,1,nível 3,1,sim,não,mau
+[0-200),13,pagamento em dia,radio/televisão,2101,<100,< 1 ano,2,feminino/divorciado,fiador,4,seguro  de vida,23,nenhum,própria,1,nível 1,1,não,não,bom
+negativo,15,pagamento em dia,itens de casa,1275,sem conta,"[1,4) anos",4,feminino/divorciado,nenhum,2,carro,24,nenhum,alugada,1,nível 2,1,não,não,mau
+negativo,24,pagamento em dia,móveis,4169,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,seguro  de vida,28,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),10,pagamento em dia,móveis,1521,<100,"[1,4) anos",4,masculino/divorciado,nenhum,2,carro,31,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),24,conta crítica,educação,5743,<100,< 1 ano,2,feminino/divorciado,nenhum,4,sem propriedades,24,nenhum,de graça,2,nível 2,1,sim,não,bom
+negativo,21,pagamento em dia,móveis,3599,<100,"[4,7) anos",1,feminino/divorciado,nenhum,4,carro,26,nenhum,alugada,1,nível 1,1,não,não,bom
+[0-200),18,pagamento em dia,radio/televisão,3213,[500-1000),< 1 ano,1,masculino/casado,nenhum,3,imobiliario,25,nenhum,alugada,1,nível 2,1,não,não,bom
+[0-200),18,pagamento em dia,negócios,4439,<100,> 7 anos,1,masculino/solteiro,co-aplicante,1,imobiliario,33,bancos,própria,1,nível 3,1,sim,não,bom
+200+,10,pagamento em dia,carro novo,3949,<100,< 1 ano,1,masculino/solteiro,fiador,1,seguro  de vida,37,nenhum,própria,1,nível 1,2,não,não,bom
+sem conta,15,conta crítica,radio/televisão,1459,<100,"[1,4) anos",4,feminino/divorciado,nenhum,2,carro,43,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),13,conta crítica,radio/televisão,882,<100,< 1 ano,4,masculino/solteiro,fiador,4,imobiliario,23,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),24,pagamento em dia,radio/televisão,3758,[500-1000),desempregado,1,feminino/divorciado,nenhum,4,sem propriedades,23,nenhum,alugada,1,desempregado,1,não,não,bom
+sem conta,6,já atrasou pagamentos,negócios,1743,[100-500),"[1,4) anos",1,masculino/solteiro,nenhum,2,imobiliario,34,nenhum,própria,2,nível 1,1,não,não,bom
+[0-200),9,conta crítica,educação,1136,>1000,> 7 anos,4,masculino/solteiro,nenhum,3,sem propriedades,32,nenhum,de graça,2,nível 2,2,não,não,mau
+sem conta,9,pagamento em dia,itens de casa,1236,<100,< 1 ano,1,feminino/divorciado,nenhum,4,imobiliario,23,nenhum,alugada,1,nível 2,1,sim,não,bom
+[0-200),9,pagamento em dia,móveis,959,<100,"[1,4) anos",1,feminino/divorciado,nenhum,2,carro,29,nenhum,própria,1,nível 2,1,não,sim,mau
+sem conta,18,conta crítica,carro usado,3229,sem conta,desempregado,2,masculino/solteiro,nenhum,4,sem propriedades,38,nenhum,própria,1,nível 3,1,sim,não,bom
+negativo,12,primeira vez,radio/televisão,6199,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,28,nenhum,alugada,2,nível 2,1,sim,não,mau
+sem conta,10,pagamento em dia,educação,727,[500-1000),> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,46,nenhum,de graça,1,nível 2,1,sim,não,bom
+[0-200),24,pagamento em dia,carro novo,1246,<100,< 1 ano,4,masculino/solteiro,nenhum,2,imobiliario,23,lojas,própria,1,nível 1,1,não,não,mau
+sem conta,12,conta crítica,radio/televisão,2331,sem conta,> 7 anos,1,masculino/solteiro,co-aplicante,4,imobiliario,49,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,36,já atrasou pagamentos,radio/televisão,4463,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,26,nenhum,própria,2,nível 3,1,sim,não,mau
+sem conta,12,pagamento em dia,radio/televisão,776,<100,"[1,4) anos",4,masculino/casado,nenhum,2,imobiliario,28,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,30,pagamento em dia,móveis,2406,<100,"[4,7) anos",4,feminino/divorciado,nenhum,4,imobiliario,23,nenhum,alugada,1,nível 2,1,não,não,mau
+[0-200),18,pagamento em dia,educação,1239,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,4,sem propriedades,61,nenhum,de graça,1,nível 2,1,não,não,bom
+200+,12,pagamento em dia,radio/televisão,3399,sem conta,> 7 anos,2,masculino/solteiro,nenhum,3,carro,37,nenhum,própria,1,nível 3,1,não,não,bom
+200+,12,já atrasou pagamentos,carro novo,2247,<100,"[1,4) anos",2,feminino/divorciado,nenhum,2,carro,36,lojas,própria,2,nível 2,1,sim,não,bom
+sem conta,6,pagamento em dia,móveis,1766,<100,"[1,4) anos",1,masculino/casado,nenhum,2,seguro  de vida,21,nenhum,alugada,1,nível 2,1,não,não,bom
+negativo,18,pagamento em dia,móveis,2473,<100,desempregado,4,masculino/solteiro,nenhum,1,carro,25,nenhum,própria,1,desempregado,1,não,não,mau
+sem conta,12,pagamento em dia,negócios,1542,<100,"[4,7) anos",2,masculino/solteiro,nenhum,4,carro,36,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,18,conta crítica,carro usado,3850,<100,"[4,7) anos",3,masculino/solteiro,nenhum,1,carro,27,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,18,pagamento em dia,móveis,3650,<100,< 1 ano,1,feminino/divorciado,nenhum,4,carro,22,nenhum,alugada,1,nível 2,1,não,não,bom
+negativo,36,pagamento em dia,móveis,3446,<100,> 7 anos,4,masculino/solteiro,nenhum,2,carro,42,nenhum,própria,1,nível 2,2,não,não,mau
+[0-200),18,pagamento em dia,móveis,3001,<100,"[4,7) anos",2,feminino/divorciado,nenhum,4,imobiliario,40,nenhum,alugada,1,nível 2,1,não,não,bom
+sem conta,36,pagamento em dia,carro novo,3079,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,4,imobiliario,36,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,18,conta crítica,radio/televisão,6070,<100,> 7 anos,3,masculino/solteiro,nenhum,4,carro,33,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,10,conta crítica,móveis,2146,<100,< 1 ano,1,feminino/divorciado,nenhum,3,imobiliario,23,nenhum,alugada,2,nível 2,1,não,não,bom
+sem conta,60,conta crítica,carro novo,13756,sem conta,> 7 anos,2,masculino/solteiro,nenhum,4,sem propriedades,63,bancos,de graça,1,nível 3,1,sim,não,bom
+[0-200),60,creditos quitados,outros,14782,[100-500),> 7 anos,3,feminino/divorciado,nenhum,4,sem propriedades,60,bancos,de graça,2,nível 3,1,sim,não,mau
+negativo,48,creditos quitados,negócios,7685,<100,"[4,7) anos",2,feminino/divorciado,fiador,4,carro,37,nenhum,alugada,1,nível 2,1,não,não,mau
+sem conta,18,já atrasou pagamentos,radio/televisão,2320,<100,desempregado,2,masculino/casado,nenhum,3,imobiliario,34,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,7,já atrasou pagamentos,radio/televisão,846,sem conta,> 7 anos,3,masculino/solteiro,nenhum,4,sem propriedades,36,nenhum,de graça,1,nível 2,1,não,não,bom
+[0-200),36,pagamento em dia,carro novo,14318,<100,> 7 anos,4,masculino/solteiro,nenhum,2,sem propriedades,57,nenhum,de graça,1,nível 3,1,sim,não,mau
+sem conta,6,conta crítica,carro novo,362,[100-500),"[1,4) anos",4,feminino/divorciado,nenhum,4,carro,52,nenhum,própria,2,nível 1,1,não,não,bom
+negativo,20,pagamento em dia,móveis,2212,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,4,carro,39,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),18,pagamento em dia,carro usado,12976,<100,desempregado,3,feminino/divorciado,nenhum,4,sem propriedades,38,nenhum,de graça,1,nível 3,1,sim,não,mau
+sem conta,22,pagamento em dia,carro novo,1283,sem conta,"[4,7) anos",4,feminino/divorciado,nenhum,4,seguro  de vida,25,nenhum,alugada,1,nível 2,1,não,não,bom
+200+,12,pagamento em dia,carro novo,1330,<100,< 1 ano,4,masculino/solteiro,nenhum,1,imobiliario,26,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,30,já atrasou pagamentos,negócios,4272,[100-500),"[1,4) anos",2,masculino/solteiro,nenhum,2,seguro  de vida,26,nenhum,própria,2,nível 1,1,não,não,bom
+sem conta,18,conta crítica,radio/televisão,2238,<100,"[1,4) anos",2,feminino/divorciado,nenhum,1,carro,25,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,18,pagamento em dia,radio/televisão,1126,sem conta,< 1 ano,4,feminino/divorciado,nenhum,2,imobiliario,21,nenhum,alugada,1,nível 2,1,sim,não,bom
+[0-200),18,conta crítica,móveis,7374,<100,desempregado,4,masculino/solteiro,nenhum,4,seguro  de vida,40,lojas,própria,2,nível 3,1,sim,não,bom
+[0-200),15,conta crítica,negócios,2326,[500-1000),"[1,4) anos",2,masculino/solteiro,nenhum,4,carro,27,bancos,própria,1,nível 2,1,não,não,bom
+sem conta,9,pagamento em dia,negócios,1449,<100,"[4,7) anos",3,feminino/divorciado,nenhum,2,carro,27,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,18,pagamento em dia,carro novo,1820,<100,"[1,4) anos",2,masculino/casado,nenhum,2,seguro  de vida,30,nenhum,própria,1,nível 3,1,sim,não,bom
+[0-200),12,pagamento em dia,móveis,983,>1000,< 1 ano,1,feminino/divorciado,nenhum,4,imobiliario,19,nenhum,alugada,1,nível 1,1,não,não,bom
+negativo,36,pagamento em dia,carro novo,3249,<100,"[4,7) anos",2,masculino/solteiro,nenhum,4,sem propriedades,39,bancos,de graça,1,nível 3,2,sim,não,bom
+negativo,6,conta crítica,radio/televisão,1957,<100,"[4,7) anos",1,feminino/divorciado,nenhum,4,carro,31,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,9,conta crítica,móveis,2406,<100,desempregado,2,masculino/solteiro,nenhum,3,carro,31,nenhum,própria,1,nível 3,1,não,não,bom
+[0-200),39,já atrasou pagamentos,educação,11760,[100-500),"[4,7) anos",2,masculino/solteiro,nenhum,3,sem propriedades,32,nenhum,alugada,1,nível 2,1,sim,não,bom
+negativo,12,pagamento em dia,móveis,2578,<100,desempregado,3,feminino/divorciado,nenhum,4,sem propriedades,55,nenhum,de graça,1,nível 3,1,não,não,bom
+negativo,36,conta crítica,móveis,2348,<100,"[1,4) anos",3,masculino/casado,nenhum,2,seguro  de vida,46,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),12,pagamento em dia,carro novo,1223,<100,> 7 anos,1,masculino/divorciado,nenhum,1,imobiliario,46,nenhum,alugada,2,nível 2,1,não,não,mau
+sem conta,24,conta crítica,radio/televisão,1516,>1000,"[1,4) anos",4,feminino/divorciado,nenhum,1,imobiliario,43,nenhum,própria,2,nível 1,1,não,não,bom
+sem conta,18,pagamento em dia,radio/televisão,1473,<100,< 1 ano,3,masculino/casado,nenhum,4,imobiliario,39,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),18,conta crítica,negócios,1887,sem conta,"[1,4) anos",4,masculino/casado,nenhum,4,imobiliario,28,bancos,própria,2,nível 2,1,não,não,bom
+sem conta,24,já atrasou pagamentos,negócios,8648,<100,< 1 ano,2,masculino/solteiro,nenhum,2,carro,27,bancos,própria,2,nível 2,1,sim,não,mau
+sem conta,14,já atrasou pagamentos,carro novo,802,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,27,nenhum,própria,2,nível 1,1,não,não,bom
+[0-200),18,já atrasou pagamentos,carro novo,2899,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,carro,43,nenhum,própria,1,nível 2,2,não,não,bom
+[0-200),24,pagamento em dia,radio/televisão,2039,<100,< 1 ano,1,masculino/casado,nenhum,1,seguro  de vida,22,nenhum,própria,1,nível 2,1,sim,não,mau
+sem conta,24,conta crítica,carro usado,2197,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,4,carro,43,nenhum,própria,2,nível 2,2,sim,não,bom
+negativo,15,pagamento em dia,radio/televisão,1053,<100,< 1 ano,4,masculino/casado,nenhum,2,imobiliario,27,nenhum,própria,1,nível 2,1,não,sim,bom
+sem conta,24,pagamento em dia,radio/televisão,3235,[500-1000),> 7 anos,3,masculino/divorciado,nenhum,2,carro,26,nenhum,própria,1,nível 3,1,sim,não,bom
+200+,12,conta crítica,carro novo,939,[500-1000),"[4,7) anos",4,masculino/casado,nenhum,2,imobiliario,28,nenhum,própria,3,nível 2,1,sim,não,mau
+[0-200),24,pagamento em dia,radio/televisão,1967,<100,> 7 anos,4,feminino/divorciado,nenhum,4,carro,20,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,33,conta crítica,carro usado,7253,<100,"[4,7) anos",3,masculino/solteiro,nenhum,2,carro,35,nenhum,própria,2,nível 3,1,sim,não,bom
+sem conta,12,conta crítica,negócios,2292,<100,desempregado,4,masculino/solteiro,nenhum,2,carro,42,lojas,própria,2,nível 3,1,sim,não,mau
+sem conta,10,pagamento em dia,carro novo,1597,[500-1000),"[1,4) anos",3,masculino/solteiro,nenhum,2,sem propriedades,40,nenhum,alugada,1,nível 1,2,não,sim,bom
+negativo,24,pagamento em dia,carro novo,1381,sem conta,"[1,4) anos",4,feminino/divorciado,nenhum,2,seguro  de vida,35,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,36,conta crítica,carro usado,5842,<100,> 7 anos,2,masculino/solteiro,nenhum,2,seguro  de vida,35,nenhum,própria,2,nível 2,2,sim,não,bom
+negativo,12,pagamento em dia,carro novo,2579,<100,< 1 ano,4,masculino/solteiro,nenhum,1,imobiliario,33,nenhum,própria,1,nível 1,2,não,não,mau
+negativo,18,já atrasou pagamentos,educação,8471,sem conta,"[1,4) anos",1,feminino/divorciado,nenhum,2,carro,23,nenhum,alugada,2,nível 2,1,sim,não,bom
+sem conta,21,pagamento em dia,carro novo,2782,[500-1000),"[4,7) anos",1,feminino/divorciado,nenhum,2,carro,31,bancos,própria,1,nível 3,1,não,não,bom
+[0-200),18,pagamento em dia,carro novo,1042,sem conta,"[1,4) anos",4,feminino/divorciado,nenhum,2,seguro  de vida,33,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,15,pagamento em dia,carro novo,3186,>1000,"[4,7) anos",2,feminino/divorciado,nenhum,3,carro,20,nenhum,alugada,1,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,carro usado,2028,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,30,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),12,conta crítica,carro novo,958,<100,"[4,7) anos",2,masculino/solteiro,nenhum,3,imobiliario,47,nenhum,própria,2,nível 1,2,não,não,bom
+sem conta,21,já atrasou pagamentos,móveis,1591,[100-500),"[4,7) anos",4,masculino/solteiro,nenhum,3,imobiliario,34,nenhum,própria,2,nível 3,1,não,não,bom
+[0-200),12,pagamento em dia,móveis,2762,sem conta,> 7 anos,1,feminino/divorciado,nenhum,2,seguro  de vida,25,bancos,própria,1,nível 2,1,sim,não,mau
+[0-200),18,pagamento em dia,carro usado,2779,<100,"[1,4) anos",1,masculino/casado,nenhum,3,carro,21,nenhum,alugada,1,nível 2,1,sim,não,bom
+sem conta,28,conta crítica,radio/televisão,2743,<100,> 7 anos,4,masculino/solteiro,nenhum,2,carro,29,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,18,conta crítica,radio/televisão,1149,>1000,"[1,4) anos",4,masculino/solteiro,nenhum,3,imobiliario,46,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,9,pagamento em dia,móveis,1313,<100,> 7 anos,1,masculino/solteiro,nenhum,4,carro,20,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,18,conta crítica,reparos,1190,<100,desempregado,2,feminino/divorciado,nenhum,4,sem propriedades,55,nenhum,de graça,3,desempregado,2,não,não,mau
+sem conta,5,pagamento em dia,negócios,3448,<100,"[4,7) anos",1,masculino/solteiro,nenhum,4,imobiliario,74,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),24,pagamento em dia,outros,11328,<100,"[1,4) anos",2,masculino/solteiro,co-aplicante,3,carro,29,bancos,própria,2,nível 3,1,sim,não,mau
+negativo,6,conta crítica,móveis,1872,<100,desempregado,4,masculino/solteiro,nenhum,4,sem propriedades,36,nenhum,de graça,3,nível 3,1,sim,não,bom
+sem conta,24,conta crítica,reparos,2058,<100,"[1,4) anos",4,masculino/divorciado,nenhum,2,imobiliario,33,nenhum,própria,2,nível 2,1,sim,não,bom
+negativo,9,pagamento em dia,móveis,2136,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,imobiliario,25,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,radio/televisão,1484,sem conta,"[1,4) anos",2,masculino/casado,nenhum,1,imobiliario,25,nenhum,própria,1,nível 2,1,sim,não,mau
+sem conta,6,pagamento em dia,reparos,660,[500-1000),"[4,7) anos",2,masculino/casado,nenhum,4,imobiliario,23,nenhum,alugada,1,nível 1,1,não,não,bom
+sem conta,24,conta crítica,carro novo,1287,>1000,> 7 anos,4,feminino/divorciado,nenhum,4,imobiliario,37,nenhum,própria,2,nível 2,1,sim,não,bom
+negativo,42,conta crítica,reparos,3394,<100,desempregado,4,masculino/solteiro,co-aplicante,4,carro,65,nenhum,própria,2,desempregado,1,não,não,bom
+200+,12,creditos quitados,negócios,609,<100,< 1 ano,4,feminino/divorciado,nenhum,1,imobiliario,26,nenhum,própria,1,desempregado,1,não,não,mau
+sem conta,12,pagamento em dia,carro novo,1884,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,39,nenhum,própria,1,nível 3,1,sim,não,bom
+negativo,12,pagamento em dia,móveis,1620,<100,"[1,4) anos",2,feminino/divorciado,co-aplicante,3,seguro  de vida,30,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),20,já atrasou pagamentos,outros,2629,<100,"[1,4) anos",2,masculino/solteiro,nenhum,3,carro,29,bancos,própria,2,nível 2,1,sim,não,bom
+sem conta,12,pagamento em dia,educação,719,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,41,bancos,própria,1,nível 1,2,não,não,mau
+[0-200),48,conta crítica,móveis,5096,<100,"[1,4) anos",2,feminino/divorciado,nenhum,3,carro,30,nenhum,própria,1,nível 3,1,sim,não,mau
+sem conta,9,conta crítica,educação,1244,sem conta,> 7 anos,4,feminino/divorciado,nenhum,4,seguro  de vida,41,nenhum,alugada,2,nível 1,1,não,não,bom
+negativo,36,pagamento em dia,carro novo,1842,<100,< 1 ano,4,feminino/divorciado,nenhum,4,carro,34,nenhum,própria,1,nível 2,1,sim,não,mau
+[0-200),7,pagamento em dia,radio/televisão,2576,<100,"[1,4) anos",2,masculino/solteiro,fiador,2,imobiliario,35,nenhum,própria,1,nível 2,1,não,não,bom
+200+,12,pagamento em dia,móveis,1424,sem conta,> 7 anos,3,feminino/divorciado,nenhum,4,imobiliario,55,nenhum,própria,1,nível 3,1,sim,não,bom
+[0-200),15,já atrasou pagamentos,reparos,1512,>1000,"[1,4) anos",3,masculino/casado,nenhum,3,seguro  de vida,61,lojas,própria,2,nível 2,1,não,não,mau
+sem conta,36,conta crítica,carro usado,11054,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,30,nenhum,própria,1,nível 3,1,sim,não,bom
+sem conta,6,pagamento em dia,radio/televisão,518,<100,"[1,4) anos",3,feminino/divorciado,nenhum,1,imobiliario,29,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,12,primeira vez,móveis,2759,<100,> 7 anos,2,masculino/solteiro,nenhum,4,seguro  de vida,34,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,carro usado,2670,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,35,nenhum,própria,1,nível 3,1,sim,não,bom
+negativo,24,pagamento em dia,carro novo,4817,<100,"[4,7) anos",2,masculino/solteiro,co-aplicante,3,seguro  de vida,31,nenhum,própria,1,nível 2,1,sim,não,mau
+sem conta,24,pagamento em dia,carro usado,2679,<100,< 1 ano,4,feminino/divorciado,nenhum,1,sem propriedades,29,nenhum,própria,1,nível 3,1,sim,não,bom
+negativo,11,conta crítica,carro novo,3905,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,imobiliario,36,nenhum,alugada,2,nível 2,2,não,não,bom
+negativo,12,pagamento em dia,carro usado,3386,<100,> 7 anos,3,masculino/solteiro,nenhum,4,sem propriedades,35,nenhum,de graça,1,nível 2,1,sim,não,mau
+negativo,6,pagamento em dia,itens de casa,343,<100,< 1 ano,4,feminino/divorciado,nenhum,1,imobiliario,27,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,18,pagamento em dia,radio/televisão,4594,<100,< 1 ano,3,masculino/solteiro,nenhum,2,carro,32,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,36,pagamento em dia,móveis,3620,<100,"[1,4) anos",1,masculino/solteiro,fiador,2,seguro  de vida,37,nenhum,própria,1,nível 2,2,não,não,bom
+negativo,15,pagamento em dia,carro novo,1721,<100,< 1 ano,2,masculino/solteiro,nenhum,3,imobiliario,36,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,móveis,3017,<100,< 1 ano,3,feminino/divorciado,nenhum,1,imobiliario,34,nenhum,alugada,1,nível 3,1,não,não,bom
+[0-200),12,pagamento em dia,retreinamentos,754,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,38,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,18,pagamento em dia,negócios,1950,<100,"[4,7) anos",4,masculino/solteiro,nenhum,1,carro,34,lojas,própria,2,nível 2,1,sim,não,bom
+negativo,24,pagamento em dia,carro usado,2924,<100,"[1,4) anos",3,masculino/solteiro,fiador,4,sem propriedades,63,bancos,própria,1,nível 2,2,sim,não,bom
+negativo,24,já atrasou pagamentos,radio/televisão,1659,<100,< 1 ano,4,feminino/divorciado,nenhum,2,carro,29,nenhum,alugada,1,nível 1,1,sim,não,mau
+sem conta,48,já atrasou pagamentos,radio/televisão,7238,sem conta,> 7 anos,3,masculino/solteiro,nenhum,3,carro,32,bancos,própria,2,nível 2,2,não,não,bom
+sem conta,33,já atrasou pagamentos,negócios,2764,<100,"[1,4) anos",2,feminino/divorciado,nenhum,2,carro,26,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,24,já atrasou pagamentos,carro usado,4679,<100,"[4,7) anos",3,masculino/solteiro,nenhum,3,carro,35,nenhum,própria,2,nível 1,1,sim,não,bom
+[0-200),24,pagamento em dia,radio/televisão,3092,[100-500),< 1 ano,3,masculino/casado,nenhum,2,carro,22,nenhum,alugada,1,nível 2,1,sim,não,mau
+negativo,6,pagamento em dia,educação,448,<100,< 1 ano,4,feminino/divorciado,nenhum,4,seguro  de vida,23,nenhum,própria,1,nível 2,1,não,não,mau
+negativo,9,pagamento em dia,carro novo,654,<100,"[1,4) anos",4,masculino/solteiro,nenhum,3,carro,28,nenhum,própria,1,nível 1,1,não,não,mau
+sem conta,6,pagamento em dia,retreinamentos,1238,sem conta,desempregado,4,masculino/solteiro,nenhum,4,seguro  de vida,36,nenhum,própria,1,nível 3,2,sim,não,bom
+[0-200),18,conta crítica,radio/televisão,1245,<100,"[1,4) anos",4,masculino/casado,nenhum,2,carro,33,nenhum,própria,1,nível 2,1,não,não,mau
+negativo,18,primeira vez,móveis,3114,<100,< 1 ano,1,feminino/divorciado,nenhum,4,seguro  de vida,26,nenhum,alugada,1,nível 2,1,não,não,mau
+sem conta,39,pagamento em dia,carro usado,2569,[500-1000),"[1,4) anos",4,masculino/solteiro,nenhum,4,carro,24,nenhum,própria,1,nível 2,1,não,não,bom
+200+,24,pagamento em dia,radio/televisão,5152,<100,"[4,7) anos",4,masculino/solteiro,nenhum,2,carro,25,bancos,própria,1,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,negócios,1037,[100-500),"[4,7) anos",3,masculino/solteiro,nenhum,4,imobiliario,39,nenhum,própria,1,nível 1,1,não,não,bom
+negativo,15,conta crítica,móveis,1478,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,44,nenhum,própria,2,nível 2,2,sim,não,bom
+[0-200),12,conta crítica,radio/televisão,3573,<100,"[1,4) anos",1,feminino/divorciado,nenhum,1,imobiliario,23,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),24,pagamento em dia,carro novo,1201,<100,< 1 ano,4,masculino/solteiro,nenhum,1,seguro  de vida,26,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,30,pagamento em dia,móveis,3622,>1000,> 7 anos,4,feminino/divorciado,nenhum,4,seguro  de vida,57,nenhum,alugada,2,nível 2,1,sim,não,bom
+sem conta,15,já atrasou pagamentos,móveis,960,>1000,"[4,7) anos",3,feminino/divorciado,nenhum,2,seguro  de vida,30,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,12,conta crítica,carro novo,1163,[500-1000),"[1,4) anos",4,masculino/solteiro,nenhum,4,imobiliario,44,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),6,já atrasou pagamentos,carro novo,1209,<100,desempregado,4,masculino/solteiro,nenhum,4,seguro  de vida,47,nenhum,própria,1,nível 3,1,sim,não,mau
+sem conta,12,pagamento em dia,radio/televisão,3077,<100,"[1,4) anos",2,masculino/solteiro,nenhum,4,carro,52,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,24,pagamento em dia,carro novo,3757,<100,> 7 anos,4,feminino/divorciado,co-aplicante,4,sem propriedades,62,nenhum,de graça,1,nível 2,1,sim,não,bom
+sem conta,10,pagamento em dia,carro novo,1418,[100-500),"[1,4) anos",3,masculino/solteiro,nenhum,2,imobiliario,35,nenhum,alugada,1,nível 1,1,não,sim,bom
+sem conta,6,pagamento em dia,carro novo,3518,<100,"[1,4) anos",2,masculino/solteiro,fiador,3,seguro  de vida,26,nenhum,alugada,1,nível 2,1,não,não,bom
+sem conta,12,conta crítica,radio/televisão,1934,<100,> 7 anos,2,masculino/solteiro,nenhum,2,sem propriedades,26,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),27,primeira vez,negócios,8318,<100,> 7 anos,2,feminino/divorciado,nenhum,4,sem propriedades,42,nenhum,de graça,2,nível 3,1,sim,não,mau
+sem conta,6,conta crítica,radio/televisão,1237,[100-500),"[1,4) anos",1,feminino/divorciado,nenhum,1,seguro  de vida,27,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),6,pagamento em dia,radio/televisão,368,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,38,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,12,conta crítica,carro novo,2122,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,imobiliario,39,nenhum,alugada,2,nível 1,2,não,sim,bom
+negativo,24,pagamento em dia,móveis,2996,sem conta,"[1,4) anos",2,masculino/casado,nenhum,4,carro,20,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),36,pagamento em dia,móveis,9034,[100-500),< 1 ano,4,masculino/solteiro,co-aplicante,1,sem propriedades,29,nenhum,alugada,1,nível 3,1,sim,não,mau
+sem conta,24,conta crítica,móveis,1585,<100,"[4,7) anos",4,masculino/solteiro,nenhum,3,seguro  de vida,40,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),18,pagamento em dia,radio/televisão,1301,<100,> 7 anos,4,masculino/casado,fiador,2,imobiliario,32,nenhum,própria,1,nível 1,1,não,não,bom
+200+,6,conta crítica,carro novo,1323,[100-500),> 7 anos,2,masculino/divorciado,nenhum,4,carro,28,nenhum,própria,2,nível 2,2,sim,não,bom
+negativo,24,pagamento em dia,carro novo,3123,<100,< 1 ano,4,feminino/divorciado,nenhum,1,seguro  de vida,27,nenhum,própria,1,nível 2,1,não,não,mau
+negativo,36,pagamento em dia,carro usado,5493,<100,> 7 anos,2,masculino/solteiro,nenhum,4,sem propriedades,42,nenhum,de graça,1,nível 2,2,não,não,bom
+200+,9,pagamento em dia,radio/televisão,1126,[100-500),> 7 anos,2,masculino/divorciado,nenhum,4,imobiliario,49,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),24,conta crítica,radio/televisão,1216,[100-500),< 1 ano,4,masculino/solteiro,nenhum,4,sem propriedades,38,bancos,própria,2,nível 2,2,não,não,mau
+negativo,24,pagamento em dia,carro novo,1207,<100,< 1 ano,4,feminino/divorciado,nenhum,4,seguro  de vida,24,nenhum,alugada,1,nível 2,1,não,não,mau
+sem conta,10,pagamento em dia,carro novo,1309,sem conta,"[1,4) anos",4,masculino/solteiro,fiador,4,seguro  de vida,27,nenhum,própria,1,nível 1,1,não,não,mau
+200+,15,conta crítica,carro usado,2360,[500-1000),"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,36,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),15,creditos quitados,carro novo,6850,[100-500),desempregado,1,masculino/solteiro,nenhum,2,seguro  de vida,34,nenhum,própria,1,nível 3,2,sim,não,mau
+sem conta,24,pagamento em dia,radio/televisão,1413,<100,"[1,4) anos",4,masculino/casado,nenhum,2,seguro  de vida,28,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,39,pagamento em dia,carro usado,8588,[100-500),> 7 anos,4,masculino/solteiro,nenhum,2,carro,45,nenhum,própria,1,nível 3,1,sim,não,bom
+negativo,12,pagamento em dia,carro novo,759,<100,"[4,7) anos",4,masculino/solteiro,nenhum,2,imobiliario,26,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,36,pagamento em dia,carro usado,4686,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,sem propriedades,32,nenhum,de graça,1,nível 3,1,sim,não,bom
+200+,15,pagamento em dia,negócios,2687,<100,"[4,7) anos",2,masculino/solteiro,nenhum,4,seguro  de vida,26,nenhum,alugada,1,nível 2,1,sim,não,bom
+[0-200),12,já atrasou pagamentos,radio/televisão,585,<100,"[1,4) anos",4,masculino/casado,co-aplicante,4,imobiliario,20,nenhum,alugada,2,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,carro novo,2255,sem conta,< 1 ano,4,masculino/solteiro,nenhum,1,seguro  de vida,54,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,6,conta crítica,carro novo,609,<100,"[4,7) anos",4,feminino/divorciado,nenhum,3,seguro  de vida,37,nenhum,própria,2,nível 2,1,não,sim,bom
+negativo,6,conta crítica,carro novo,1361,<100,< 1 ano,2,masculino/solteiro,nenhum,4,imobiliario,40,nenhum,própria,1,nível 1,2,não,sim,bom
+sem conta,36,conta crítica,móveis,7127,<100,< 1 ano,2,feminino/divorciado,nenhum,4,seguro  de vida,23,nenhum,alugada,2,nível 2,1,sim,não,mau
+negativo,6,pagamento em dia,carro novo,1203,[100-500),> 7 anos,3,masculino/solteiro,nenhum,2,seguro  de vida,43,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,6,conta crítica,radio/televisão,700,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,36,nenhum,de graça,2,nível 2,1,não,não,bom
+sem conta,24,conta crítica,reparos,5507,<100,> 7 anos,3,masculino/solteiro,nenhum,4,sem propriedades,44,nenhum,de graça,2,nível 2,1,não,não,bom
+negativo,18,pagamento em dia,radio/televisão,3190,<100,"[1,4) anos",2,feminino/divorciado,nenhum,2,imobiliario,24,nenhum,própria,1,nível 2,1,não,não,mau
+negativo,48,primeira vez,móveis,7119,<100,"[1,4) anos",3,masculino/solteiro,nenhum,4,sem propriedades,53,nenhum,de graça,2,nível 2,2,não,não,mau
+sem conta,24,pagamento em dia,carro usado,3488,[100-500),"[4,7) anos",3,feminino/divorciado,nenhum,4,carro,23,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),18,pagamento em dia,radio/televisão,1113,<100,"[1,4) anos",4,feminino/divorciado,fiador,4,imobiliario,26,nenhum,própria,1,nível 1,2,não,não,bom
+[0-200),26,pagamento em dia,carro usado,7966,<100,< 1 ano,2,masculino/solteiro,nenhum,3,carro,30,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,15,conta crítica,educação,1532,[100-500),"[1,4) anos",4,feminino/divorciado,nenhum,3,carro,31,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,4,conta crítica,radio/televisão,1503,<100,"[4,7) anos",2,masculino/solteiro,nenhum,1,imobiliario,42,nenhum,própria,2,nível 1,2,não,não,bom
+negativo,36,pagamento em dia,radio/televisão,2302,<100,"[1,4) anos",4,masculino/divorciado,nenhum,4,carro,31,nenhum,alugada,1,nível 2,1,não,não,mau
+negativo,6,pagamento em dia,carro novo,662,<100,< 1 ano,3,masculino/solteiro,nenhum,4,imobiliario,41,nenhum,própria,1,nível 1,2,sim,não,bom
+[0-200),36,pagamento em dia,educação,2273,<100,"[4,7) anos",3,masculino/solteiro,nenhum,1,carro,32,nenhum,própria,2,nível 2,2,não,não,bom
+[0-200),15,pagamento em dia,carro novo,2631,[100-500),"[1,4) anos",2,feminino/divorciado,nenhum,4,carro,28,nenhum,alugada,2,nível 2,1,sim,não,mau
+sem conta,12,já atrasou pagamentos,carro usado,1503,<100,"[1,4) anos",4,masculino/casado,nenhum,4,imobiliario,41,nenhum,alugada,1,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,radio/televisão,1311,[100-500),"[4,7) anos",4,masculino/casado,nenhum,3,seguro  de vida,26,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,24,pagamento em dia,radio/televisão,3105,sem conta,< 1 ano,4,masculino/solteiro,nenhum,2,carro,25,nenhum,própria,2,nível 2,1,não,não,bom
+200+,21,conta crítica,educação,2319,<100,< 1 ano,2,masculino/divorciado,nenhum,1,carro,33,nenhum,alugada,1,nível 2,1,não,não,mau
+negativo,6,pagamento em dia,carro novo,1374,sem conta,desempregado,4,feminino/divorciado,nenhum,3,seguro  de vida,75,nenhum,própria,1,nível 3,1,sim,não,bom
+[0-200),18,conta crítica,móveis,3612,<100,> 7 anos,3,feminino/divorciado,nenhum,4,seguro  de vida,37,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,48,pagamento em dia,carro novo,7763,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,42,bancos,de graça,1,nível 3,1,não,não,mau
+200+,18,pagamento em dia,móveis,3049,<100,< 1 ano,1,feminino/divorciado,nenhum,1,seguro  de vida,45,lojas,própria,1,nível 1,1,não,não,bom
+[0-200),12,pagamento em dia,radio/televisão,1534,<100,< 1 ano,1,masculino/casado,nenhum,1,imobiliario,23,nenhum,alugada,1,nível 2,1,não,não,mau
+sem conta,24,já atrasou pagamentos,carro novo,2032,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,60,nenhum,de graça,2,nível 2,1,sim,não,bom
+negativo,30,pagamento em dia,móveis,6350,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,31,nenhum,própria,1,nível 2,1,não,não,mau
+200+,18,pagamento em dia,móveis,2864,<100,"[1,4) anos",2,masculino/solteiro,nenhum,1,imobiliario,34,nenhum,própria,1,nível 1,2,não,não,mau
+sem conta,12,conta crítica,carro novo,1255,<100,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,61,nenhum,própria,2,nível 1,1,não,não,bom
+negativo,24,já atrasou pagamentos,carro novo,1333,<100,desempregado,4,masculino/solteiro,nenhum,2,imobiliario,43,nenhum,de graça,2,nível 2,2,não,não,mau
+sem conta,24,conta crítica,carro novo,2022,<100,"[1,4) anos",4,feminino/divorciado,nenhum,4,carro,37,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,24,pagamento em dia,radio/televisão,1552,<100,"[4,7) anos",3,masculino/solteiro,nenhum,1,carro,32,bancos,própria,1,nível 2,2,não,não,bom
+negativo,12,creditos quitados,radio/televisão,626,<100,"[1,4) anos",4,feminino/divorciado,nenhum,4,imobiliario,24,bancos,própria,1,nível 1,1,não,não,mau
+sem conta,48,conta crítica,carro usado,8858,sem conta,"[4,7) anos",2,masculino/solteiro,nenhum,1,sem propriedades,35,nenhum,de graça,2,nível 2,1,sim,não,bom
+sem conta,12,conta crítica,reparos,996,sem conta,"[4,7) anos",4,feminino/divorciado,nenhum,4,imobiliario,23,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,6,creditos quitados,radio/televisão,1750,[500-1000),> 7 anos,2,masculino/solteiro,nenhum,4,seguro  de vida,45,bancos,própria,1,nível 1,2,não,não,bom
+negativo,48,pagamento em dia,radio/televisão,6999,<100,"[4,7) anos",1,masculino/casado,fiador,1,imobiliario,34,nenhum,própria,2,nível 2,1,sim,não,mau
+[0-200),12,conta crítica,carro novo,1995,[100-500),< 1 ano,4,masculino/solteiro,nenhum,1,carro,27,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),9,pagamento em dia,educação,1199,<100,"[4,7) anos",4,feminino/divorciado,nenhum,4,seguro  de vida,67,nenhum,própria,2,nível 3,1,sim,não,bom
+[0-200),12,pagamento em dia,radio/televisão,1331,<100,< 1 ano,2,masculino/solteiro,nenhum,1,carro,22,lojas,própria,1,nível 2,1,não,não,mau
+[0-200),18,primeira vez,carro novo,2278,[100-500),< 1 ano,3,feminino/divorciado,nenhum,3,carro,28,nenhum,própria,2,nível 2,1,não,não,mau
+sem conta,21,primeira vez,carro novo,5003,sem conta,"[1,4) anos",1,feminino/divorciado,nenhum,4,seguro  de vida,29,bancos,própria,2,nível 2,1,sim,não,mau
+negativo,24,creditos quitados,móveis,3552,<100,"[4,7) anos",3,masculino/solteiro,nenhum,4,carro,27,bancos,própria,1,nível 2,1,não,não,mau
+[0-200),18,conta crítica,móveis,1928,<100,< 1 ano,2,masculino/solteiro,nenhum,2,imobiliario,31,nenhum,própria,2,nível 1,1,não,não,mau
+negativo,24,pagamento em dia,carro usado,2964,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,49,bancos,de graça,1,nível 2,2,sim,não,bom
+negativo,24,creditos quitados,radio/televisão,1546,<100,"[4,7) anos",4,masculino/solteiro,fiador,4,carro,24,bancos,alugada,1,nível 1,1,não,não,mau
+200+,6,já atrasou pagamentos,radio/televisão,683,<100,< 1 ano,2,feminino/divorciado,nenhum,1,seguro  de vida,29,bancos,própria,1,nível 2,1,não,não,bom
+[0-200),36,pagamento em dia,carro novo,12389,sem conta,"[1,4) anos",1,masculino/solteiro,nenhum,4,sem propriedades,37,nenhum,de graça,1,nível 2,1,sim,não,mau
+[0-200),24,já atrasou pagamentos,negócios,4712,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,37,bancos,própria,2,nível 3,1,sim,não,bom
+[0-200),24,já atrasou pagamentos,radio/televisão,1553,[100-500),"[4,7) anos",3,feminino/divorciado,nenhum,2,seguro  de vida,23,nenhum,alugada,2,nível 2,1,sim,não,bom
+negativo,12,pagamento em dia,carro novo,1372,<100,"[4,7) anos",2,masculino/divorciado,nenhum,3,carro,36,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,24,conta crítica,radio/televisão,2578,>1000,> 7 anos,2,masculino/solteiro,nenhum,2,carro,34,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),48,pagamento em dia,radio/televisão,3979,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,1,carro,41,nenhum,própria,2,nível 2,2,sim,não,bom
+negativo,48,pagamento em dia,radio/televisão,6758,<100,"[1,4) anos",3,feminino/divorciado,nenhum,2,carro,31,nenhum,própria,1,nível 2,1,sim,não,mau
+negativo,24,pagamento em dia,móveis,3234,<100,< 1 ano,4,feminino/divorciado,nenhum,4,imobiliario,23,nenhum,alugada,1,nível 1,1,sim,não,mau
+sem conta,30,conta crítica,radio/televisão,5954,<100,"[4,7) anos",3,masculino/solteiro,co-aplicante,2,carro,38,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,carro usado,5433,sem conta,desempregado,2,feminino/divorciado,nenhum,4,seguro  de vida,26,nenhum,alugada,1,nível 3,1,sim,não,bom
+negativo,15,pagamento em dia,negócios,806,<100,"[1,4) anos",4,feminino/divorciado,nenhum,4,seguro  de vida,22,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),9,pagamento em dia,radio/televisão,1082,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,27,nenhum,própria,2,nível 1,1,não,não,bom
+sem conta,15,conta crítica,móveis,2788,<100,"[4,7) anos",2,feminino/divorciado,co-aplicante,3,carro,24,bancos,própria,2,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,radio/televisão,2930,<100,"[4,7) anos",2,feminino/divorciado,nenhum,1,imobiliario,27,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,24,conta crítica,educação,1927,sem conta,"[1,4) anos",3,feminino/divorciado,nenhum,2,carro,33,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),36,conta crítica,carro novo,2820,<100,< 1 ano,4,masculino/divorciado,nenhum,4,carro,27,nenhum,própria,2,nível 2,1,não,não,mau
+sem conta,24,pagamento em dia,retreinamentos,937,<100,< 1 ano,4,masculino/casado,nenhum,3,carro,27,nenhum,própria,2,nível 1,1,não,não,bom
+[0-200),18,conta crítica,carro novo,1056,<100,> 7 anos,3,masculino/solteiro,fiador,3,imobiliario,30,bancos,própria,2,nível 2,1,não,não,mau
+[0-200),12,conta crítica,carro novo,3124,<100,< 1 ano,1,masculino/solteiro,nenhum,3,imobiliario,49,bancos,própria,2,nível 1,2,não,não,bom
+sem conta,9,pagamento em dia,móveis,1388,<100,"[1,4) anos",4,feminino/divorciado,nenhum,2,imobiliario,26,nenhum,alugada,1,nível 2,1,não,não,bom
+[0-200),36,pagamento em dia,reparos,2384,<100,< 1 ano,4,masculino/solteiro,nenhum,1,sem propriedades,33,nenhum,alugada,1,nível 1,1,não,não,mau
+sem conta,12,pagamento em dia,carro novo,2133,sem conta,> 7 anos,4,feminino/divorciado,nenhum,4,sem propriedades,52,nenhum,de graça,1,nível 3,1,sim,não,bom
+negativo,18,pagamento em dia,móveis,2039,<100,"[1,4) anos",1,feminino/divorciado,nenhum,4,imobiliario,20,bancos,alugada,1,nível 2,1,não,não,mau
+negativo,9,conta crítica,carro novo,2799,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,imobiliario,36,nenhum,alugada,2,nível 2,2,não,não,bom
+negativo,12,pagamento em dia,móveis,1289,<100,"[1,4) anos",4,masculino/solteiro,fiador,1,seguro  de vida,21,nenhum,própria,1,nível 1,1,não,não,bom
+negativo,18,pagamento em dia,itens de casa,1217,<100,"[1,4) anos",4,masculino/casado,nenhum,3,imobiliario,47,nenhum,própria,1,nível 1,1,sim,não,mau
+negativo,12,conta crítica,móveis,2246,<100,> 7 anos,3,masculino/solteiro,nenhum,3,seguro  de vida,60,nenhum,própria,2,nível 2,1,não,não,mau
+negativo,12,conta crítica,radio/televisão,385,<100,"[4,7) anos",4,feminino/divorciado,nenhum,3,imobiliario,58,nenhum,própria,4,nível 1,1,sim,não,bom
+[0-200),24,já atrasou pagamentos,carro novo,1965,sem conta,"[1,4) anos",4,feminino/divorciado,nenhum,4,carro,42,nenhum,alugada,2,nível 2,1,sim,não,bom
+sem conta,21,pagamento em dia,negócios,1572,>1000,> 7 anos,4,feminino/divorciado,nenhum,4,imobiliario,36,bancos,própria,1,nível 1,1,não,não,bom
+[0-200),24,pagamento em dia,carro novo,2718,<100,"[1,4) anos",3,feminino/divorciado,nenhum,4,seguro  de vida,20,nenhum,alugada,1,nível 1,1,sim,não,mau
+negativo,24,creditos quitados,outros,1358,sem conta,> 7 anos,4,masculino/solteiro,nenhum,3,carro,40,lojas,própria,1,nível 3,1,sim,não,mau
+[0-200),6,creditos quitados,carro novo,931,[100-500),< 1 ano,1,feminino/divorciado,nenhum,1,seguro  de vida,32,lojas,própria,1,nível 1,1,não,não,mau
+negativo,24,pagamento em dia,carro novo,1442,<100,"[4,7) anos",4,feminino/divorciado,nenhum,4,carro,23,nenhum,alugada,2,nível 2,1,não,não,mau
+[0-200),24,primeira vez,negócios,4241,<100,"[1,4) anos",1,masculino/solteiro,nenhum,4,imobiliario,36,nenhum,própria,3,nível 1,1,sim,não,mau
+sem conta,18,conta crítica,carro novo,2775,<100,"[4,7) anos",2,masculino/solteiro,nenhum,2,seguro  de vida,31,bancos,própria,2,nível 2,1,não,não,mau
+sem conta,24,já atrasou pagamentos,negócios,3863,<100,"[1,4) anos",1,masculino/solteiro,nenhum,2,sem propriedades,32,nenhum,de graça,1,nível 2,1,não,não,bom
+[0-200),7,pagamento em dia,radio/televisão,2329,<100,< 1 ano,1,feminino/divorciado,fiador,1,imobiliario,45,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),9,pagamento em dia,móveis,918,<100,"[1,4) anos",4,feminino/divorciado,nenhum,1,seguro  de vida,30,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),24,creditos quitados,educação,1837,<100,"[4,7) anos",4,feminino/divorciado,nenhum,4,sem propriedades,34,bancos,de graça,1,nível 1,1,não,não,mau
+sem conta,36,pagamento em dia,móveis,3349,<100,"[1,4) anos",4,feminino/divorciado,nenhum,2,carro,28,nenhum,própria,1,nível 3,1,sim,não,mau
+200+,10,pagamento em dia,móveis,1275,<100,< 1 ano,4,feminino/divorciado,nenhum,2,seguro  de vida,23,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,24,creditos quitados,móveis,2828,[500-1000),"[1,4) anos",4,masculino/solteiro,nenhum,4,imobiliario,22,lojas,própria,1,nível 2,1,sim,não,bom
+sem conta,24,conta crítica,negócios,4526,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,imobiliario,74,nenhum,própria,1,nível 3,1,sim,não,bom
+[0-200),36,pagamento em dia,radio/televisão,2671,[100-500),"[1,4) anos",4,feminino/divorciado,co-aplicante,4,sem propriedades,50,nenhum,de graça,1,nível 2,1,não,não,mau
+sem conta,18,pagamento em dia,radio/televisão,2051,<100,< 1 ano,4,masculino/solteiro,nenhum,1,imobiliario,33,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,15,pagamento em dia,carro usado,1300,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,45,bancos,de graça,1,nível 2,2,não,não,bom
+negativo,12,pagamento em dia,itens de casa,741,[100-500),desempregado,4,feminino/divorciado,nenhum,3,seguro  de vida,22,nenhum,própria,1,nível 2,1,não,não,mau
+200+,10,pagamento em dia,carro novo,1240,[100-500),> 7 anos,1,feminino/divorciado,nenhum,4,sem propriedades,48,nenhum,de graça,1,nível 1,2,não,não,mau
+negativo,21,pagamento em dia,radio/televisão,3357,>1000,< 1 ano,4,feminino/divorciado,nenhum,2,carro,29,bancos,própria,1,nível 2,1,não,não,bom
+negativo,24,creditos quitados,carro usado,3632,<100,"[1,4) anos",1,feminino/divorciado,fiador,4,carro,22,bancos,alugada,1,nível 2,1,não,sim,bom
+sem conta,18,já atrasou pagamentos,móveis,1808,<100,"[4,7) anos",4,feminino/divorciado,nenhum,1,imobiliario,22,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),48,primeira vez,negócios,12204,sem conta,"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,48,bancos,própria,1,nível 3,1,sim,não,bom
+[0-200),60,já atrasou pagamentos,radio/televisão,9157,sem conta,"[1,4) anos",2,masculino/solteiro,nenhum,2,sem propriedades,27,nenhum,de graça,1,nível 3,1,não,não,bom
+negativo,6,conta crítica,carro novo,3676,<100,"[1,4) anos",1,masculino/solteiro,nenhum,3,imobiliario,37,nenhum,alugada,3,nível 2,2,não,não,bom
+[0-200),30,pagamento em dia,móveis,3441,[100-500),"[1,4) anos",2,feminino/divorciado,co-aplicante,4,carro,21,nenhum,alugada,1,nível 2,1,não,não,mau
+sem conta,12,pagamento em dia,carro novo,640,<100,"[1,4) anos",4,masculino/divorciado,nenhum,2,imobiliario,49,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),21,conta crítica,negócios,3652,<100,"[4,7) anos",2,masculino/solteiro,nenhum,3,seguro  de vida,27,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,18,conta crítica,carro novo,1530,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,seguro  de vida,32,bancos,própria,2,nível 2,1,não,não,mau
+sem conta,48,pagamento em dia,negócios,3914,sem conta,"[1,4) anos",4,masculino/divorciado,nenhum,2,imobiliario,38,bancos,própria,1,nível 2,1,não,não,mau
+negativo,12,pagamento em dia,móveis,1858,<100,< 1 ano,4,feminino/divorciado,nenhum,1,carro,22,nenhum,alugada,1,nível 2,1,não,não,bom
+negativo,18,pagamento em dia,radio/televisão,2600,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,sem propriedades,65,nenhum,de graça,2,nível 2,1,não,não,mau
+sem conta,15,pagamento em dia,radio/televisão,1979,sem conta,> 7 anos,4,masculino/solteiro,nenhum,2,carro,35,nenhum,própria,1,nível 2,1,não,não,bom
+200+,6,pagamento em dia,móveis,2116,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,imobiliario,41,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),9,creditos quitados,carro novo,1437,[100-500),"[4,7) anos",2,masculino/solteiro,nenhum,3,sem propriedades,29,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,42,conta crítica,móveis,4042,[500-1000),"[1,4) anos",4,masculino/solteiro,nenhum,4,imobiliario,36,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,9,pagamento em dia,educação,3832,sem conta,> 7 anos,1,masculino/solteiro,nenhum,4,imobiliario,64,nenhum,própria,1,nível 1,1,não,não,bom
+negativo,24,pagamento em dia,radio/televisão,3660,<100,"[1,4) anos",2,feminino/divorciado,nenhum,4,carro,28,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,18,creditos quitados,móveis,1553,<100,"[1,4) anos",4,masculino/solteiro,nenhum,3,carro,44,bancos,própria,1,nível 2,1,não,não,mau
+[0-200),15,pagamento em dia,radio/televisão,1444,sem conta,< 1 ano,4,masculino/solteiro,nenhum,1,seguro  de vida,23,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,9,pagamento em dia,móveis,1980,<100,< 1 ano,2,feminino/divorciado,co-aplicante,2,carro,19,nenhum,alugada,2,nível 2,1,não,não,mau
+[0-200),24,pagamento em dia,carro novo,1355,<100,< 1 ano,3,feminino/divorciado,nenhum,4,carro,25,nenhum,própria,1,nível 1,1,sim,não,mau
+sem conta,12,pagamento em dia,educação,1393,<100,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,47,bancos,própria,3,nível 2,2,sim,não,bom
+sem conta,24,pagamento em dia,radio/televisão,1376,[500-1000),"[4,7) anos",4,feminino/divorciado,nenhum,1,carro,28,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,60,já atrasou pagamentos,radio/televisão,15653,<100,"[4,7) anos",2,masculino/solteiro,nenhum,4,carro,21,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,12,pagamento em dia,radio/televisão,1493,<100,< 1 ano,4,feminino/divorciado,nenhum,3,carro,34,nenhum,própria,1,nível 2,2,não,não,bom
+negativo,42,já atrasou pagamentos,radio/televisão,4370,<100,"[4,7) anos",3,masculino/solteiro,nenhum,2,seguro  de vida,26,bancos,própria,2,nível 2,2,sim,não,mau
+negativo,18,pagamento em dia,educação,750,<100,desempregado,4,feminino/divorciado,nenhum,1,imobiliario,27,nenhum,própria,1,desempregado,1,não,não,mau
+[0-200),15,pagamento em dia,reparos,1308,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,38,nenhum,própria,2,nível 1,1,não,não,bom
+sem conta,15,pagamento em dia,educação,4623,[100-500),"[1,4) anos",3,masculino/solteiro,nenhum,2,seguro  de vida,40,nenhum,própria,1,nível 3,1,sim,não,mau
+sem conta,24,conta crítica,radio/televisão,1851,<100,"[4,7) anos",4,masculino/casado,fiador,2,carro,33,nenhum,própria,2,nível 2,1,sim,não,bom
+negativo,18,conta crítica,radio/televisão,1880,<100,"[4,7) anos",4,masculino/casado,nenhum,1,seguro  de vida,32,nenhum,própria,2,nível 3,1,sim,não,bom
+sem conta,36,já atrasou pagamentos,negócios,7980,sem conta,< 1 ano,4,masculino/solteiro,nenhum,4,carro,27,nenhum,alugada,2,nível 2,1,sim,não,mau
+negativo,30,primeira vez,móveis,4583,<100,"[1,4) anos",2,masculino/divorciado,fiador,2,imobiliario,32,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,12,pagamento em dia,carro novo,1386,[500-1000),"[1,4) anos",2,feminino/divorciado,nenhum,2,seguro  de vida,26,nenhum,própria,1,nível 2,1,não,não,mau
+200+,24,pagamento em dia,carro novo,947,<100,"[4,7) anos",4,masculino/solteiro,nenhum,3,sem propriedades,38,bancos,de graça,1,nível 2,2,não,não,mau
+negativo,12,pagamento em dia,educação,684,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,carro,40,nenhum,alugada,1,nível 1,2,não,não,mau
+negativo,48,pagamento em dia,educação,7476,<100,"[4,7) anos",4,masculino/solteiro,nenhum,1,sem propriedades,50,nenhum,de graça,1,nível 3,1,sim,não,bom
+[0-200),12,pagamento em dia,móveis,1922,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,37,nenhum,própria,1,nível 1,1,não,não,mau
+negativo,24,pagamento em dia,carro novo,2303,<100,> 7 anos,4,masculino/solteiro,co-aplicante,1,imobiliario,45,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),36,já atrasou pagamentos,carro novo,8086,[100-500),> 7 anos,2,masculino/solteiro,nenhum,4,carro,42,nenhum,própria,4,nível 3,1,sim,não,mau
+sem conta,24,conta crítica,carro usado,2346,<100,"[4,7) anos",4,masculino/solteiro,nenhum,3,carro,35,nenhum,própria,2,nível 2,1,sim,não,bom
+negativo,14,pagamento em dia,carro novo,3973,<100,desempregado,1,masculino/solteiro,nenhum,4,sem propriedades,22,nenhum,de graça,1,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,carro novo,888,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,41,bancos,própria,1,nível 1,2,não,não,mau
+sem conta,48,pagamento em dia,radio/televisão,10222,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,3,carro,37,lojas,própria,1,nível 2,1,sim,não,bom
+[0-200),30,primeira vez,negócios,4221,<100,"[1,4) anos",2,feminino/divorciado,nenhum,1,carro,28,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),18,conta crítica,móveis,6361,<100,> 7 anos,2,masculino/solteiro,nenhum,1,sem propriedades,41,nenhum,própria,1,nível 2,1,sim,não,bom
+200+,12,pagamento em dia,radio/televisão,1297,<100,"[1,4) anos",3,masculino/casado,nenhum,4,imobiliario,23,nenhum,alugada,1,nível 2,1,não,não,bom
+negativo,12,pagamento em dia,carro novo,900,sem conta,"[1,4) anos",4,masculino/casado,nenhum,2,carro,23,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,21,pagamento em dia,móveis,2241,<100,> 7 anos,4,masculino/solteiro,nenhum,2,imobiliario,50,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),6,já atrasou pagamentos,móveis,1050,<100,desempregado,4,masculino/solteiro,nenhum,1,seguro  de vida,35,lojas,própria,2,nível 3,1,sim,não,bom
+200+,6,conta crítica,educação,1047,<100,"[1,4) anos",2,feminino/divorciado,nenhum,4,seguro  de vida,50,nenhum,própria,1,nível 1,1,não,não,bom
+sem conta,24,conta crítica,outros,6314,<100,desempregado,4,masculino/solteiro,co-aplicante,2,sem propriedades,27,bancos,própria,2,nível 3,1,sim,não,bom
+[0-200),30,creditos quitados,móveis,3496,>1000,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,34,lojas,própria,1,nível 2,2,sim,não,bom
+sem conta,48,creditos quitados,negócios,3609,<100,"[1,4) anos",1,feminino/divorciado,nenhum,1,imobiliario,27,lojas,própria,1,nível 2,1,não,não,bom
+negativo,12,conta crítica,carro novo,4843,<100,> 7 anos,3,masculino/solteiro,co-aplicante,4,seguro  de vida,43,nenhum,alugada,2,nível 2,1,sim,não,mau
+200+,30,conta crítica,radio/televisão,3017,<100,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,47,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,24,conta crítica,negócios,4139,[100-500),"[1,4) anos",3,masculino/solteiro,nenhum,3,seguro  de vida,27,nenhum,própria,2,nível 1,1,sim,não,bom
+sem conta,36,pagamento em dia,negócios,5742,[100-500),"[4,7) anos",2,masculino/solteiro,nenhum,2,carro,31,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,60,pagamento em dia,carro novo,10366,<100,> 7 anos,2,masculino/solteiro,nenhum,4,seguro  de vida,42,nenhum,própria,1,nível 3,1,sim,não,bom
+sem conta,6,conta crítica,carro novo,2080,[500-1000),"[1,4) anos",1,masculino/casado,nenhum,2,carro,24,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,21,já atrasou pagamentos,negócios,2580,[500-1000),< 1 ano,4,masculino/solteiro,nenhum,2,imobiliario,41,bancos,própria,1,nível 1,2,não,não,mau
+sem conta,30,conta crítica,radio/televisão,4530,<100,"[4,7) anos",4,feminino/divorciado,nenhum,4,carro,26,nenhum,alugada,1,nível 3,1,sim,não,bom
+sem conta,24,conta crítica,móveis,5150,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,33,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),72,pagamento em dia,radio/televisão,5595,[100-500),"[1,4) anos",2,masculino/casado,nenhum,2,carro,24,nenhum,própria,1,nível 2,1,não,não,mau
+negativo,24,pagamento em dia,radio/televisão,2384,<100,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,64,bancos,alugada,1,nível 1,1,não,não,bom
+sem conta,18,pagamento em dia,radio/televisão,1453,<100,< 1 ano,3,feminino/divorciado,nenhum,1,imobiliario,26,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,6,pagamento em dia,educação,1538,<100,< 1 ano,1,feminino/divorciado,nenhum,2,sem propriedades,56,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,12,pagamento em dia,radio/televisão,2279,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,4,sem propriedades,37,nenhum,de graça,1,nível 2,1,sim,não,bom
+sem conta,15,já atrasou pagamentos,radio/televisão,1478,<100,"[1,4) anos",4,masculino/casado,nenhum,3,imobiliario,33,bancos,própria,2,nível 2,1,não,não,bom
+sem conta,24,conta crítica,radio/televisão,5103,<100,< 1 ano,3,masculino/casado,nenhum,3,sem propriedades,47,nenhum,de graça,3,nível 2,1,sim,não,bom
+[0-200),36,já atrasou pagamentos,negócios,9857,[100-500),"[4,7) anos",1,masculino/solteiro,nenhum,3,seguro  de vida,31,nenhum,própria,2,nível 1,2,sim,não,bom
+sem conta,60,pagamento em dia,carro novo,6527,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,4,sem propriedades,34,nenhum,de graça,1,nível 2,2,sim,não,bom
+200+,10,conta crítica,radio/televisão,1347,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,27,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),36,já atrasou pagamentos,carro novo,2862,[100-500),> 7 anos,4,masculino/solteiro,nenhum,3,sem propriedades,30,nenhum,de graça,1,nível 2,1,não,não,bom
+sem conta,9,pagamento em dia,radio/televisão,2753,[100-500),> 7 anos,3,masculino/solteiro,co-aplicante,4,carro,35,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,12,pagamento em dia,carro novo,3651,>1000,"[1,4) anos",1,masculino/solteiro,nenhum,3,seguro  de vida,31,nenhum,própria,1,nível 2,2,não,não,bom
+negativo,15,conta crítica,móveis,975,<100,"[1,4) anos",2,masculino/divorciado,nenhum,3,seguro  de vida,25,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),15,pagamento em dia,reparos,2631,[100-500),"[1,4) anos",3,feminino/divorciado,nenhum,2,imobiliario,25,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),24,pagamento em dia,radio/televisão,2896,[100-500),< 1 ano,2,masculino/solteiro,nenhum,1,carro,29,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,6,conta crítica,carro novo,4716,sem conta,< 1 ano,1,masculino/solteiro,nenhum,3,imobiliario,44,nenhum,própria,2,nível 1,2,não,não,bom
+sem conta,24,pagamento em dia,radio/televisão,2284,<100,"[4,7) anos",4,masculino/solteiro,nenhum,2,carro,28,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,6,pagamento em dia,carro usado,1236,[500-1000),"[1,4) anos",2,masculino/solteiro,nenhum,4,seguro  de vida,50,nenhum,alugada,1,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,radio/televisão,1103,<100,"[4,7) anos",4,masculino/solteiro,fiador,3,imobiliario,29,nenhum,própria,2,nível 2,1,não,sim,bom
+sem conta,12,conta crítica,carro novo,926,<100,desempregado,1,feminino/divorciado,nenhum,2,seguro  de vida,38,nenhum,própria,1,desempregado,1,não,não,bom
+sem conta,18,conta crítica,radio/televisão,1800,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,24,nenhum,própria,2,nível 2,1,não,não,bom
+200+,15,pagamento em dia,educação,1905,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,40,nenhum,alugada,1,nível 3,1,sim,não,bom
+sem conta,12,pagamento em dia,móveis,1123,[500-1000),"[1,4) anos",4,feminino/divorciado,nenhum,4,carro,29,nenhum,alugada,1,nível 1,1,não,não,mau
+negativo,48,conta crítica,carro usado,6331,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,46,nenhum,de graça,2,nível 2,1,sim,não,mau
+200+,24,pagamento em dia,radio/televisão,1377,[100-500),> 7 anos,4,feminino/divorciado,nenhum,2,sem propriedades,47,nenhum,de graça,1,nível 2,1,sim,não,bom
+[0-200),30,já atrasou pagamentos,negócios,2503,[100-500),> 7 anos,4,masculino/solteiro,nenhum,2,seguro  de vida,41,lojas,própria,2,nível 2,1,não,não,bom
+[0-200),27,pagamento em dia,negócios,2528,<100,< 1 ano,4,feminino/divorciado,nenhum,1,seguro  de vida,32,nenhum,própria,1,nível 2,2,sim,não,bom
+sem conta,15,pagamento em dia,carro novo,5324,[500-1000),> 7 anos,1,feminino/divorciado,nenhum,4,sem propriedades,35,nenhum,de graça,1,nível 2,1,não,não,bom
+[0-200),48,pagamento em dia,carro novo,6560,[100-500),"[4,7) anos",3,masculino/solteiro,nenhum,2,seguro  de vida,24,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),12,primeira vez,móveis,2969,<100,< 1 ano,4,feminino/divorciado,nenhum,3,seguro  de vida,25,nenhum,alugada,2,nível 2,1,não,não,mau
+[0-200),9,pagamento em dia,radio/televisão,1206,<100,> 7 anos,4,feminino/divorciado,nenhum,4,imobiliario,25,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),9,pagamento em dia,radio/televisão,2118,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,imobiliario,37,nenhum,própria,1,nível 1,2,não,não,bom
+sem conta,18,conta crítica,radio/televisão,629,[500-1000),> 7 anos,4,masculino/solteiro,nenhum,3,seguro  de vida,32,bancos,própria,2,nível 3,1,sim,não,bom
+negativo,6,creditos quitados,educação,1198,<100,> 7 anos,4,feminino/divorciado,nenhum,4,sem propriedades,35,nenhum,de graça,1,nível 2,1,não,não,mau
+sem conta,21,pagamento em dia,carro usado,2476,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,46,nenhum,própria,1,nível 3,1,sim,não,bom
+negativo,9,conta crítica,radio/televisão,1138,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,imobiliario,25,nenhum,própria,2,nível 1,1,não,não,bom
+[0-200),60,pagamento em dia,carro novo,14027,<100,"[4,7) anos",4,masculino/solteiro,nenhum,2,sem propriedades,27,nenhum,própria,1,nível 3,1,sim,não,mau
+sem conta,30,conta crítica,carro usado,7596,sem conta,> 7 anos,1,masculino/solteiro,nenhum,4,carro,63,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,30,conta crítica,radio/televisão,3077,sem conta,> 7 anos,3,masculino/solteiro,nenhum,2,carro,40,nenhum,própria,2,nível 2,2,sim,não,bom
+sem conta,18,pagamento em dia,radio/televisão,1505,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,sem propriedades,32,nenhum,de graça,1,nível 3,1,sim,não,bom
+200+,24,conta crítica,radio/televisão,3148,sem conta,"[1,4) anos",3,masculino/solteiro,nenhum,2,carro,31,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),20,primeira vez,carro usado,6148,[100-500),> 7 anos,3,masculino/casado,nenhum,4,carro,31,bancos,própria,2,nível 2,1,sim,não,bom
+200+,9,primeira vez,radio/televisão,1337,<100,< 1 ano,4,masculino/solteiro,nenhum,2,carro,34,nenhum,própria,2,nível 3,1,sim,não,mau
+[0-200),6,creditos quitados,educação,433,>1000,< 1 ano,4,feminino/divorciado,nenhum,2,seguro  de vida,24,bancos,alugada,1,nível 2,2,não,não,mau
+negativo,12,pagamento em dia,carro novo,1228,<100,"[1,4) anos",4,feminino/divorciado,nenhum,2,imobiliario,24,nenhum,própria,1,nível 1,1,não,não,mau
+[0-200),9,pagamento em dia,radio/televisão,790,[500-1000),"[1,4) anos",4,feminino/divorciado,nenhum,3,imobiliario,66,nenhum,própria,1,nível 1,1,não,não,bom
+sem conta,27,pagamento em dia,carro novo,2570,<100,"[1,4) anos",3,feminino/divorciado,nenhum,3,imobiliario,21,nenhum,alugada,1,nível 2,1,não,não,mau
+sem conta,6,conta crítica,carro novo,250,>1000,"[1,4) anos",2,feminino/divorciado,nenhum,2,imobiliario,41,bancos,própria,2,nível 1,1,não,não,bom
+sem conta,15,conta crítica,radio/televisão,1316,[500-1000),"[1,4) anos",2,masculino/casado,nenhum,2,seguro  de vida,47,nenhum,própria,2,nível 1,1,não,não,bom
+negativo,18,pagamento em dia,radio/televisão,1882,<100,"[1,4) anos",4,feminino/divorciado,nenhum,4,carro,25,bancos,alugada,2,nível 2,1,não,não,mau
+[0-200),48,creditos quitados,negócios,6416,<100,> 7 anos,4,feminino/divorciado,nenhum,3,sem propriedades,59,nenhum,alugada,1,nível 2,1,não,não,mau
+200+,24,conta crítica,negócios,1275,>1000,"[1,4) anos",2,masculino/divorciado,nenhum,4,imobiliario,36,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),24,já atrasou pagamentos,radio/televisão,6403,<100,< 1 ano,1,masculino/solteiro,nenhum,2,carro,33,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,24,pagamento em dia,radio/televisão,1987,<100,"[1,4) anos",2,masculino/solteiro,nenhum,4,imobiliario,21,nenhum,alugada,1,nível 1,2,não,não,mau
+[0-200),8,pagamento em dia,radio/televisão,760,<100,"[4,7) anos",4,feminino/divorciado,fiador,2,imobiliario,44,nenhum,própria,1,nível 1,1,não,não,bom
+sem conta,24,pagamento em dia,carro usado,2603,>1000,"[1,4) anos",2,feminino/divorciado,nenhum,4,carro,28,nenhum,alugada,1,nível 2,1,sim,não,bom
+sem conta,4,conta crítica,carro novo,3380,<100,"[4,7) anos",1,feminino/divorciado,nenhum,1,imobiliario,37,nenhum,própria,1,nível 2,2,não,não,bom
+[0-200),36,creditos quitados,itens de casa,3990,sem conta,< 1 ano,3,feminino/divorciado,nenhum,2,sem propriedades,29,bancos,própria,1,desempregado,1,não,não,bom
+[0-200),24,pagamento em dia,carro usado,11560,<100,"[1,4) anos",1,feminino/divorciado,nenhum,4,carro,23,nenhum,alugada,2,nível 3,1,não,não,mau
+negativo,18,pagamento em dia,carro novo,4380,[100-500),"[1,4) anos",3,masculino/solteiro,nenhum,4,carro,35,nenhum,própria,1,nível 1,2,sim,não,bom
+sem conta,6,conta crítica,carro novo,6761,<100,"[4,7) anos",1,masculino/solteiro,nenhum,3,sem propriedades,45,nenhum,própria,2,nível 3,2,sim,não,bom
+[0-200),30,primeira vez,negócios,4280,[100-500),"[1,4) anos",4,feminino/divorciado,nenhum,4,carro,26,nenhum,alugada,2,nível 1,1,não,não,mau
+negativo,24,creditos quitados,carro novo,2325,[100-500),"[4,7) anos",2,masculino/solteiro,nenhum,3,carro,32,bancos,própria,1,nível 2,1,não,não,bom
+[0-200),10,creditos quitados,radio/televisão,1048,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,imobiliario,23,lojas,própria,1,nível 1,1,não,não,bom
+sem conta,21,pagamento em dia,radio/televisão,3160,sem conta,> 7 anos,4,masculino/solteiro,nenhum,3,seguro  de vida,41,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,24,creditos quitados,móveis,2483,[500-1000),"[1,4) anos",4,masculino/solteiro,nenhum,4,imobiliario,22,lojas,própria,1,nível 2,1,sim,não,bom
+negativo,39,conta crítica,móveis,14179,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,4,seguro  de vida,30,nenhum,própria,2,nível 3,1,sim,não,bom
+negativo,13,conta crítica,negócios,1797,<100,< 1 ano,3,masculino/solteiro,nenhum,1,seguro  de vida,28,bancos,própria,2,nível 1,1,não,não,bom
+negativo,15,pagamento em dia,carro novo,2511,<100,desempregado,1,feminino/divorciado,nenhum,4,carro,23,nenhum,alugada,1,nível 2,1,não,não,bom
+negativo,12,pagamento em dia,carro novo,1274,<100,< 1 ano,3,feminino/divorciado,nenhum,1,imobiliario,37,nenhum,própria,1,nível 1,1,não,não,mau
+sem conta,21,pagamento em dia,carro usado,5248,sem conta,"[1,4) anos",1,masculino/solteiro,nenhum,3,carro,26,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,15,pagamento em dia,carro usado,3029,<100,"[4,7) anos",2,masculino/solteiro,nenhum,2,carro,33,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,6,pagamento em dia,móveis,428,<100,> 7 anos,2,feminino/divorciado,nenhum,1,seguro  de vida,49,bancos,própria,1,nível 2,1,sim,não,bom
+negativo,18,pagamento em dia,carro novo,976,<100,< 1 ano,1,feminino/divorciado,nenhum,2,carro,23,nenhum,própria,1,nível 1,1,não,não,mau
+[0-200),12,pagamento em dia,negócios,841,[100-500),"[4,7) anos",2,feminino/divorciado,nenhum,4,imobiliario,23,nenhum,alugada,1,nível 1,1,não,não,bom
+sem conta,30,conta crítica,radio/televisão,5771,<100,"[4,7) anos",4,feminino/divorciado,nenhum,2,carro,25,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,12,já atrasou pagamentos,reparos,1555,>1000,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,55,nenhum,de graça,2,nível 2,2,não,não,mau
+negativo,24,pagamento em dia,carro novo,1285,sem conta,"[4,7) anos",4,feminino/divorciado,nenhum,4,sem propriedades,32,nenhum,alugada,1,nível 2,1,não,não,mau
+200+,6,conta crítica,carro novo,1299,<100,"[1,4) anos",1,masculino/solteiro,nenhum,1,imobiliario,74,nenhum,própria,3,desempregado,2,não,sim,bom
+200+,15,conta crítica,radio/televisão,1271,sem conta,"[1,4) anos",3,masculino/solteiro,nenhum,4,sem propriedades,39,nenhum,de graça,2,nível 2,1,sim,não,mau
+sem conta,24,pagamento em dia,carro novo,1393,<100,"[1,4) anos",2,masculino/solteiro,fiador,2,imobiliario,31,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,12,conta crítica,carro novo,691,<100,> 7 anos,4,masculino/solteiro,nenhum,3,seguro  de vida,35,nenhum,própria,2,nível 2,1,não,não,mau
+sem conta,15,conta crítica,carro novo,5045,sem conta,> 7 anos,1,feminino/divorciado,nenhum,4,carro,59,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,18,conta crítica,móveis,2124,<100,"[1,4) anos",4,feminino/divorciado,nenhum,4,imobiliario,24,nenhum,alugada,2,nível 2,1,não,não,mau
+negativo,12,pagamento em dia,radio/televisão,2214,<100,"[1,4) anos",4,masculino/solteiro,nenhum,3,seguro  de vida,24,nenhum,própria,1,nível 1,1,não,não,bom
+sem conta,21,conta crítica,carro novo,12680,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,30,nenhum,de graça,1,nível 3,1,sim,não,mau
+sem conta,24,conta crítica,carro novo,2463,[100-500),"[4,7) anos",4,masculino/casado,nenhum,3,seguro  de vida,27,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),12,pagamento em dia,radio/televisão,1155,<100,> 7 anos,3,masculino/casado,fiador,3,imobiliario,40,bancos,própria,2,nível 1,1,não,não,bom
+negativo,30,pagamento em dia,móveis,3108,<100,< 1 ano,2,masculino/divorciado,nenhum,4,seguro  de vida,31,nenhum,própria,1,nível 1,1,não,não,mau
+sem conta,10,pagamento em dia,carro usado,2901,sem conta,< 1 ano,1,feminino/divorciado,nenhum,4,imobiliario,31,nenhum,alugada,1,nível 2,1,não,não,bom
+[0-200),12,conta crítica,móveis,3617,<100,> 7 anos,1,masculino/solteiro,nenhum,4,carro,28,nenhum,alugada,3,nível 2,1,sim,não,bom
+sem conta,12,conta crítica,radio/televisão,1655,<100,> 7 anos,2,masculino/solteiro,nenhum,4,imobiliario,63,nenhum,própria,2,nível 1,1,sim,não,bom
+negativo,24,pagamento em dia,carro usado,2812,sem conta,> 7 anos,2,feminino/divorciado,nenhum,4,imobiliario,26,nenhum,alugada,1,nível 2,1,não,não,bom
+negativo,36,conta crítica,educação,8065,<100,"[1,4) anos",3,feminino/divorciado,nenhum,2,sem propriedades,25,nenhum,própria,2,nível 3,1,sim,não,mau
+sem conta,21,conta crítica,carro usado,3275,<100,> 7 anos,1,masculino/solteiro,nenhum,4,carro,36,nenhum,própria,1,nível 3,1,sim,não,bom
+sem conta,24,conta crítica,radio/televisão,2223,[100-500),> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,52,bancos,própria,2,nível 2,1,não,não,bom
+200+,12,conta crítica,carro novo,1480,[500-1000),desempregado,2,masculino/solteiro,nenhum,4,sem propriedades,66,bancos,de graça,3,desempregado,1,não,não,bom
+negativo,24,pagamento em dia,carro novo,1371,sem conta,"[1,4) anos",4,feminino/divorciado,nenhum,4,imobiliario,25,nenhum,alugada,1,nível 2,1,não,não,mau
+sem conta,36,conta crítica,carro novo,3535,<100,"[4,7) anos",4,masculino/solteiro,nenhum,4,carro,37,nenhum,própria,2,nível 2,1,sim,não,bom
+negativo,18,pagamento em dia,radio/televisão,3509,<100,"[4,7) anos",4,feminino/divorciado,fiador,1,imobiliario,25,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,36,conta crítica,carro usado,5711,>1000,> 7 anos,4,masculino/solteiro,nenhum,2,carro,38,nenhum,própria,2,nível 3,1,sim,não,bom
+[0-200),18,pagamento em dia,reparos,3872,<100,desempregado,2,feminino/divorciado,nenhum,4,carro,67,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),39,conta crítica,radio/televisão,4933,<100,"[4,7) anos",2,masculino/solteiro,fiador,2,imobiliario,25,nenhum,própria,2,nível 2,1,não,não,mau
+sem conta,24,conta crítica,carro novo,1940,>1000,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,60,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),12,primeira vez,retreinamentos,1410,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,imobiliario,31,nenhum,própria,1,nível 1,1,sim,não,bom
+[0-200),12,pagamento em dia,carro novo,836,[100-500),< 1 ano,4,feminino/divorciado,nenhum,2,seguro  de vida,23,bancos,própria,1,nível 1,1,não,não,mau
+[0-200),20,pagamento em dia,carro usado,6468,sem conta,desempregado,1,masculino/divorciado,nenhum,4,imobiliario,60,nenhum,própria,1,nível 3,1,sim,não,bom
+[0-200),18,pagamento em dia,negócios,1941,>1000,"[1,4) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,35,nenhum,própria,1,nível 1,1,sim,não,bom
+sem conta,22,pagamento em dia,radio/televisão,2675,[500-1000),> 7 anos,3,masculino/solteiro,nenhum,4,carro,40,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,48,conta crítica,carro usado,2751,sem conta,> 7 anos,4,masculino/solteiro,nenhum,3,carro,38,nenhum,própria,2,nível 2,2,sim,não,bom
+[0-200),48,já atrasou pagamentos,educação,6224,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,50,nenhum,de graça,1,nível 2,1,não,não,mau
+negativo,40,conta crítica,educação,5998,<100,"[1,4) anos",4,masculino/solteiro,nenhum,3,sem propriedades,27,bancos,própria,1,nível 2,1,sim,não,mau
+[0-200),21,pagamento em dia,negócios,1188,<100,> 7 anos,2,feminino/divorciado,nenhum,4,seguro  de vida,39,nenhum,própria,1,nível 2,2,não,não,mau
+sem conta,24,pagamento em dia,carro usado,6313,sem conta,> 7 anos,3,masculino/solteiro,nenhum,4,carro,41,nenhum,própria,1,nível 3,2,sim,não,bom
+sem conta,6,conta crítica,móveis,1221,sem conta,"[1,4) anos",1,masculino/casado,nenhum,2,seguro  de vida,27,nenhum,própria,2,nível 2,1,não,não,bom
+200+,24,pagamento em dia,móveis,2892,<100,> 7 anos,3,masculino/divorciado,nenhum,4,sem propriedades,51,nenhum,de graça,1,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,móveis,3062,[500-1000),> 7 anos,4,masculino/solteiro,nenhum,3,sem propriedades,32,nenhum,alugada,1,nível 2,1,sim,não,bom
+sem conta,9,pagamento em dia,móveis,2301,[100-500),< 1 ano,2,feminino/divorciado,nenhum,4,seguro  de vida,22,nenhum,alugada,1,nível 2,1,não,não,bom
+negativo,18,pagamento em dia,carro usado,7511,sem conta,> 7 anos,1,masculino/solteiro,nenhum,4,seguro  de vida,51,nenhum,de graça,1,nível 2,2,sim,não,mau
+sem conta,12,conta crítica,móveis,1258,<100,< 1 ano,2,feminino/divorciado,nenhum,4,seguro  de vida,22,nenhum,alugada,2,nível 1,1,não,não,bom
+sem conta,24,já atrasou pagamentos,carro novo,717,sem conta,> 7 anos,4,masculino/casado,nenhum,4,carro,54,nenhum,própria,2,nível 2,1,sim,não,bom
+[0-200),9,pagamento em dia,carro novo,1549,sem conta,< 1 ano,4,masculino/solteiro,nenhum,2,imobiliario,35,nenhum,própria,1,desempregado,1,não,não,bom
+sem conta,24,conta crítica,educação,1597,<100,> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,54,nenhum,de graça,2,nível 2,2,não,não,bom
+[0-200),18,conta crítica,radio/televisão,1795,<100,> 7 anos,3,feminino/divorciado,fiador,4,imobiliario,48,bancos,alugada,2,nível 1,1,sim,não,bom
+negativo,20,conta crítica,móveis,4272,<100,> 7 anos,1,feminino/divorciado,nenhum,4,seguro  de vida,24,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,12,conta crítica,radio/televisão,976,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,carro,35,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),12,pagamento em dia,carro novo,7472,sem conta,desempregado,1,feminino/divorciado,nenhum,2,imobiliario,24,nenhum,alugada,1,desempregado,1,não,não,bom
+negativo,36,pagamento em dia,carro novo,9271,<100,"[4,7) anos",2,masculino/solteiro,nenhum,1,carro,24,nenhum,própria,1,nível 2,1,sim,não,mau
+[0-200),6,pagamento em dia,radio/televisão,590,<100,< 1 ano,3,masculino/casado,nenhum,3,imobiliario,26,nenhum,própria,1,nível 1,1,não,sim,bom
+sem conta,12,conta crítica,radio/televisão,930,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,65,nenhum,própria,4,nível 2,1,não,não,bom
+[0-200),42,creditos quitados,carro usado,9283,<100,desempregado,1,masculino/solteiro,nenhum,2,sem propriedades,55,bancos,de graça,1,nível 3,1,sim,não,bom
+[0-200),15,primeira vez,carro novo,1778,<100,< 1 ano,2,feminino/divorciado,nenhum,1,imobiliario,26,nenhum,alugada,2,desempregado,1,não,não,mau
+[0-200),8,pagamento em dia,negócios,907,<100,< 1 ano,3,masculino/casado,nenhum,2,imobiliario,26,nenhum,própria,1,nível 2,1,sim,não,bom
+[0-200),6,pagamento em dia,radio/televisão,484,<100,"[4,7) anos",3,masculino/casado,fiador,3,imobiliario,28,bancos,própria,1,nível 1,1,não,não,bom
+negativo,36,conta crítica,carro usado,9629,<100,"[4,7) anos",4,masculino/solteiro,nenhum,4,carro,24,nenhum,própria,2,nível 2,1,sim,não,mau
+negativo,48,pagamento em dia,itens de casa,3051,<100,"[1,4) anos",3,masculino/solteiro,nenhum,4,carro,54,nenhum,própria,1,nível 2,1,não,não,mau
+negativo,48,pagamento em dia,carro novo,3931,<100,"[4,7) anos",4,masculino/solteiro,nenhum,4,sem propriedades,46,nenhum,de graça,1,nível 2,2,não,não,mau
+[0-200),36,já atrasou pagamentos,carro novo,7432,<100,"[1,4) anos",2,feminino/divorciado,nenhum,2,seguro  de vida,54,nenhum,alugada,1,nível 2,1,não,não,bom
+sem conta,6,pagamento em dia,itens de casa,1338,[500-1000),"[1,4) anos",1,masculino/divorciado,nenhum,4,imobiliario,62,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,6,conta crítica,radio/televisão,1554,<100,"[4,7) anos",1,feminino/divorciado,nenhum,2,carro,24,nenhum,alugada,2,nível 2,1,sim,não,bom
+negativo,36,pagamento em dia,outros,15857,<100,desempregado,2,masculino/divorciado,co-aplicante,3,carro,43,nenhum,própria,1,nível 3,1,não,não,bom
+negativo,18,pagamento em dia,radio/televisão,1345,<100,"[1,4) anos",4,masculino/casado,nenhum,3,imobiliario,26,bancos,própria,1,nível 2,1,não,não,mau
+sem conta,12,pagamento em dia,carro novo,1101,<100,"[1,4) anos",3,masculino/casado,nenhum,2,imobiliario,27,nenhum,própria,2,nível 2,1,sim,não,bom
+200+,12,pagamento em dia,radio/televisão,3016,<100,"[1,4) anos",3,masculino/casado,nenhum,1,carro,24,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,36,pagamento em dia,móveis,2712,<100,> 7 anos,2,masculino/solteiro,nenhum,2,seguro  de vida,41,bancos,própria,1,nível 2,2,não,não,mau
+negativo,8,conta crítica,carro novo,731,<100,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,47,nenhum,própria,2,nível 1,1,não,não,bom
+sem conta,18,conta crítica,móveis,3780,<100,< 1 ano,3,masculino/divorciado,nenhum,2,carro,35,nenhum,própria,2,nível 3,1,sim,não,bom
+negativo,21,conta crítica,carro novo,1602,<100,> 7 anos,4,masculino/casado,nenhum,3,carro,30,nenhum,própria,2,nível 2,1,sim,não,bom
+negativo,18,conta crítica,carro novo,3966,<100,> 7 anos,1,feminino/divorciado,nenhum,4,imobiliario,33,bancos,alugada,3,nível 2,1,sim,não,mau
+sem conta,18,primeira vez,negócios,4165,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,36,lojas,própria,2,nível 2,2,não,não,mau
+negativo,36,pagamento em dia,carro usado,8335,sem conta,> 7 anos,3,masculino/solteiro,nenhum,4,sem propriedades,47,nenhum,de graça,1,nível 2,1,não,não,mau
+[0-200),48,já atrasou pagamentos,negócios,6681,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,4,sem propriedades,38,nenhum,de graça,1,nível 2,2,sim,não,bom
+sem conta,24,já atrasou pagamentos,negócios,2375,[500-1000),"[1,4) anos",4,masculino/solteiro,nenhum,2,carro,44,nenhum,própria,2,nível 2,2,sim,não,bom
+negativo,18,pagamento em dia,carro novo,1216,<100,< 1 ano,4,feminino/divorciado,nenhum,3,carro,23,nenhum,alugada,1,nível 2,1,sim,não,mau
+negativo,45,primeira vez,negócios,11816,<100,> 7 anos,2,masculino/solteiro,nenhum,4,carro,29,nenhum,alugada,2,nível 2,1,não,não,mau
+[0-200),24,pagamento em dia,radio/televisão,5084,sem conta,> 7 anos,2,feminino/divorciado,nenhum,4,carro,42,nenhum,própria,1,nível 2,1,sim,não,bom
+200+,15,pagamento em dia,radio/televisão,2327,<100,< 1 ano,2,feminino/divorciado,nenhum,3,imobiliario,25,nenhum,própria,1,nível 1,1,não,não,mau
+negativo,12,primeira vez,carro novo,1082,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,carro,48,bancos,própria,2,nível 2,1,não,não,mau
+sem conta,12,pagamento em dia,radio/televisão,886,sem conta,"[1,4) anos",4,feminino/divorciado,nenhum,2,carro,21,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,4,pagamento em dia,móveis,601,<100,< 1 ano,1,feminino/divorciado,nenhum,3,imobiliario,23,nenhum,alugada,1,nível 1,2,não,não,bom
+negativo,24,conta crítica,carro usado,2957,<100,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,63,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,24,conta crítica,radio/televisão,2611,<100,> 7 anos,4,masculino/casado,co-aplicante,3,imobiliario,46,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,36,pagamento em dia,móveis,5179,<100,"[4,7) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,29,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,21,já atrasou pagamentos,carro usado,2993,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,imobiliario,28,lojas,própria,2,nível 1,1,não,não,bom
+sem conta,18,pagamento em dia,reparos,1943,<100,< 1 ano,4,feminino/divorciado,nenhum,4,imobiliario,23,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,24,creditos quitados,negócios,1559,<100,"[4,7) anos",4,masculino/solteiro,nenhum,4,carro,50,bancos,própria,1,nível 2,1,sim,não,bom
+sem conta,18,pagamento em dia,móveis,3422,<100,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,47,bancos,própria,3,nível 2,2,sim,não,bom
+[0-200),21,pagamento em dia,móveis,3976,sem conta,"[4,7) anos",2,masculino/solteiro,nenhum,3,carro,35,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,18,pagamento em dia,carro novo,6761,sem conta,"[1,4) anos",2,masculino/solteiro,nenhum,4,carro,68,nenhum,alugada,2,nível 2,1,não,não,mau
+sem conta,24,pagamento em dia,carro novo,1249,<100,< 1 ano,4,masculino/casado,nenhum,2,imobiliario,28,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,9,pagamento em dia,radio/televisão,1364,<100,"[4,7) anos",3,masculino/solteiro,nenhum,4,imobiliario,59,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,12,pagamento em dia,radio/televisão,709,<100,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,57,lojas,própria,1,nível 1,1,não,não,mau
+negativo,20,conta crítica,carro novo,2235,<100,"[1,4) anos",4,masculino/casado,fiador,2,seguro  de vida,33,bancos,alugada,2,nível 2,1,não,sim,mau
+sem conta,24,conta crítica,carro usado,4042,sem conta,"[4,7) anos",3,masculino/solteiro,nenhum,4,seguro  de vida,43,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,15,conta crítica,radio/televisão,1471,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,sem propriedades,35,nenhum,de graça,2,nível 2,1,sim,não,bom
+negativo,18,creditos quitados,carro novo,1442,<100,"[4,7) anos",4,masculino/solteiro,nenhum,4,sem propriedades,32,nenhum,de graça,2,nível 1,2,não,não,mau
+sem conta,36,já atrasou pagamentos,carro novo,10875,<100,> 7 anos,2,masculino/solteiro,nenhum,2,carro,45,nenhum,própria,2,nível 2,2,sim,não,bom
+sem conta,24,pagamento em dia,carro novo,1474,[100-500),< 1 ano,4,masculino/casado,nenhum,3,imobiliario,33,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,10,pagamento em dia,retreinamentos,894,sem conta,"[4,7) anos",4,feminino/divorciado,nenhum,3,seguro  de vida,40,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,15,conta crítica,móveis,3343,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,sem propriedades,28,nenhum,de graça,1,nível 2,1,sim,não,bom
+negativo,15,pagamento em dia,carro novo,3959,<100,"[1,4) anos",3,feminino/divorciado,nenhum,2,seguro  de vida,29,nenhum,própria,1,nível 2,1,sim,não,mau
+sem conta,9,pagamento em dia,carro novo,3577,[100-500),"[1,4) anos",1,masculino/solteiro,fiador,2,imobiliario,26,nenhum,alugada,1,nível 2,2,não,sim,bom
+sem conta,24,conta crítica,carro usado,5804,>1000,"[1,4) anos",4,masculino/solteiro,nenhum,2,imobiliario,27,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,18,já atrasou pagamentos,negócios,2169,<100,"[1,4) anos",4,masculino/casado,nenhum,2,carro,28,nenhum,própria,1,nível 2,1,sim,não,mau
+negativo,24,pagamento em dia,radio/televisão,2439,<100,< 1 ano,4,feminino/divorciado,nenhum,4,imobiliario,35,nenhum,própria,1,nível 2,1,sim,não,mau
+sem conta,27,conta crítica,móveis,4526,>1000,< 1 ano,4,masculino/solteiro,nenhum,2,imobiliario,32,lojas,própria,2,nível 1,2,sim,não,bom
+sem conta,10,pagamento em dia,móveis,2210,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,imobiliario,25,bancos,alugada,1,nível 1,1,não,não,mau
+sem conta,15,pagamento em dia,móveis,2221,[500-1000),"[1,4) anos",2,feminino/divorciado,nenhum,4,carro,20,nenhum,alugada,1,nível 2,1,não,não,bom
+negativo,18,pagamento em dia,radio/televisão,2389,<100,< 1 ano,4,feminino/divorciado,nenhum,1,carro,27,lojas,própria,1,nível 2,1,não,não,bom
+sem conta,12,conta crítica,móveis,3331,<100,> 7 anos,2,masculino/solteiro,nenhum,4,seguro  de vida,42,lojas,própria,1,nível 2,1,não,não,bom
+sem conta,36,pagamento em dia,negócios,7409,sem conta,> 7 anos,3,masculino/solteiro,nenhum,2,seguro  de vida,37,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,12,pagamento em dia,móveis,652,<100,> 7 anos,4,feminino/divorciado,nenhum,4,seguro  de vida,24,nenhum,alugada,1,nível 2,1,não,não,bom
+sem conta,36,já atrasou pagamentos,móveis,7678,[500-1000),"[4,7) anos",2,feminino/divorciado,nenhum,4,carro,40,nenhum,própria,2,nível 2,1,sim,não,bom
+200+,6,conta crítica,carro novo,1343,<100,> 7 anos,1,masculino/solteiro,nenhum,4,imobiliario,46,nenhum,própria,2,nível 2,2,não,sim,bom
+negativo,24,conta crítica,negócios,1382,[100-500),"[4,7) anos",4,masculino/solteiro,nenhum,1,imobiliario,26,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,15,pagamento em dia,itens de casa,874,sem conta,< 1 ano,4,feminino/divorciado,nenhum,1,imobiliario,24,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,12,pagamento em dia,móveis,3590,<100,"[1,4) anos",2,masculino/solteiro,co-aplicante,2,seguro  de vida,29,nenhum,própria,1,nível 1,2,não,não,bom
+[0-200),11,conta crítica,carro novo,1322,>1000,"[1,4) anos",4,feminino/divorciado,nenhum,4,carro,40,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,18,creditos quitados,radio/televisão,1940,<100,< 1 ano,3,masculino/solteiro,co-aplicante,4,sem propriedades,36,bancos,de graça,1,nível 3,1,sim,não,bom
+sem conta,36,pagamento em dia,radio/televisão,3595,<100,> 7 anos,4,masculino/solteiro,nenhum,2,carro,28,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,9,pagamento em dia,carro novo,1422,<100,< 1 ano,3,masculino/solteiro,nenhum,2,sem propriedades,27,nenhum,de graça,1,nível 3,1,sim,não,mau
+sem conta,30,conta crítica,radio/televisão,6742,sem conta,"[4,7) anos",2,masculino/solteiro,nenhum,3,seguro  de vida,36,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,carro usado,7814,<100,"[4,7) anos",3,masculino/solteiro,nenhum,3,carro,38,nenhum,própria,1,nível 3,1,sim,não,bom
+sem conta,24,pagamento em dia,carro usado,9277,sem conta,"[1,4) anos",2,masculino/divorciado,nenhum,4,sem propriedades,48,nenhum,de graça,1,nível 2,1,sim,não,bom
+[0-200),30,conta crítica,carro novo,2181,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,imobiliario,36,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,18,conta crítica,radio/televisão,1098,<100,desempregado,4,feminino/divorciado,nenhum,4,carro,65,nenhum,própria,2,desempregado,1,não,não,bom
+[0-200),24,pagamento em dia,móveis,4057,<100,"[4,7) anos",3,masculino/divorciado,nenhum,3,carro,43,nenhum,própria,1,nível 2,1,sim,não,mau
+negativo,12,pagamento em dia,educação,795,<100,< 1 ano,4,feminino/divorciado,nenhum,4,seguro  de vida,53,nenhum,própria,1,nível 2,1,não,não,mau
+[0-200),24,conta crítica,negócios,2825,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,3,sem propriedades,34,nenhum,própria,2,nível 2,2,sim,não,bom
+[0-200),48,pagamento em dia,negócios,15672,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,carro,23,nenhum,própria,1,nível 2,1,sim,não,mau
+sem conta,36,conta crítica,carro novo,6614,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,34,nenhum,própria,2,nível 3,1,sim,não,bom
+sem conta,28,creditos quitados,carro usado,7824,sem conta,< 1 ano,3,masculino/solteiro,fiador,4,imobiliario,40,bancos,alugada,2,nível 2,2,sim,não,bom
+negativo,27,conta crítica,negócios,2442,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,43,lojas,própria,4,nível 3,2,sim,não,bom
+sem conta,15,conta crítica,radio/televisão,1829,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,46,nenhum,própria,2,nível 2,1,sim,não,bom
+negativo,12,conta crítica,carro novo,2171,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,seguro  de vida,38,bancos,própria,2,nível 1,1,não,sim,bom
+[0-200),36,conta crítica,carro usado,5800,<100,"[1,4) anos",3,masculino/solteiro,nenhum,4,carro,34,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,18,conta crítica,radio/televisão,1169,sem conta,"[1,4) anos",4,masculino/solteiro,nenhum,3,seguro  de vida,29,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,36,já atrasou pagamentos,carro usado,8947,sem conta,"[4,7) anos",3,masculino/solteiro,nenhum,2,carro,31,lojas,própria,1,nível 3,2,sim,não,bom
+negativo,21,pagamento em dia,radio/televisão,2606,<100,< 1 ano,4,feminino/divorciado,nenhum,4,seguro  de vida,28,nenhum,alugada,1,nível 3,1,sim,não,bom
+sem conta,12,conta crítica,móveis,1592,>1000,"[4,7) anos",3,feminino/divorciado,nenhum,2,seguro  de vida,35,nenhum,própria,1,nível 2,1,não,sim,bom
+sem conta,15,pagamento em dia,móveis,2186,sem conta,"[4,7) anos",1,feminino/divorciado,nenhum,4,imobiliario,33,bancos,alugada,1,nível 1,1,não,não,bom
+negativo,18,pagamento em dia,móveis,4153,<100,"[1,4) anos",2,masculino/solteiro,co-aplicante,3,carro,42,nenhum,própria,1,nível 2,1,não,não,mau
+negativo,16,conta crítica,carro novo,2625,<100,> 7 anos,2,masculino/solteiro,fiador,4,seguro  de vida,43,bancos,alugada,1,nível 2,1,sim,não,mau
+sem conta,20,conta crítica,carro novo,3485,sem conta,< 1 ano,2,masculino/divorciado,nenhum,4,imobiliario,44,nenhum,própria,2,nível 2,1,sim,não,bom
+sem conta,36,conta crítica,carro usado,10477,sem conta,> 7 anos,2,masculino/solteiro,nenhum,4,sem propriedades,42,nenhum,de graça,2,nível 2,1,não,não,bom
+sem conta,15,pagamento em dia,radio/televisão,1386,sem conta,"[1,4) anos",4,masculino/casado,nenhum,2,imobiliario,40,nenhum,alugada,1,nível 2,1,sim,não,bom
+sem conta,24,pagamento em dia,radio/televisão,1278,<100,> 7 anos,4,masculino/solteiro,nenhum,1,imobiliario,36,nenhum,própria,1,nível 3,1,sim,não,bom
+negativo,12,pagamento em dia,radio/televisão,1107,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,imobiliario,20,nenhum,alugada,1,nível 3,2,sim,não,bom
+negativo,21,pagamento em dia,carro novo,3763,sem conta,"[4,7) anos",2,masculino/solteiro,co-aplicante,2,imobiliario,24,nenhum,própria,1,nível 1,1,não,sim,bom
+[0-200),36,pagamento em dia,educação,3711,sem conta,"[1,4) anos",2,masculino/casado,nenhum,2,carro,27,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,15,já atrasou pagamentos,carro usado,3594,<100,< 1 ano,1,feminino/divorciado,nenhum,2,seguro  de vida,46,nenhum,própria,2,nível 1,1,não,não,bom
+[0-200),9,pagamento em dia,carro novo,3195,sem conta,"[1,4) anos",1,feminino/divorciado,nenhum,2,imobiliario,33,nenhum,própria,1,nível 1,1,não,não,bom
+sem conta,36,já atrasou pagamentos,radio/televisão,4454,<100,"[1,4) anos",4,feminino/divorciado,nenhum,4,imobiliario,34,nenhum,própria,2,nível 2,1,não,não,bom
+[0-200),24,conta crítica,móveis,4736,<100,< 1 ano,2,feminino/divorciado,nenhum,4,carro,25,bancos,própria,1,nível 1,1,não,não,mau
+[0-200),30,pagamento em dia,radio/televisão,2991,sem conta,> 7 anos,2,feminino/divorciado,nenhum,4,carro,25,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,11,pagamento em dia,negócios,2142,>1000,> 7 anos,1,masculino/divorciado,nenhum,2,imobiliario,28,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,24,creditos quitados,negócios,3161,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,31,nenhum,alugada,1,nível 2,1,sim,não,mau
+[0-200),48,primeira vez,outros,18424,<100,"[1,4) anos",1,feminino/divorciado,nenhum,2,seguro  de vida,32,bancos,própria,1,nível 3,1,sim,sim,mau
+sem conta,10,pagamento em dia,carro usado,2848,[100-500),"[1,4) anos",1,masculino/solteiro,co-aplicante,2,imobiliario,32,nenhum,própria,1,nível 2,2,não,não,bom
+negativo,6,pagamento em dia,carro novo,14896,<100,> 7 anos,1,masculino/solteiro,nenhum,4,sem propriedades,68,bancos,própria,1,nível 3,1,sim,não,mau
+negativo,24,pagamento em dia,móveis,2359,[100-500),desempregado,1,masculino/divorciado,nenhum,1,seguro  de vida,33,nenhum,própria,1,nível 2,1,não,não,mau
+negativo,24,pagamento em dia,móveis,3345,<100,> 7 anos,4,masculino/solteiro,nenhum,2,seguro  de vida,39,nenhum,alugada,1,nível 3,1,sim,não,mau
+sem conta,18,conta crítica,móveis,1817,<100,"[1,4) anos",4,feminino/divorciado,nenhum,2,sem propriedades,28,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,48,já atrasou pagamentos,radio/televisão,12749,[500-1000),"[4,7) anos",4,masculino/solteiro,nenhum,1,carro,37,nenhum,própria,1,nível 3,1,sim,não,bom
+negativo,9,pagamento em dia,radio/televisão,1366,<100,< 1 ano,3,feminino/divorciado,nenhum,4,seguro  de vida,22,nenhum,alugada,1,nível 2,1,não,não,mau
+[0-200),12,pagamento em dia,carro novo,2002,<100,"[4,7) anos",3,masculino/solteiro,nenhum,4,seguro  de vida,30,nenhum,alugada,1,nível 2,2,sim,não,bom
+negativo,24,creditos quitados,móveis,6872,<100,< 1 ano,2,masculino/divorciado,nenhum,1,seguro  de vida,55,bancos,própria,1,nível 2,1,sim,não,mau
+negativo,12,creditos quitados,carro novo,697,<100,< 1 ano,4,masculino/solteiro,nenhum,2,carro,46,bancos,própria,2,nível 2,1,sim,não,mau
+negativo,18,conta crítica,móveis,1049,<100,< 1 ano,4,feminino/divorciado,nenhum,4,seguro  de vida,21,nenhum,alugada,1,nível 2,1,não,não,bom
+negativo,48,pagamento em dia,carro usado,10297,<100,"[4,7) anos",4,masculino/solteiro,nenhum,4,sem propriedades,39,lojas,de graça,3,nível 2,2,sim,não,mau
+sem conta,30,pagamento em dia,radio/televisão,1867,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,carro,58,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,12,já atrasou pagamentos,carro novo,1344,<100,"[1,4) anos",4,masculino/solteiro,nenhum,2,imobiliario,43,nenhum,própria,2,nível 1,2,não,não,bom
+negativo,24,pagamento em dia,móveis,1747,<100,< 1 ano,4,masculino/solteiro,co-aplicante,1,seguro  de vida,24,nenhum,própria,1,nível 1,1,não,sim,bom
+[0-200),9,pagamento em dia,radio/televisão,1670,<100,< 1 ano,4,feminino/divorciado,nenhum,2,carro,22,nenhum,própria,1,nível 2,1,sim,não,mau
+sem conta,9,conta crítica,carro novo,1224,<100,"[1,4) anos",3,masculino/solteiro,nenhum,1,imobiliario,30,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,12,conta crítica,radio/televisão,522,[500-1000),> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,42,nenhum,própria,2,nível 2,2,sim,não,bom
+negativo,12,pagamento em dia,radio/televisão,1498,<100,"[1,4) anos",4,feminino/divorciado,nenhum,1,carro,23,bancos,própria,1,nível 2,1,não,não,bom
+[0-200),30,já atrasou pagamentos,radio/televisão,1919,[100-500),< 1 ano,4,masculino/solteiro,nenhum,3,sem propriedades,30,lojas,própria,2,nível 3,1,não,não,mau
+200+,9,pagamento em dia,radio/televisão,745,<100,"[1,4) anos",3,feminino/divorciado,nenhum,2,imobiliario,28,nenhum,própria,1,nível 1,1,não,não,mau
+[0-200),6,pagamento em dia,radio/televisão,2063,<100,< 1 ano,4,masculino/casado,nenhum,3,carro,30,nenhum,alugada,1,nível 3,1,sim,não,bom
+[0-200),60,pagamento em dia,educação,6288,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,sem propriedades,42,nenhum,de graça,1,nível 2,1,não,não,mau
+sem conta,24,conta crítica,carro usado,6842,sem conta,"[1,4) anos",2,masculino/solteiro,nenhum,4,seguro  de vida,46,nenhum,própria,2,nível 3,2,sim,não,bom
+sem conta,12,pagamento em dia,carro novo,3527,sem conta,< 1 ano,2,masculino/solteiro,nenhum,3,seguro  de vida,45,nenhum,própria,1,nível 3,2,sim,não,bom
+sem conta,10,pagamento em dia,carro novo,1546,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,imobiliario,31,nenhum,própria,1,nível 1,2,não,sim,bom
+sem conta,24,pagamento em dia,móveis,929,sem conta,"[4,7) anos",4,masculino/solteiro,nenhum,2,carro,31,lojas,própria,1,nível 2,1,sim,não,bom
+sem conta,4,conta crítica,carro novo,1455,<100,"[4,7) anos",2,masculino/solteiro,nenhum,1,imobiliario,42,nenhum,própria,3,nível 1,2,não,não,bom
+negativo,15,pagamento em dia,móveis,1845,<100,< 1 ano,4,feminino/divorciado,fiador,1,seguro  de vida,46,nenhum,alugada,1,nível 2,1,não,não,bom
+[0-200),48,primeira vez,carro novo,8358,[500-1000),< 1 ano,1,feminino/divorciado,nenhum,1,carro,30,nenhum,própria,2,nível 2,1,não,não,bom
+negativo,24,creditos quitados,móveis,3349,[500-1000),< 1 ano,4,masculino/solteiro,nenhum,4,sem propriedades,30,nenhum,de graça,1,nível 2,2,sim,não,mau
+sem conta,12,pagamento em dia,carro novo,2859,sem conta,desempregado,4,masculino/solteiro,nenhum,4,sem propriedades,38,nenhum,própria,1,nível 3,1,sim,não,bom
+sem conta,18,pagamento em dia,móveis,1533,<100,< 1 ano,4,masculino/casado,co-aplicante,1,seguro  de vida,43,nenhum,própria,1,nível 1,2,não,não,mau
+sem conta,24,pagamento em dia,radio/televisão,3621,[100-500),> 7 anos,2,masculino/solteiro,nenhum,4,carro,31,nenhum,própria,2,nível 2,1,não,não,mau
+[0-200),18,conta crítica,negócios,3590,<100,desempregado,3,masculino/casado,nenhum,3,carro,40,nenhum,própria,3,desempregado,2,sim,não,bom
+negativo,36,já atrasou pagamentos,negócios,2145,<100,"[4,7) anos",2,masculino/solteiro,nenhum,1,carro,24,nenhum,própria,2,nível 2,1,sim,não,mau
+[0-200),24,pagamento em dia,carro usado,4113,[500-1000),< 1 ano,3,feminino/divorciado,nenhum,4,carro,28,nenhum,alugada,1,nível 2,1,não,não,mau
+sem conta,36,pagamento em dia,móveis,10974,<100,desempregado,4,feminino/divorciado,nenhum,2,carro,26,nenhum,própria,2,nível 3,1,sim,não,mau
+negativo,12,pagamento em dia,carro novo,1893,<100,"[1,4) anos",4,feminino/divorciado,fiador,4,seguro  de vida,29,nenhum,própria,1,nível 2,1,sim,não,bom
+negativo,24,conta crítica,radio/televisão,1231,>1000,> 7 anos,4,feminino/divorciado,nenhum,4,seguro  de vida,57,nenhum,alugada,2,nível 3,1,sim,não,bom
+200+,30,conta crítica,radio/televisão,3656,sem conta,> 7 anos,4,masculino/solteiro,nenhum,4,seguro  de vida,49,lojas,própria,2,nível 1,1,não,não,bom
+[0-200),9,conta crítica,radio/televisão,1154,<100,> 7 anos,2,masculino/solteiro,nenhum,4,imobiliario,37,nenhum,própria,3,nível 1,1,não,não,bom
+negativo,28,pagamento em dia,carro novo,4006,<100,"[1,4) anos",3,masculino/solteiro,nenhum,2,carro,45,nenhum,própria,1,nível 1,1,não,não,mau
+[0-200),24,pagamento em dia,móveis,3069,[100-500),> 7 anos,4,masculino/solteiro,nenhum,4,sem propriedades,30,nenhum,de graça,1,nível 2,1,não,não,bom
+sem conta,6,conta crítica,radio/televisão,1740,<100,> 7 anos,2,masculino/casado,nenhum,2,imobiliario,30,nenhum,alugada,2,nível 2,1,não,não,bom
+[0-200),21,já atrasou pagamentos,carro novo,2353,<100,"[1,4) anos",1,masculino/divorciado,nenhum,4,seguro  de vida,47,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,15,pagamento em dia,carro novo,3556,sem conta,"[1,4) anos",3,masculino/solteiro,nenhum,2,sem propriedades,29,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,radio/televisão,2397,[500-1000),> 7 anos,3,masculino/solteiro,nenhum,2,carro,35,bancos,própria,2,nível 2,1,sim,não,mau
+[0-200),6,pagamento em dia,reparos,454,<100,< 1 ano,3,masculino/casado,nenhum,1,seguro  de vida,22,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),30,pagamento em dia,radio/televisão,1715,sem conta,"[1,4) anos",4,feminino/divorciado,nenhum,1,carro,26,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),27,conta crítica,radio/televisão,2520,[500-1000),"[1,4) anos",4,masculino/solteiro,nenhum,2,seguro  de vida,23,nenhum,própria,2,nível 1,1,não,não,mau
+sem conta,15,pagamento em dia,radio/televisão,3568,<100,> 7 anos,4,feminino/divorciado,nenhum,2,carro,54,bancos,alugada,1,nível 3,1,sim,não,bom
+sem conta,42,pagamento em dia,radio/televisão,7166,sem conta,"[4,7) anos",2,masculino/casado,nenhum,4,seguro  de vida,29,nenhum,alugada,1,nível 2,1,sim,não,bom
+negativo,11,conta crítica,carro novo,3939,<100,"[1,4) anos",1,masculino/solteiro,nenhum,2,imobiliario,40,nenhum,própria,2,nível 1,2,não,não,bom
+[0-200),15,pagamento em dia,reparos,1514,[100-500),"[1,4) anos",4,masculino/solteiro,fiador,2,imobiliario,22,nenhum,própria,1,nível 2,1,não,não,bom
+sem conta,24,pagamento em dia,carro novo,7393,<100,"[1,4) anos",1,masculino/solteiro,nenhum,4,seguro  de vida,43,nenhum,própria,1,nível 1,2,não,não,bom
+negativo,24,creditos quitados,carro novo,1193,<100,desempregado,1,feminino/divorciado,co-aplicante,4,sem propriedades,29,nenhum,alugada,2,desempregado,1,não,não,mau
+negativo,60,pagamento em dia,negócios,7297,<100,> 7 anos,4,masculino/solteiro,co-aplicante,4,sem propriedades,36,nenhum,alugada,1,nível 2,1,não,não,mau
+sem conta,30,conta crítica,radio/televisão,2831,<100,"[1,4) anos",4,feminino/divorciado,nenhum,2,carro,33,nenhum,própria,1,nível 2,1,sim,não,bom
+200+,24,pagamento em dia,radio/televisão,1258,[500-1000),"[1,4) anos",3,feminino/divorciado,nenhum,3,carro,57,nenhum,própria,1,nível 1,1,não,não,bom
+[0-200),6,pagamento em dia,radio/televisão,753,<100,"[1,4) anos",2,feminino/divorciado,fiador,3,imobiliario,64,nenhum,própria,1,nível 2,1,não,não,bom
+[0-200),18,já atrasou pagamentos,negócios,2427,sem conta,> 7 anos,4,masculino/solteiro,nenhum,2,seguro  de vida,42,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,24,já atrasou pagamentos,carro novo,2538,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,47,nenhum,própria,2,nível 1,2,não,não,mau
+[0-200),15,creditos quitados,carro novo,1264,[100-500),"[1,4) anos",2,masculino/casado,nenhum,2,seguro  de vida,25,nenhum,alugada,1,nível 2,1,não,não,mau
+[0-200),30,conta crítica,móveis,8386,<100,"[4,7) anos",2,masculino/solteiro,nenhum,2,seguro  de vida,49,nenhum,própria,1,nível 2,1,não,não,mau
+sem conta,48,pagamento em dia,negócios,4844,<100,desempregado,3,masculino/solteiro,nenhum,2,carro,33,bancos,alugada,1,nível 3,1,sim,não,mau
+200+,21,pagamento em dia,carro novo,2923,[100-500),"[1,4) anos",1,feminino/divorciado,nenhum,1,carro,28,bancos,própria,1,nível 3,1,sim,não,bom
+negativo,36,pagamento em dia,carro usado,8229,<100,"[1,4) anos",2,masculino/solteiro,nenhum,2,seguro  de vida,26,nenhum,própria,1,nível 2,2,não,não,mau
+sem conta,24,conta crítica,móveis,2028,<100,"[4,7) anos",2,masculino/solteiro,nenhum,2,seguro  de vida,30,nenhum,própria,2,nível 1,1,não,não,bom
+negativo,15,conta crítica,móveis,1433,<100,"[1,4) anos",4,feminino/divorciado,nenhum,3,seguro  de vida,25,nenhum,alugada,2,nível 2,1,não,não,bom
+200+,42,primeira vez,negócios,6289,<100,< 1 ano,2,masculino/divorciado,nenhum,1,seguro  de vida,33,nenhum,própria,2,nível 2,1,não,não,bom
+sem conta,13,pagamento em dia,radio/televisão,1409,[100-500),desempregado,2,feminino/divorciado,nenhum,4,imobiliario,64,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,24,pagamento em dia,carro usado,6579,<100,desempregado,4,masculino/solteiro,nenhum,2,sem propriedades,29,nenhum,de graça,1,nível 3,1,sim,não,bom
+[0-200),24,conta crítica,radio/televisão,1743,<100,> 7 anos,4,masculino/solteiro,nenhum,2,seguro  de vida,48,nenhum,própria,2,nível 1,1,não,não,bom
+sem conta,12,conta crítica,educação,3565,sem conta,< 1 ano,2,masculino/solteiro,nenhum,1,seguro  de vida,37,nenhum,própria,2,nível 1,2,não,não,bom
+sem conta,15,creditos quitados,radio/televisão,1569,[100-500),> 7 anos,4,masculino/solteiro,nenhum,4,carro,34,bancos,própria,1,nível 1,2,não,não,bom
+negativo,18,pagamento em dia,radio/televisão,1936,sem conta,"[4,7) anos",2,masculino/casado,nenhum,4,carro,23,nenhum,alugada,2,nível 1,1,não,não,bom
+negativo,36,pagamento em dia,móveis,3959,<100,desempregado,4,masculino/solteiro,nenhum,3,seguro  de vida,30,nenhum,própria,1,nível 3,1,sim,não,bom
+sem conta,12,pagamento em dia,carro novo,2390,sem conta,> 7 anos,4,masculino/solteiro,nenhum,3,carro,50,nenhum,própria,1,nível 2,1,sim,não,bom
+sem conta,12,pagamento em dia,móveis,1736,<100,"[4,7) anos",3,feminino/divorciado,nenhum,4,imobiliario,31,nenhum,própria,1,nível 1,1,não,não,bom
+negativo,30,pagamento em dia,carro usado,3857,<100,"[1,4) anos",4,masculino/divorciado,nenhum,4,seguro  de vida,40,nenhum,própria,1,nível 3,1,sim,não,bom
+sem conta,12,pagamento em dia,radio/televisão,804,<100,> 7 anos,4,masculino/solteiro,nenhum,4,carro,38,nenhum,própria,1,nível 2,1,não,não,bom
+negativo,45,pagamento em dia,radio/televisão,1845,<100,"[1,4) anos",4,masculino/solteiro,nenhum,4,sem propriedades,23,nenhum,de graça,1,nível 2,1,sim,não,mau
+[0-200),45,conta crítica,carro usado,4576,[100-500),desempregado,3,masculino/solteiro,nenhum,4,carro,27,nenhum,própria,1,nível 2,1,não,não,bom
