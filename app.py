@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import joblib
-#from sklearn.pipeline import Pipeline
+from sklearn.pipeline import Pipeline
 #from sklearn.ensemble import GradientBoostingClassifier
 #from sklearn.preprocessing import StandardScaler
 #from sklearn.impute import SimpleImputer
