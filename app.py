@@ -51,7 +51,7 @@ if pagina == 'Modelo - Liberação de Crédito':
         #input0 = {'quantia':[quantia], 'conta':[conta], 'duração':[duração], 'idade':[idade], 'historico':[historico]}
         #novos_dados = pd.DataFrame(input0)
 
-        modelo = joblib.load('modelo.pkl')
+        modelo = joblib.load('modelo')
         
         # Criando um novo DataFrame para novos dados
         nvds = pd.DataFrame(columns=['quantia',	'conta',	'duração',	'idade',	'historico'])
