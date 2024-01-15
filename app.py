@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
-from sklearn.impute import SimpleImputer
-from sklearn.ensemble import GradientBoostingClassifier
+#from sklearn.impute import SimpleImputer
+#from sklearn.ensemble import GradientBoostingClassifier
 #from sklearn.preprocessing import StandardScaler
 #
-import joblib
-from sklearn.pipeline import Pipeline
+#import joblib
+#from sklearn.pipeline import Pipeline
 
 paginas = ['Home','Modelo - Liberação de Crédito']
 
