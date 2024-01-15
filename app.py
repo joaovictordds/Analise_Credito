@@ -1,10 +1,11 @@
 import streamlit as st
 import pandas as pd
-import joblib
-from sklearn.pipeline import Pipeline
-#from sklearn.ensemble import GradientBoostingClassifier
+
+from sklearn.ensemble import GradientBoostingClassifier
 #from sklearn.preprocessing import StandardScaler
 #from sklearn.impute import SimpleImputer
+import joblib
+from sklearn.pipeline import Pipeline
 
 paginas = ['Home','Modelo - Liberação de Crédito']
 
@@ -22,9 +23,7 @@ if pagina == 'Modelo - Liberação de Crédito':
         
         st.title('LIberação de crédito')
         st.markdown('---')
-        
-        modelo = joblib.load('modelo.pkl')
-        
+                
         # Criando um novo DataFrame para novos dados
         #novos_dados = pd.DataFrame(columns=['quantia',	'conta', 'duração',	'idade', 'historico'])
         
@@ -51,6 +50,8 @@ if pagina == 'Modelo - Liberação de Crédito':
         
         #input0 = {'quantia':[quantia], 'conta':[conta], 'duração':[duração], 'idade':[idade], 'historico':[historico]}
         #novos_dados = pd.DataFrame(input0)
+
+        modelo = joblib.load('modelo.pkl')
         
         # Criando um novo DataFrame para novos dados
         nvds = pd.DataFrame(columns=['quantia',	'conta',	'duração',	'idade',	'historico'])
