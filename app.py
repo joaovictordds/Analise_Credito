@@ -4,7 +4,7 @@ import pandas as pd
 #from sklearn.ensemble import GradientBoostingClassifier
 #from sklearn.preprocessing import StandardScaler
 #
-#import joblib
+import joblib
 #from sklearn.pipeline import Pipeline
 
 paginas = ['Home','Modelo - Liberação de Crédito']
