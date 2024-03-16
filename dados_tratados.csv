@@ -1,0 +1,1001 @@
+,conta,duração,historico,motivo,quantia,poupança,emprego,pagador
+0,negativo,6,já atrasou pagamentos,radio/televisão,1169,nao,> 7 anos,bom
+1,positivo,48,pagamento em dia,radio/televisão,5951,ate 1000,1-4 anos,mau
+2,sem conta,12,já atrasou pagamentos,educação,2096,ate 1000,4-7 anos,bom
+3,negativo,42,pagamento em dia,móveis,7882,ate 1000,4-7 anos,bom
+4,negativo,24,já atrasou pagamentos,carro novo,4870,ate 1000,1-4 anos,mau
+5,sem conta,36,pagamento em dia,educação,9055,nao,1-4 anos,bom
+6,sem conta,24,pagamento em dia,móveis,2835,ate 1000,> 7 anos,bom
+7,positivo,36,pagamento em dia,carro usado,6948,ate 1000,1-4 anos,bom
+8,sem conta,12,pagamento em dia,radio/televisão,3059,>1000,4-7 anos,bom
+9,positivo,30,já atrasou pagamentos,carro novo,5234,ate 1000,desempregado,mau
+10,positivo,12,pagamento em dia,carro novo,1295,ate 1000,1-4 anos,mau
+11,negativo,48,pagamento em dia,negócios,4308,ate 1000,1-4 anos,mau
+12,positivo,12,pagamento em dia,radio/televisão,1567,ate 1000,1-4 anos,bom
+13,negativo,24,já atrasou pagamentos,carro novo,1199,ate 1000,> 7 anos,mau
+14,negativo,15,pagamento em dia,carro novo,1403,ate 1000,1-4 anos,bom
+15,negativo,24,pagamento em dia,radio/televisão,1282,nao,1-4 anos,mau
+16,sem conta,24,já atrasou pagamentos,radio/televisão,2424,nao,> 7 anos,bom
+17,negativo,30,pagamento em dia,negócios,8072,nao,1-4 anos,bom
+18,positivo,24,pagamento em dia,carro usado,12579,ate 1000,> 7 anos,mau
+19,sem conta,24,pagamento em dia,radio/televisão,3430,ate 1000,> 7 anos,bom
+20,sem conta,9,já atrasou pagamentos,carro novo,2134,ate 1000,1-4 anos,bom
+21,negativo,6,pagamento em dia,radio/televisão,2647,ate 1000,1-4 anos,bom
+22,negativo,10,já atrasou pagamentos,carro novo,2241,ate 1000,1-4 anos,bom
+23,positivo,12,já atrasou pagamentos,carro usado,1804,nao,1-4 anos,bom
+24,sem conta,10,já atrasou pagamentos,móveis,2069,nao,1-4 anos,bom
+25,negativo,6,pagamento em dia,móveis,1374,ate 1000,1-4 anos,bom
+26,sem conta,6,pagamento em dia,radio/televisão,426,ate 1000,> 7 anos,bom
+27,positivo,12,pagamento em dia,radio/televisão,409,>1000,1-4 anos,bom
+28,positivo,7,pagamento em dia,radio/televisão,2415,ate 1000,1-4 anos,bom
+29,negativo,60,já atrasou pagamentos,negócios,6836,ate 1000,> 7 anos,mau
+30,positivo,18,pagamento em dia,negócios,1913,>1000,1-4 anos,bom
+31,negativo,24,pagamento em dia,móveis,4020,ate 1000,1-4 anos,bom
+32,positivo,18,pagamento em dia,carro novo,5866,nao,1-4 anos,bom
+33,sem conta,12,já atrasou pagamentos,negócios,1264,nao,> 7 anos,bom
+34,positivo,12,pagamento em dia,móveis,1474,ate 1000,1-4 anos,bom
+35,positivo,45,já atrasou pagamentos,radio/televisão,4746,ate 1000,1-4 anos,mau
+36,sem conta,48,já atrasou pagamentos,educação,6110,ate 1000,1-4 anos,bom
+37,positivo,18,pagamento em dia,radio/televisão,2100,ate 1000,1-4 anos,mau
+38,positivo,10,pagamento em dia,itens de casa,1225,ate 1000,1-4 anos,bom
+39,positivo,9,pagamento em dia,radio/televisão,458,ate 1000,1-4 anos,bom
+40,sem conta,30,pagamento em dia,radio/televisão,2333,ate 1000,> 7 anos,bom
+41,positivo,12,pagamento em dia,radio/televisão,1158,ate 1000,1-4 anos,bom
+42,positivo,18,já atrasou pagamentos,reparos,6204,ate 1000,1-4 anos,bom
+43,negativo,30,já atrasou pagamentos,carro usado,6187,nao,4-7 anos,bom
+44,negativo,48,já atrasou pagamentos,carro usado,6143,ate 1000,> 7 anos,mau
+45,sem conta,11,já atrasou pagamentos,carro novo,1393,ate 1000,1-4 anos,bom
+46,sem conta,36,pagamento em dia,radio/televisão,2299,ate 1000,> 7 anos,bom
+47,negativo,6,pagamento em dia,carro usado,1352,ate 1000,desempregado,bom
+48,sem conta,11,já atrasou pagamentos,carro novo,7228,ate 1000,1-4 anos,bom
+49,sem conta,12,pagamento em dia,radio/televisão,2073,nao,1-4 anos,bom
+50,positivo,24,já atrasou pagamentos,móveis,2333,nao,1-4 anos,bom
+51,positivo,27,já atrasou pagamentos,carro usado,5965,ate 1000,> 7 anos,bom
+52,sem conta,12,pagamento em dia,radio/televisão,1262,ate 1000,1-4 anos,bom
+53,sem conta,18,pagamento em dia,carro usado,3378,nao,1-4 anos,bom
+54,positivo,36,já atrasou pagamentos,carro novo,2225,ate 1000,> 7 anos,mau
+55,sem conta,6,pagamento em dia,carro novo,783,nao,1-4 anos,bom
+56,positivo,12,pagamento em dia,radio/televisão,6468,nao,desempregado,mau
+57,sem conta,36,já atrasou pagamentos,radio/televisão,9566,ate 1000,1-4 anos,bom
+58,positivo,18,pagamento em dia,carro novo,1961,ate 1000,> 7 anos,bom
+59,negativo,36,já atrasou pagamentos,móveis,6229,ate 1000,1-4 anos,mau
+60,positivo,9,pagamento em dia,negócios,1391,ate 1000,1-4 anos,bom
+61,positivo,15,já atrasou pagamentos,radio/televisão,1537,nao,> 7 anos,bom
+62,positivo,36,pagamento em dia,negócios,1953,ate 1000,> 7 anos,mau
+63,positivo,48,pagamento em dia,negócios,14421,ate 1000,1-4 anos,mau
+64,sem conta,24,pagamento em dia,radio/televisão,3181,ate 1000,1-4 anos,bom
+65,sem conta,27,pagamento em dia,reparos,5190,nao,> 7 anos,bom
+66,sem conta,12,pagamento em dia,radio/televisão,2171,ate 1000,1-4 anos,bom
+67,positivo,12,pagamento em dia,carro novo,1007,>1000,1-4 anos,bom
+68,sem conta,36,pagamento em dia,educação,1819,ate 1000,1-4 anos,mau
+69,sem conta,36,pagamento em dia,radio/televisão,2394,nao,1-4 anos,bom
+70,sem conta,36,pagamento em dia,carro usado,8133,ate 1000,1-4 anos,bom
+71,sem conta,7,já atrasou pagamentos,radio/televisão,730,nao,> 7 anos,bom
+72,negativo,8,já atrasou pagamentos,outros,1164,ate 1000,> 7 anos,bom
+73,positivo,42,já atrasou pagamentos,negócios,5954,ate 1000,4-7 anos,bom
+74,negativo,36,pagamento em dia,educação,1977,nao,> 7 anos,mau
+75,negativo,12,já atrasou pagamentos,carro usado,1526,ate 1000,> 7 anos,bom
+76,negativo,42,pagamento em dia,radio/televisão,3965,ate 1000,1-4 anos,mau
+77,positivo,11,já atrasou pagamentos,radio/televisão,4771,ate 1000,4-7 anos,bom
+78,sem conta,54,pagamento em dia,carro usado,9436,nao,1-4 anos,bom
+79,positivo,30,pagamento em dia,móveis,3832,ate 1000,1-4 anos,bom
+80,sem conta,24,pagamento em dia,radio/televisão,5943,nao,1-4 anos,mau
+81,sem conta,15,pagamento em dia,radio/televisão,1213,ate 1000,> 7 anos,bom
+82,sem conta,18,pagamento em dia,negócios,1568,nao,1-4 anos,bom
+83,negativo,24,pagamento em dia,outros,1755,ate 1000,> 7 anos,bom
+84,negativo,10,pagamento em dia,radio/televisão,2315,ate 1000,> 7 anos,bom
+85,sem conta,12,já atrasou pagamentos,negócios,1412,ate 1000,1-4 anos,bom
+86,positivo,18,já atrasou pagamentos,móveis,1295,ate 1000,1-4 anos,bom
+87,positivo,36,pagamento em dia,educação,12612,nao,1-4 anos,mau
+88,negativo,18,pagamento em dia,carro novo,2249,nao,4-7 anos,bom
+89,negativo,12,pagamento em dia,reparos,1108,ate 1000,4-7 anos,mau
+90,sem conta,12,já atrasou pagamentos,radio/televisão,618,ate 1000,> 7 anos,bom
+91,negativo,12,já atrasou pagamentos,carro usado,1409,ate 1000,> 7 anos,bom
+92,sem conta,12,já atrasou pagamentos,radio/televisão,797,nao,> 7 anos,mau
+93,positivo,24,já atrasou pagamentos,móveis,3617,nao,> 7 anos,bom
+94,positivo,12,pagamento em dia,carro novo,1318,>1000,> 7 anos,bom
+95,positivo,54,pagamento em dia,negócios,15945,ate 1000,1-4 anos,mau
+96,sem conta,12,já atrasou pagamentos,educação,2012,nao,4-7 anos,bom
+97,positivo,18,pagamento em dia,negócios,2622,nao,1-4 anos,bom
+98,positivo,36,já atrasou pagamentos,radio/televisão,2337,ate 1000,> 7 anos,bom
+99,positivo,20,já atrasou pagamentos,carro usado,7057,nao,4-7 anos,bom
+100,sem conta,24,pagamento em dia,carro novo,1469,nao,> 7 anos,bom
+101,positivo,36,pagamento em dia,radio/televisão,2323,ate 1000,4-7 anos,bom
+102,sem conta,6,já atrasou pagamentos,radio/televisão,932,ate 1000,1-4 anos,bom
+103,positivo,9,já atrasou pagamentos,móveis,1919,ate 1000,4-7 anos,bom
+104,sem conta,12,pagamento em dia,carro usado,2445,nao,1-4 anos,bom
+105,positivo,24,já atrasou pagamentos,outros,11938,ate 1000,1-4 anos,mau
+106,sem conta,18,pagamento em dia,carro novo,6458,ate 1000,> 7 anos,mau
+107,positivo,12,pagamento em dia,carro novo,6078,ate 1000,4-7 anos,bom
+108,negativo,24,pagamento em dia,móveis,7721,nao,1-4 anos,bom
+109,positivo,14,pagamento em dia,negócios,1410,ate 1000,> 7 anos,bom
+110,positivo,6,já atrasou pagamentos,negócios,1449,nao,> 7 anos,bom
+111,positivo,15,pagamento em dia,educação,392,ate 1000,1-4 anos,bom
+112,positivo,18,pagamento em dia,carro novo,6260,ate 1000,4-7 anos,bom
+113,sem conta,36,já atrasou pagamentos,carro novo,7855,ate 1000,1-4 anos,mau
+114,negativo,12,pagamento em dia,radio/televisão,1680,ate 1000,> 7 anos,bom
+115,sem conta,48,já atrasou pagamentos,radio/televisão,3578,nao,> 7 anos,bom
+116,negativo,42,pagamento em dia,radio/televisão,7174,nao,4-7 anos,mau
+117,negativo,10,já atrasou pagamentos,móveis,2132,nao,1-4 anos,bom
+118,negativo,33,já atrasou pagamentos,móveis,4281,ate 1000,1-4 anos,mau
+119,positivo,12,já atrasou pagamentos,carro novo,2366,ate 1000,4-7 anos,bom
+120,negativo,21,pagamento em dia,radio/televisão,1835,ate 1000,1-4 anos,mau
+121,sem conta,24,já atrasou pagamentos,carro usado,3868,ate 1000,> 7 anos,bom
+122,sem conta,12,pagamento em dia,móveis,1768,ate 1000,1-4 anos,bom
+123,positivo,10,já atrasou pagamentos,carro novo,781,ate 1000,> 7 anos,bom
+124,positivo,18,pagamento em dia,móveis,1924,nao,1-4 anos,mau
+125,negativo,12,já atrasou pagamentos,carro novo,2121,ate 1000,1-4 anos,bom
+126,negativo,12,pagamento em dia,radio/televisão,701,ate 1000,1-4 anos,bom
+127,positivo,12,pagamento em dia,reparos,639,ate 1000,1-4 anos,mau
+128,positivo,12,já atrasou pagamentos,carro usado,1860,ate 1000,desempregado,bom
+129,negativo,12,já atrasou pagamentos,carro novo,3499,ate 1000,1-4 anos,mau
+130,positivo,48,pagamento em dia,carro novo,8487,nao,4-7 anos,bom
+131,negativo,36,já atrasou pagamentos,educação,6887,ate 1000,1-4 anos,mau
+132,sem conta,15,pagamento em dia,móveis,2708,ate 1000,1-4 anos,bom
+133,sem conta,18,pagamento em dia,móveis,1984,ate 1000,1-4 anos,bom
+134,sem conta,60,pagamento em dia,radio/televisão,10144,nao,4-7 anos,bom
+135,sem conta,12,já atrasou pagamentos,radio/televisão,1240,nao,> 7 anos,bom
+136,sem conta,27,já atrasou pagamentos,carro usado,8613,>1000,1-4 anos,bom
+137,positivo,12,pagamento em dia,radio/televisão,766,ate 1000,1-4 anos,mau
+138,positivo,15,já atrasou pagamentos,radio/televisão,2728,nao,4-7 anos,bom
+139,positivo,12,pagamento em dia,radio/televisão,1881,ate 1000,1-4 anos,bom
+140,positivo,6,pagamento em dia,carro novo,709,>1000,1-4 anos,bom
+141,positivo,36,pagamento em dia,radio/televisão,4795,ate 1000,1-4 anos,bom
+142,negativo,27,pagamento em dia,radio/televisão,3416,ate 1000,1-4 anos,bom
+143,negativo,18,pagamento em dia,móveis,2462,ate 1000,1-4 anos,mau
+144,sem conta,21,já atrasou pagamentos,móveis,2288,ate 1000,1-4 anos,bom
+145,positivo,48,pagamento em dia,negócios,3566,nao,4-7 anos,bom
+146,negativo,6,já atrasou pagamentos,carro novo,860,ate 1000,> 7 anos,bom
+147,sem conta,12,já atrasou pagamentos,carro novo,682,nao,4-7 anos,bom
+148,negativo,36,já atrasou pagamentos,móveis,5371,ate 1000,1-4 anos,bom
+149,sem conta,18,já atrasou pagamentos,radio/televisão,1582,>1000,> 7 anos,bom
+150,sem conta,6,pagamento em dia,radio/televisão,1346,nao,> 7 anos,bom
+151,sem conta,10,pagamento em dia,radio/televisão,1924,ate 1000,1-4 anos,bom
+152,positivo,36,pagamento em dia,radio/televisão,5848,ate 1000,1-4 anos,bom
+153,positivo,24,já atrasou pagamentos,carro usado,7758,>1000,> 7 anos,bom
+154,positivo,24,já atrasou pagamentos,negócios,6967,nao,4-7 anos,bom
+155,negativo,12,pagamento em dia,móveis,1282,ate 1000,1-4 anos,mau
+156,negativo,9,já atrasou pagamentos,reparos,1288,nao,> 7 anos,bom
+157,negativo,12,pagamento em dia,retreinamentos,339,ate 1000,> 7 anos,bom
+158,positivo,24,pagamento em dia,carro novo,3512,nao,4-7 anos,bom
+159,sem conta,6,já atrasou pagamentos,radio/televisão,1898,nao,1-4 anos,bom
+160,sem conta,24,já atrasou pagamentos,radio/televisão,2872,nao,> 7 anos,bom
+161,sem conta,18,já atrasou pagamentos,carro novo,1055,ate 1000,1-4 anos,bom
+162,sem conta,15,pagamento em dia,itens de casa,1262,ate 1000,4-7 anos,bom
+163,positivo,10,pagamento em dia,carro novo,7308,ate 1000,desempregado,bom
+164,sem conta,36,pagamento em dia,carro novo,909,ate 1000,> 7 anos,bom
+165,sem conta,6,pagamento em dia,móveis,2978,ate 1000,1-4 anos,bom
+166,negativo,18,pagamento em dia,móveis,1131,ate 1000,desempregado,mau
+167,positivo,11,pagamento em dia,móveis,1577,>1000,1-4 anos,bom
+168,sem conta,24,pagamento em dia,móveis,3972,ate 1000,4-7 anos,bom
+169,positivo,24,já atrasou pagamentos,negócios,1935,ate 1000,> 7 anos,mau
+170,negativo,15,pagamento em dia,carro novo,950,ate 1000,> 7 anos,mau
+171,sem conta,12,pagamento em dia,móveis,763,ate 1000,1-4 anos,bom
+172,positivo,24,já atrasou pagamentos,móveis,2064,ate 1000,desempregado,mau
+173,positivo,8,pagamento em dia,radio/televisão,1414,ate 1000,1-4 anos,bom
+174,negativo,21,já atrasou pagamentos,educação,3414,ate 1000,1-4 anos,mau
+175,sem conta,30,pagamento em dia,carro usado,7485,nao,desempregado,mau
+176,negativo,12,pagamento em dia,móveis,2577,ate 1000,1-4 anos,bom
+177,negativo,6,já atrasou pagamentos,radio/televisão,338,ate 1000,> 7 anos,bom
+178,sem conta,12,pagamento em dia,radio/televisão,1963,ate 1000,4-7 anos,bom
+179,negativo,21,já atrasou pagamentos,carro novo,571,ate 1000,> 7 anos,bom
+180,sem conta,36,já atrasou pagamentos,negócios,9572,ate 1000,1-4 anos,mau
+181,positivo,36,já atrasou pagamentos,negócios,4455,ate 1000,1-4 anos,mau
+182,negativo,21,pagamento em dia,carro novo,1647,nao,1-4 anos,mau
+183,sem conta,24,já atrasou pagamentos,móveis,3777,>1000,1-4 anos,bom
+184,positivo,18,já atrasou pagamentos,carro novo,884,ate 1000,> 7 anos,mau
+185,sem conta,15,já atrasou pagamentos,radio/televisão,1360,ate 1000,1-4 anos,bom
+186,positivo,9,pagamento em dia,carro usado,5129,ate 1000,> 7 anos,mau
+187,positivo,16,já atrasou pagamentos,carro novo,1175,ate 1000,desempregado,bom
+188,negativo,12,pagamento em dia,radio/televisão,674,nao,4-7 anos,mau
+189,positivo,18,pagamento em dia,móveis,3244,ate 1000,1-4 anos,bom
+190,sem conta,24,pagamento em dia,negócios,4591,>1000,1-4 anos,mau
+191,positivo,48,pagamento em dia,negócios,3844,nao,4-7 anos,mau
+192,positivo,27,pagamento em dia,negócios,3915,ate 1000,1-4 anos,mau
+193,sem conta,6,pagamento em dia,radio/televisão,2108,ate 1000,4-7 anos,bom
+194,positivo,45,pagamento em dia,radio/televisão,3031,nao,1-4 anos,mau
+195,positivo,9,já atrasou pagamentos,educação,1501,ate 1000,> 7 anos,mau
+196,sem conta,6,já atrasou pagamentos,radio/televisão,1382,ate 1000,1-4 anos,bom
+197,positivo,12,pagamento em dia,móveis,951,nao,1-4 anos,mau
+198,positivo,24,pagamento em dia,carro usado,2760,nao,> 7 anos,bom
+199,positivo,18,já atrasou pagamentos,móveis,4297,ate 1000,> 7 anos,mau
+200,sem conta,9,já atrasou pagamentos,educação,936,ate 1000,> 7 anos,bom
+201,negativo,12,pagamento em dia,carro novo,1168,ate 1000,1-4 anos,bom
+202,sem conta,27,já atrasou pagamentos,negócios,5117,ate 1000,4-7 anos,bom
+203,negativo,12,pagamento em dia,retreinamentos,902,ate 1000,4-7 anos,mau
+204,sem conta,12,já atrasou pagamentos,carro novo,1495,ate 1000,> 7 anos,bom
+205,negativo,30,já atrasou pagamentos,carro usado,10623,ate 1000,> 7 anos,bom
+206,sem conta,12,já atrasou pagamentos,móveis,1935,ate 1000,> 7 anos,bom
+207,positivo,12,já atrasou pagamentos,itens de casa,1424,ate 1000,4-7 anos,bom
+208,negativo,24,pagamento em dia,negócios,6568,ate 1000,1-4 anos,bom
+209,sem conta,12,pagamento em dia,carro usado,1413,>1000,4-7 anos,bom
+210,sem conta,9,já atrasou pagamentos,radio/televisão,3074,nao,1-4 anos,bom
+211,sem conta,36,pagamento em dia,radio/televisão,3835,nao,> 7 anos,bom
+212,negativo,27,pagamento em dia,negócios,5293,ate 1000,desempregado,mau
+213,positivo,30,já atrasou pagamentos,negócios,1908,ate 1000,> 7 anos,mau
+214,sem conta,36,já atrasou pagamentos,radio/televisão,3342,nao,> 7 anos,bom
+215,positivo,6,já atrasou pagamentos,retreinamentos,932,nao,4-7 anos,bom
+216,negativo,18,pagamento em dia,negócios,3104,ate 1000,4-7 anos,bom
+217,positivo,36,pagamento em dia,radio/televisão,3913,ate 1000,1-4 anos,bom
+218,negativo,24,pagamento em dia,móveis,3021,ate 1000,1-4 anos,bom
+219,sem conta,10,pagamento em dia,carro novo,1364,ate 1000,1-4 anos,bom
+220,positivo,12,pagamento em dia,radio/televisão,625,ate 1000,1-4 anos,bom
+221,negativo,12,pagamento em dia,educação,1200,nao,1-4 anos,bom
+222,sem conta,12,pagamento em dia,radio/televisão,707,ate 1000,1-4 anos,bom
+223,sem conta,24,já atrasou pagamentos,negócios,2978,nao,1-4 anos,bom
+224,sem conta,15,pagamento em dia,carro usado,4657,ate 1000,1-4 anos,bom
+225,sem conta,36,pagamento em dia,reparos,2613,ate 1000,1-4 anos,bom
+226,positivo,48,pagamento em dia,radio/televisão,10961,>1000,4-7 anos,mau
+227,negativo,12,pagamento em dia,móveis,7865,ate 1000,> 7 anos,mau
+228,sem conta,9,pagamento em dia,radio/televisão,1478,ate 1000,4-7 anos,mau
+229,negativo,24,pagamento em dia,móveis,3149,ate 1000,1-4 anos,bom
+230,positivo,36,pagamento em dia,radio/televisão,4210,ate 1000,1-4 anos,mau
+231,sem conta,9,pagamento em dia,carro novo,2507,ate 1000,> 7 anos,bom
+232,sem conta,12,pagamento em dia,radio/televisão,2141,nao,4-7 anos,bom
+233,positivo,18,pagamento em dia,radio/televisão,866,ate 1000,1-4 anos,bom
+234,sem conta,4,já atrasou pagamentos,radio/televisão,1544,ate 1000,4-7 anos,bom
+235,negativo,24,pagamento em dia,radio/televisão,1823,ate 1000,desempregado,mau
+236,positivo,6,pagamento em dia,carro novo,14555,nao,desempregado,mau
+237,positivo,21,pagamento em dia,negócios,2767,nao,> 7 anos,mau
+238,sem conta,12,já atrasou pagamentos,radio/televisão,1291,ate 1000,1-4 anos,bom
+239,negativo,30,pagamento em dia,radio/televisão,2522,ate 1000,> 7 anos,bom
+240,negativo,24,pagamento em dia,carro novo,915,nao,> 7 anos,mau
+241,sem conta,6,pagamento em dia,radio/televisão,1595,ate 1000,4-7 anos,bom
+242,negativo,48,pagamento em dia,carro usado,4605,ate 1000,> 7 anos,mau
+243,sem conta,12,já atrasou pagamentos,negócios,1185,ate 1000,1-4 anos,bom
+244,sem conta,12,pagamento em dia,retreinamentos,3447,ate 1000,1-4 anos,bom
+245,sem conta,24,pagamento em dia,negócios,1258,ate 1000,4-7 anos,bom
+246,sem conta,12,já atrasou pagamentos,radio/televisão,717,ate 1000,> 7 anos,bom
+247,sem conta,6,pagamento em dia,carro novo,1204,nao,1-4 anos,bom
+248,positivo,24,pagamento em dia,móveis,1925,ate 1000,1-4 anos,bom
+249,sem conta,18,pagamento em dia,radio/televisão,433,ate 1000,desempregado,mau
+250,negativo,6,já atrasou pagamentos,carro novo,666,>1000,4-7 anos,bom
+251,positivo,12,pagamento em dia,móveis,2251,ate 1000,1-4 anos,bom
+252,positivo,30,pagamento em dia,carro novo,2150,ate 1000,1-4 anos,mau
+253,sem conta,24,já atrasou pagamentos,móveis,4151,nao,1-4 anos,bom
+254,positivo,9,pagamento em dia,móveis,2030,nao,4-7 anos,bom
+255,positivo,60,já atrasou pagamentos,radio/televisão,7418,nao,1-4 anos,bom
+256,sem conta,24,já atrasou pagamentos,radio/televisão,2684,ate 1000,1-4 anos,bom
+257,negativo,12,pagamento em dia,radio/televisão,2149,ate 1000,1-4 anos,mau
+258,sem conta,15,pagamento em dia,carro usado,3812,nao,1-4 anos,bom
+259,sem conta,11,já atrasou pagamentos,radio/televisão,1154,nao,desempregado,bom
+260,negativo,12,pagamento em dia,móveis,1657,ate 1000,1-4 anos,bom
+261,negativo,24,pagamento em dia,radio/televisão,1603,ate 1000,> 7 anos,bom
+262,negativo,18,já atrasou pagamentos,carro novo,5302,ate 1000,> 7 anos,bom
+263,sem conta,12,já atrasou pagamentos,educação,2748,ate 1000,> 7 anos,bom
+264,sem conta,10,já atrasou pagamentos,carro novo,1231,ate 1000,> 7 anos,bom
+265,positivo,15,pagamento em dia,radio/televisão,802,ate 1000,> 7 anos,mau
+266,sem conta,36,já atrasou pagamentos,negócios,6304,nao,> 7 anos,bom
+267,sem conta,24,pagamento em dia,radio/televisão,1533,ate 1000,1-4 anos,bom
+268,negativo,14,pagamento em dia,carro novo,8978,ate 1000,> 7 anos,mau
+269,sem conta,24,pagamento em dia,radio/televisão,999,nao,> 7 anos,bom
+270,sem conta,18,pagamento em dia,carro novo,2662,nao,4-7 anos,bom
+271,sem conta,12,já atrasou pagamentos,móveis,1402,ate 1000,4-7 anos,bom
+272,positivo,48,pagamento em dia,carro novo,12169,nao,desempregado,bom
+273,positivo,48,pagamento em dia,radio/televisão,3060,ate 1000,4-7 anos,mau
+274,negativo,30,pagamento em dia,reparos,11998,ate 1000,1-4 anos,mau
+275,sem conta,9,pagamento em dia,radio/televisão,2697,ate 1000,1-4 anos,bom
+276,sem conta,18,já atrasou pagamentos,radio/televisão,2404,ate 1000,1-4 anos,bom
+277,negativo,12,pagamento em dia,móveis,1262,nao,> 7 anos,bom
+278,sem conta,6,pagamento em dia,móveis,4611,ate 1000,1-4 anos,mau
+279,sem conta,24,pagamento em dia,radio/televisão,1901,nao,1-4 anos,bom
+280,sem conta,15,já atrasou pagamentos,carro usado,3368,>1000,> 7 anos,bom
+281,sem conta,12,pagamento em dia,móveis,1574,ate 1000,1-4 anos,bom
+282,positivo,18,pagamento em dia,radio/televisão,1445,nao,4-7 anos,bom
+283,sem conta,15,já atrasou pagamentos,móveis,1520,nao,> 7 anos,bom
+284,positivo,24,já atrasou pagamentos,carro novo,3878,nao,1-4 anos,bom
+285,negativo,47,pagamento em dia,carro novo,10722,ate 1000,1-4 anos,bom
+286,negativo,48,pagamento em dia,carro usado,4788,ate 1000,4-7 anos,bom
+287,positivo,48,já atrasou pagamentos,outros,7582,nao,desempregado,bom
+288,positivo,12,pagamento em dia,radio/televisão,1092,ate 1000,1-4 anos,bom
+289,negativo,24,já atrasou pagamentos,radio/televisão,1024,ate 1000,1-4 anos,mau
+290,sem conta,12,pagamento em dia,negócios,1076,ate 1000,1-4 anos,bom
+291,positivo,36,pagamento em dia,carro usado,9398,ate 1000,1-4 anos,mau
+292,negativo,24,já atrasou pagamentos,carro usado,6419,ate 1000,> 7 anos,bom
+293,positivo,42,já atrasou pagamentos,carro usado,4796,ate 1000,> 7 anos,bom
+294,sem conta,48,já atrasou pagamentos,negócios,7629,nao,> 7 anos,bom
+295,positivo,48,pagamento em dia,móveis,9960,ate 1000,1-4 anos,mau
+296,sem conta,12,pagamento em dia,carro usado,4675,nao,1-4 anos,bom
+297,sem conta,10,pagamento em dia,carro novo,1287,nao,> 7 anos,bom
+298,sem conta,18,pagamento em dia,móveis,2515,ate 1000,1-4 anos,bom
+299,positivo,21,já atrasou pagamentos,móveis,2745,>1000,4-7 anos,bom
+300,sem conta,6,pagamento em dia,carro novo,672,ate 1000,desempregado,bom
+301,positivo,36,pagamento em dia,radio/televisão,3804,ate 1000,1-4 anos,mau
+302,positivo,24,já atrasou pagamentos,carro novo,1344,nao,4-7 anos,mau
+303,negativo,10,já atrasou pagamentos,carro novo,1038,ate 1000,4-7 anos,bom
+304,sem conta,48,já atrasou pagamentos,carro novo,10127,ate 1000,1-4 anos,mau
+305,sem conta,6,pagamento em dia,móveis,1543,>1000,1-4 anos,bom
+306,sem conta,30,pagamento em dia,carro usado,4811,nao,4-7 anos,bom
+307,negativo,12,pagamento em dia,radio/televisão,727,nao,1-4 anos,mau
+308,positivo,8,pagamento em dia,móveis,1237,ate 1000,1-4 anos,mau
+309,positivo,9,pagamento em dia,carro novo,276,ate 1000,1-4 anos,bom
+310,positivo,48,pagamento em dia,outros,5381,nao,desempregado,bom
+311,sem conta,24,pagamento em dia,móveis,5511,nao,1-4 anos,bom
+312,positivo,24,pagamento em dia,móveis,3749,ate 1000,1-4 anos,bom
+313,positivo,12,pagamento em dia,carro novo,685,ate 1000,4-7 anos,mau
+314,positivo,4,pagamento em dia,carro novo,1494,nao,1-4 anos,bom
+315,negativo,36,pagamento em dia,móveis,2746,ate 1000,> 7 anos,mau
+316,negativo,12,pagamento em dia,móveis,708,ate 1000,1-4 anos,bom
+317,positivo,24,pagamento em dia,móveis,4351,nao,1-4 anos,bom
+318,sem conta,12,já atrasou pagamentos,educação,701,ate 1000,1-4 anos,bom
+319,negativo,15,já atrasou pagamentos,móveis,3643,ate 1000,> 7 anos,bom
+320,positivo,30,já atrasou pagamentos,carro novo,4249,ate 1000,desempregado,mau
+321,negativo,24,pagamento em dia,radio/televisão,1938,ate 1000,1-4 anos,mau
+322,negativo,24,pagamento em dia,carro usado,2910,ate 1000,4-7 anos,bom
+323,negativo,18,pagamento em dia,móveis,2659,>1000,1-4 anos,bom
+324,sem conta,18,já atrasou pagamentos,carro novo,1028,ate 1000,1-4 anos,bom
+325,negativo,8,já atrasou pagamentos,carro novo,3398,ate 1000,4-7 anos,bom
+326,sem conta,12,já atrasou pagamentos,móveis,5801,nao,> 7 anos,bom
+327,sem conta,24,pagamento em dia,carro novo,1525,>1000,4-7 anos,bom
+328,positivo,36,pagamento em dia,radio/televisão,4473,ate 1000,> 7 anos,bom
+329,positivo,6,pagamento em dia,radio/televisão,1068,ate 1000,> 7 anos,bom
+330,negativo,24,já atrasou pagamentos,carro usado,6615,ate 1000,desempregado,bom
+331,sem conta,18,já atrasou pagamentos,educação,1864,nao,1-4 anos,mau
+332,positivo,60,pagamento em dia,carro novo,7408,nao,1-4 anos,mau
+333,sem conta,48,já atrasou pagamentos,carro usado,11590,nao,1-4 anos,mau
+334,negativo,24,pagamento em dia,móveis,4110,ate 1000,> 7 anos,mau
+335,negativo,6,já atrasou pagamentos,móveis,3384,ate 1000,1-4 anos,mau
+336,positivo,13,pagamento em dia,radio/televisão,2101,ate 1000,1-4 anos,bom
+337,negativo,15,pagamento em dia,itens de casa,1275,nao,1-4 anos,mau
+338,negativo,24,pagamento em dia,móveis,4169,ate 1000,1-4 anos,bom
+339,positivo,10,pagamento em dia,móveis,1521,ate 1000,1-4 anos,bom
+340,positivo,24,já atrasou pagamentos,educação,5743,ate 1000,1-4 anos,bom
+341,negativo,21,pagamento em dia,móveis,3599,ate 1000,4-7 anos,bom
+342,positivo,18,pagamento em dia,radio/televisão,3213,ate 1000,1-4 anos,bom
+343,positivo,18,pagamento em dia,negócios,4439,ate 1000,> 7 anos,bom
+344,positivo,10,pagamento em dia,carro novo,3949,ate 1000,1-4 anos,bom
+345,sem conta,15,já atrasou pagamentos,radio/televisão,1459,ate 1000,1-4 anos,bom
+346,positivo,13,já atrasou pagamentos,radio/televisão,882,ate 1000,1-4 anos,bom
+347,positivo,24,pagamento em dia,radio/televisão,3758,ate 1000,desempregado,bom
+348,sem conta,6,já atrasou pagamentos,negócios,1743,nao,1-4 anos,bom
+349,positivo,9,já atrasou pagamentos,educação,1136,>1000,> 7 anos,mau
+350,sem conta,9,pagamento em dia,itens de casa,1236,ate 1000,1-4 anos,bom
+351,positivo,9,pagamento em dia,móveis,959,ate 1000,1-4 anos,mau
+352,sem conta,18,já atrasou pagamentos,carro usado,3229,nao,desempregado,bom
+353,negativo,12,pagamento em dia,radio/televisão,6199,ate 1000,1-4 anos,mau
+354,sem conta,10,pagamento em dia,educação,727,ate 1000,> 7 anos,bom
+355,positivo,24,pagamento em dia,carro novo,1246,ate 1000,1-4 anos,mau
+356,sem conta,12,já atrasou pagamentos,radio/televisão,2331,nao,> 7 anos,bom
+357,sem conta,36,já atrasou pagamentos,radio/televisão,4463,ate 1000,1-4 anos,mau
+358,sem conta,12,pagamento em dia,radio/televisão,776,ate 1000,1-4 anos,bom
+359,negativo,30,pagamento em dia,móveis,2406,ate 1000,4-7 anos,mau
+360,positivo,18,pagamento em dia,educação,1239,nao,1-4 anos,bom
+361,positivo,12,pagamento em dia,radio/televisão,3399,nao,> 7 anos,bom
+362,positivo,12,já atrasou pagamentos,carro novo,2247,ate 1000,1-4 anos,bom
+363,sem conta,6,pagamento em dia,móveis,1766,ate 1000,1-4 anos,bom
+364,negativo,18,pagamento em dia,móveis,2473,ate 1000,desempregado,mau
+365,sem conta,12,pagamento em dia,negócios,1542,ate 1000,4-7 anos,bom
+366,sem conta,18,já atrasou pagamentos,carro usado,3850,ate 1000,4-7 anos,bom
+367,negativo,18,pagamento em dia,móveis,3650,ate 1000,1-4 anos,bom
+368,negativo,36,pagamento em dia,móveis,3446,ate 1000,> 7 anos,mau
+369,positivo,18,pagamento em dia,móveis,3001,ate 1000,4-7 anos,bom
+370,sem conta,36,pagamento em dia,carro novo,3079,nao,1-4 anos,bom
+371,sem conta,18,já atrasou pagamentos,radio/televisão,6070,ate 1000,> 7 anos,bom
+372,sem conta,10,já atrasou pagamentos,móveis,2146,ate 1000,1-4 anos,bom
+373,sem conta,60,já atrasou pagamentos,carro novo,13756,nao,> 7 anos,bom
+374,positivo,60,pagamento em dia,outros,14782,nao,> 7 anos,mau
+375,negativo,48,pagamento em dia,negócios,7685,ate 1000,4-7 anos,mau
+376,sem conta,18,já atrasou pagamentos,radio/televisão,2320,ate 1000,desempregado,bom
+377,sem conta,7,já atrasou pagamentos,radio/televisão,846,nao,> 7 anos,bom
+378,positivo,36,pagamento em dia,carro novo,14318,ate 1000,> 7 anos,mau
+379,sem conta,6,já atrasou pagamentos,carro novo,362,nao,1-4 anos,bom
+380,negativo,20,pagamento em dia,móveis,2212,nao,4-7 anos,bom
+381,positivo,18,pagamento em dia,carro usado,12976,ate 1000,desempregado,mau
+382,sem conta,22,pagamento em dia,carro novo,1283,nao,4-7 anos,bom
+383,positivo,12,pagamento em dia,carro novo,1330,ate 1000,1-4 anos,bom
+384,sem conta,30,já atrasou pagamentos,negócios,4272,nao,1-4 anos,bom
+385,sem conta,18,já atrasou pagamentos,radio/televisão,2238,ate 1000,1-4 anos,bom
+386,sem conta,18,pagamento em dia,radio/televisão,1126,nao,1-4 anos,bom
+387,positivo,18,já atrasou pagamentos,móveis,7374,ate 1000,desempregado,bom
+388,positivo,15,já atrasou pagamentos,negócios,2326,ate 1000,1-4 anos,bom
+389,sem conta,9,pagamento em dia,negócios,1449,ate 1000,4-7 anos,bom
+390,sem conta,18,pagamento em dia,carro novo,1820,ate 1000,1-4 anos,bom
+391,positivo,12,pagamento em dia,móveis,983,>1000,1-4 anos,bom
+392,negativo,36,pagamento em dia,carro novo,3249,ate 1000,4-7 anos,bom
+393,negativo,6,já atrasou pagamentos,radio/televisão,1957,ate 1000,4-7 anos,bom
+394,sem conta,9,já atrasou pagamentos,móveis,2406,ate 1000,desempregado,bom
+395,positivo,39,já atrasou pagamentos,educação,11760,nao,4-7 anos,bom
+396,negativo,12,pagamento em dia,móveis,2578,ate 1000,desempregado,bom
+397,negativo,36,já atrasou pagamentos,móveis,2348,ate 1000,1-4 anos,bom
+398,positivo,12,pagamento em dia,carro novo,1223,ate 1000,> 7 anos,mau
+399,sem conta,24,já atrasou pagamentos,radio/televisão,1516,>1000,1-4 anos,bom
+400,sem conta,18,pagamento em dia,radio/televisão,1473,ate 1000,1-4 anos,bom
+401,positivo,18,já atrasou pagamentos,negócios,1887,nao,1-4 anos,bom
+402,sem conta,24,já atrasou pagamentos,negócios,8648,ate 1000,1-4 anos,mau
+403,sem conta,14,já atrasou pagamentos,carro novo,802,ate 1000,1-4 anos,bom
+404,positivo,18,já atrasou pagamentos,carro novo,2899,nao,> 7 anos,bom
+405,positivo,24,pagamento em dia,radio/televisão,2039,ate 1000,1-4 anos,mau
+406,sem conta,24,já atrasou pagamentos,carro usado,2197,nao,4-7 anos,bom
+407,negativo,15,pagamento em dia,radio/televisão,1053,ate 1000,1-4 anos,bom
+408,sem conta,24,pagamento em dia,radio/televisão,3235,ate 1000,> 7 anos,bom
+409,positivo,12,já atrasou pagamentos,carro novo,939,ate 1000,4-7 anos,mau
+410,positivo,24,pagamento em dia,radio/televisão,1967,ate 1000,> 7 anos,bom
+411,sem conta,33,já atrasou pagamentos,carro usado,7253,ate 1000,4-7 anos,bom
+412,sem conta,12,já atrasou pagamentos,negócios,2292,ate 1000,desempregado,mau
+413,sem conta,10,pagamento em dia,carro novo,1597,ate 1000,1-4 anos,bom
+414,negativo,24,pagamento em dia,carro novo,1381,nao,1-4 anos,mau
+415,sem conta,36,já atrasou pagamentos,carro usado,5842,ate 1000,> 7 anos,bom
+416,negativo,12,pagamento em dia,carro novo,2579,ate 1000,1-4 anos,mau
+417,negativo,18,já atrasou pagamentos,educação,8471,nao,1-4 anos,bom
+418,sem conta,21,pagamento em dia,carro novo,2782,ate 1000,4-7 anos,bom
+419,positivo,18,pagamento em dia,carro novo,1042,nao,1-4 anos,mau
+420,sem conta,15,pagamento em dia,carro novo,3186,>1000,4-7 anos,bom
+421,positivo,12,pagamento em dia,carro usado,2028,nao,1-4 anos,bom
+422,positivo,12,já atrasou pagamentos,carro novo,958,ate 1000,4-7 anos,bom
+423,sem conta,21,já atrasou pagamentos,móveis,1591,nao,4-7 anos,bom
+424,positivo,12,pagamento em dia,móveis,2762,nao,> 7 anos,mau
+425,positivo,18,pagamento em dia,carro usado,2779,ate 1000,1-4 anos,bom
+426,sem conta,28,já atrasou pagamentos,radio/televisão,2743,ate 1000,> 7 anos,bom
+427,sem conta,18,já atrasou pagamentos,radio/televisão,1149,>1000,1-4 anos,bom
+428,sem conta,9,pagamento em dia,móveis,1313,ate 1000,> 7 anos,bom
+429,negativo,18,já atrasou pagamentos,reparos,1190,ate 1000,desempregado,mau
+430,sem conta,5,pagamento em dia,negócios,3448,ate 1000,4-7 anos,bom
+431,positivo,24,pagamento em dia,outros,11328,ate 1000,1-4 anos,mau
+432,negativo,6,já atrasou pagamentos,móveis,1872,ate 1000,desempregado,bom
+433,sem conta,24,já atrasou pagamentos,reparos,2058,ate 1000,1-4 anos,bom
+434,negativo,9,pagamento em dia,móveis,2136,ate 1000,1-4 anos,bom
+435,positivo,12,pagamento em dia,radio/televisão,1484,nao,1-4 anos,mau
+436,sem conta,6,pagamento em dia,reparos,660,ate 1000,4-7 anos,bom
+437,sem conta,24,já atrasou pagamentos,carro novo,1287,>1000,> 7 anos,bom
+438,negativo,42,já atrasou pagamentos,reparos,3394,ate 1000,desempregado,bom
+439,positivo,12,pagamento em dia,negócios,609,ate 1000,1-4 anos,mau
+440,sem conta,12,pagamento em dia,carro novo,1884,ate 1000,> 7 anos,bom
+441,negativo,12,pagamento em dia,móveis,1620,ate 1000,1-4 anos,bom
+442,positivo,20,já atrasou pagamentos,outros,2629,ate 1000,1-4 anos,bom
+443,sem conta,12,pagamento em dia,educação,719,ate 1000,> 7 anos,mau
+444,positivo,48,já atrasou pagamentos,móveis,5096,ate 1000,1-4 anos,mau
+445,sem conta,9,já atrasou pagamentos,educação,1244,nao,> 7 anos,bom
+446,negativo,36,pagamento em dia,carro novo,1842,ate 1000,1-4 anos,mau
+447,positivo,7,pagamento em dia,radio/televisão,2576,ate 1000,1-4 anos,bom
+448,positivo,12,pagamento em dia,móveis,1424,nao,> 7 anos,bom
+449,positivo,15,já atrasou pagamentos,reparos,1512,>1000,1-4 anos,mau
+450,sem conta,36,já atrasou pagamentos,carro usado,11054,nao,1-4 anos,bom
+451,sem conta,6,pagamento em dia,radio/televisão,518,ate 1000,1-4 anos,bom
+452,sem conta,12,pagamento em dia,móveis,2759,ate 1000,> 7 anos,bom
+453,sem conta,24,pagamento em dia,carro usado,2670,ate 1000,> 7 anos,bom
+454,negativo,24,pagamento em dia,carro novo,4817,ate 1000,4-7 anos,mau
+455,sem conta,24,pagamento em dia,carro usado,2679,ate 1000,1-4 anos,bom
+456,negativo,11,já atrasou pagamentos,carro novo,3905,ate 1000,1-4 anos,bom
+457,negativo,12,pagamento em dia,carro usado,3386,ate 1000,> 7 anos,mau
+458,negativo,6,pagamento em dia,itens de casa,343,ate 1000,1-4 anos,bom
+459,sem conta,18,pagamento em dia,radio/televisão,4594,ate 1000,1-4 anos,bom
+460,negativo,36,pagamento em dia,móveis,3620,ate 1000,1-4 anos,bom
+461,negativo,15,pagamento em dia,carro novo,1721,ate 1000,1-4 anos,bom
+462,positivo,12,pagamento em dia,móveis,3017,ate 1000,1-4 anos,bom
+463,positivo,12,pagamento em dia,retreinamentos,754,nao,> 7 anos,bom
+464,sem conta,18,pagamento em dia,negócios,1950,ate 1000,4-7 anos,bom
+465,negativo,24,pagamento em dia,carro usado,2924,ate 1000,1-4 anos,bom
+466,negativo,24,já atrasou pagamentos,radio/televisão,1659,ate 1000,1-4 anos,mau
+467,sem conta,48,já atrasou pagamentos,radio/televisão,7238,nao,> 7 anos,bom
+468,sem conta,33,já atrasou pagamentos,negócios,2764,ate 1000,1-4 anos,bom
+469,sem conta,24,já atrasou pagamentos,carro usado,4679,ate 1000,4-7 anos,bom
+470,positivo,24,pagamento em dia,radio/televisão,3092,nao,1-4 anos,mau
+471,negativo,6,pagamento em dia,educação,448,ate 1000,1-4 anos,mau
+472,negativo,9,pagamento em dia,carro novo,654,ate 1000,1-4 anos,mau
+473,sem conta,6,pagamento em dia,retreinamentos,1238,nao,desempregado,bom
+474,positivo,18,já atrasou pagamentos,radio/televisão,1245,ate 1000,1-4 anos,mau
+475,negativo,18,pagamento em dia,móveis,3114,ate 1000,1-4 anos,mau
+476,sem conta,39,pagamento em dia,carro usado,2569,ate 1000,1-4 anos,bom
+477,positivo,24,pagamento em dia,radio/televisão,5152,ate 1000,4-7 anos,bom
+478,positivo,12,pagamento em dia,negócios,1037,nao,4-7 anos,bom
+479,negativo,15,já atrasou pagamentos,móveis,1478,ate 1000,> 7 anos,bom
+480,positivo,12,já atrasou pagamentos,radio/televisão,3573,ate 1000,1-4 anos,bom
+481,positivo,24,pagamento em dia,carro novo,1201,ate 1000,1-4 anos,bom
+482,negativo,30,pagamento em dia,móveis,3622,>1000,> 7 anos,bom
+483,sem conta,15,já atrasou pagamentos,móveis,960,>1000,4-7 anos,bom
+484,sem conta,12,já atrasou pagamentos,carro novo,1163,ate 1000,1-4 anos,bom
+485,positivo,6,já atrasou pagamentos,carro novo,1209,ate 1000,desempregado,mau
+486,sem conta,12,pagamento em dia,radio/televisão,3077,ate 1000,1-4 anos,bom
+487,sem conta,24,pagamento em dia,carro novo,3757,ate 1000,> 7 anos,bom
+488,sem conta,10,pagamento em dia,carro novo,1418,nao,1-4 anos,bom
+489,sem conta,6,pagamento em dia,carro novo,3518,ate 1000,1-4 anos,bom
+490,sem conta,12,já atrasou pagamentos,radio/televisão,1934,ate 1000,> 7 anos,bom
+491,positivo,27,pagamento em dia,negócios,8318,ate 1000,> 7 anos,mau
+492,sem conta,6,já atrasou pagamentos,radio/televisão,1237,nao,1-4 anos,bom
+493,positivo,6,pagamento em dia,radio/televisão,368,nao,> 7 anos,bom
+494,negativo,12,já atrasou pagamentos,carro novo,2122,ate 1000,1-4 anos,bom
+495,negativo,24,pagamento em dia,móveis,2996,nao,1-4 anos,mau
+496,positivo,36,pagamento em dia,móveis,9034,nao,1-4 anos,mau
+497,sem conta,24,já atrasou pagamentos,móveis,1585,ate 1000,4-7 anos,bom
+498,positivo,18,pagamento em dia,radio/televisão,1301,ate 1000,> 7 anos,bom
+499,positivo,6,já atrasou pagamentos,carro novo,1323,nao,> 7 anos,bom
+500,negativo,24,pagamento em dia,carro novo,3123,ate 1000,1-4 anos,mau
+501,negativo,36,pagamento em dia,carro usado,5493,ate 1000,> 7 anos,bom
+502,positivo,9,pagamento em dia,radio/televisão,1126,nao,> 7 anos,bom
+503,positivo,24,já atrasou pagamentos,radio/televisão,1216,nao,1-4 anos,mau
+504,negativo,24,pagamento em dia,carro novo,1207,ate 1000,1-4 anos,mau
+505,sem conta,10,pagamento em dia,carro novo,1309,nao,1-4 anos,mau
+506,positivo,15,já atrasou pagamentos,carro usado,2360,ate 1000,1-4 anos,bom
+507,positivo,15,pagamento em dia,carro novo,6850,nao,desempregado,mau
+508,sem conta,24,pagamento em dia,radio/televisão,1413,ate 1000,1-4 anos,bom
+509,sem conta,39,pagamento em dia,carro usado,8588,nao,> 7 anos,bom
+510,negativo,12,pagamento em dia,carro novo,759,ate 1000,4-7 anos,mau
+511,sem conta,36,pagamento em dia,carro usado,4686,ate 1000,1-4 anos,bom
+512,positivo,15,pagamento em dia,negócios,2687,ate 1000,4-7 anos,bom
+513,positivo,12,já atrasou pagamentos,radio/televisão,585,ate 1000,1-4 anos,bom
+514,sem conta,24,pagamento em dia,carro novo,2255,nao,1-4 anos,bom
+515,negativo,6,já atrasou pagamentos,carro novo,609,ate 1000,4-7 anos,bom
+516,negativo,6,já atrasou pagamentos,carro novo,1361,ate 1000,1-4 anos,bom
+517,sem conta,36,já atrasou pagamentos,móveis,7127,ate 1000,1-4 anos,mau
+518,negativo,6,pagamento em dia,carro novo,1203,nao,> 7 anos,bom
+519,sem conta,6,já atrasou pagamentos,radio/televisão,700,nao,> 7 anos,bom
+520,sem conta,24,já atrasou pagamentos,reparos,5507,ate 1000,> 7 anos,bom
+521,negativo,18,pagamento em dia,radio/televisão,3190,ate 1000,1-4 anos,mau
+522,negativo,48,pagamento em dia,móveis,7119,ate 1000,1-4 anos,mau
+523,sem conta,24,pagamento em dia,carro usado,3488,nao,4-7 anos,bom
+524,positivo,18,pagamento em dia,radio/televisão,1113,ate 1000,1-4 anos,bom
+525,positivo,26,pagamento em dia,carro usado,7966,ate 1000,1-4 anos,bom
+526,sem conta,15,já atrasou pagamentos,educação,1532,nao,1-4 anos,bom
+527,sem conta,4,já atrasou pagamentos,radio/televisão,1503,ate 1000,4-7 anos,bom
+528,negativo,36,pagamento em dia,radio/televisão,2302,ate 1000,1-4 anos,mau
+529,negativo,6,pagamento em dia,carro novo,662,ate 1000,1-4 anos,bom
+530,positivo,36,pagamento em dia,educação,2273,ate 1000,4-7 anos,bom
+531,positivo,15,pagamento em dia,carro novo,2631,nao,1-4 anos,mau
+532,sem conta,12,já atrasou pagamentos,carro usado,1503,ate 1000,1-4 anos,bom
+533,sem conta,24,pagamento em dia,radio/televisão,1311,nao,4-7 anos,bom
+534,sem conta,24,pagamento em dia,radio/televisão,3105,nao,1-4 anos,bom
+535,positivo,21,já atrasou pagamentos,educação,2319,ate 1000,1-4 anos,mau
+536,negativo,6,pagamento em dia,carro novo,1374,nao,desempregado,bom
+537,positivo,18,já atrasou pagamentos,móveis,3612,ate 1000,> 7 anos,bom
+538,negativo,48,pagamento em dia,carro novo,7763,ate 1000,> 7 anos,mau
+539,positivo,18,pagamento em dia,móveis,3049,ate 1000,1-4 anos,bom
+540,positivo,12,pagamento em dia,radio/televisão,1534,ate 1000,1-4 anos,mau
+541,sem conta,24,já atrasou pagamentos,carro novo,2032,ate 1000,> 7 anos,bom
+542,negativo,30,pagamento em dia,móveis,6350,nao,> 7 anos,mau
+543,positivo,18,pagamento em dia,móveis,2864,ate 1000,1-4 anos,mau
+544,sem conta,12,já atrasou pagamentos,carro novo,1255,ate 1000,> 7 anos,bom
+545,negativo,24,já atrasou pagamentos,carro novo,1333,ate 1000,desempregado,mau
+546,sem conta,24,já atrasou pagamentos,carro novo,2022,ate 1000,1-4 anos,bom
+547,sem conta,24,pagamento em dia,radio/televisão,1552,ate 1000,4-7 anos,bom
+548,negativo,12,pagamento em dia,radio/televisão,626,ate 1000,1-4 anos,mau
+549,sem conta,48,já atrasou pagamentos,carro usado,8858,nao,4-7 anos,bom
+550,sem conta,12,já atrasou pagamentos,reparos,996,nao,4-7 anos,bom
+551,sem conta,6,pagamento em dia,radio/televisão,1750,ate 1000,> 7 anos,bom
+552,negativo,48,pagamento em dia,radio/televisão,6999,ate 1000,4-7 anos,mau
+553,positivo,12,já atrasou pagamentos,carro novo,1995,nao,1-4 anos,bom
+554,positivo,9,pagamento em dia,educação,1199,ate 1000,4-7 anos,bom
+555,positivo,12,pagamento em dia,radio/televisão,1331,ate 1000,1-4 anos,mau
+556,positivo,18,pagamento em dia,carro novo,2278,nao,1-4 anos,mau
+557,sem conta,21,pagamento em dia,carro novo,5003,nao,1-4 anos,mau
+558,negativo,24,pagamento em dia,móveis,3552,ate 1000,4-7 anos,mau
+559,positivo,18,já atrasou pagamentos,móveis,1928,ate 1000,1-4 anos,mau
+560,negativo,24,pagamento em dia,carro usado,2964,nao,> 7 anos,bom
+561,negativo,24,pagamento em dia,radio/televisão,1546,ate 1000,4-7 anos,mau
+562,positivo,6,já atrasou pagamentos,radio/televisão,683,ate 1000,1-4 anos,bom
+563,positivo,36,pagamento em dia,carro novo,12389,nao,1-4 anos,mau
+564,positivo,24,já atrasou pagamentos,negócios,4712,nao,1-4 anos,bom
+565,positivo,24,já atrasou pagamentos,radio/televisão,1553,nao,4-7 anos,bom
+566,negativo,12,pagamento em dia,carro novo,1372,ate 1000,4-7 anos,mau
+567,sem conta,24,já atrasou pagamentos,radio/televisão,2578,>1000,> 7 anos,bom
+568,positivo,48,pagamento em dia,radio/televisão,3979,nao,4-7 anos,bom
+569,negativo,48,pagamento em dia,radio/televisão,6758,ate 1000,1-4 anos,mau
+570,negativo,24,pagamento em dia,móveis,3234,ate 1000,1-4 anos,mau
+571,sem conta,30,já atrasou pagamentos,radio/televisão,5954,ate 1000,4-7 anos,bom
+572,sem conta,24,pagamento em dia,carro usado,5433,nao,desempregado,bom
+573,negativo,15,pagamento em dia,negócios,806,ate 1000,1-4 anos,bom
+574,positivo,9,pagamento em dia,radio/televisão,1082,ate 1000,> 7 anos,bom
+575,sem conta,15,já atrasou pagamentos,móveis,2788,ate 1000,4-7 anos,bom
+576,positivo,12,pagamento em dia,radio/televisão,2930,ate 1000,4-7 anos,bom
+577,sem conta,24,já atrasou pagamentos,educação,1927,nao,1-4 anos,bom
+578,positivo,36,já atrasou pagamentos,carro novo,2820,ate 1000,1-4 anos,mau
+579,sem conta,24,pagamento em dia,retreinamentos,937,ate 1000,1-4 anos,bom
+580,positivo,18,já atrasou pagamentos,carro novo,1056,ate 1000,> 7 anos,mau
+581,positivo,12,já atrasou pagamentos,carro novo,3124,ate 1000,1-4 anos,bom
+582,sem conta,9,pagamento em dia,móveis,1388,ate 1000,1-4 anos,bom
+583,positivo,36,pagamento em dia,reparos,2384,ate 1000,1-4 anos,mau
+584,sem conta,12,pagamento em dia,carro novo,2133,nao,> 7 anos,bom
+585,negativo,18,pagamento em dia,móveis,2039,ate 1000,1-4 anos,mau
+586,negativo,9,já atrasou pagamentos,carro novo,2799,ate 1000,1-4 anos,bom
+587,negativo,12,pagamento em dia,móveis,1289,ate 1000,1-4 anos,bom
+588,negativo,18,pagamento em dia,itens de casa,1217,ate 1000,1-4 anos,mau
+589,negativo,12,já atrasou pagamentos,móveis,2246,ate 1000,> 7 anos,mau
+590,negativo,12,já atrasou pagamentos,radio/televisão,385,ate 1000,4-7 anos,bom
+591,positivo,24,já atrasou pagamentos,carro novo,1965,nao,1-4 anos,bom
+592,sem conta,21,pagamento em dia,negócios,1572,>1000,> 7 anos,bom
+593,positivo,24,pagamento em dia,carro novo,2718,ate 1000,1-4 anos,mau
+594,negativo,24,pagamento em dia,outros,1358,nao,> 7 anos,mau
+595,positivo,6,pagamento em dia,carro novo,931,nao,1-4 anos,mau
+596,negativo,24,pagamento em dia,carro novo,1442,ate 1000,4-7 anos,mau
+597,positivo,24,pagamento em dia,negócios,4241,ate 1000,1-4 anos,mau
+598,sem conta,18,já atrasou pagamentos,carro novo,2775,ate 1000,4-7 anos,mau
+599,sem conta,24,já atrasou pagamentos,negócios,3863,ate 1000,1-4 anos,bom
+600,positivo,7,pagamento em dia,radio/televisão,2329,ate 1000,1-4 anos,bom
+601,positivo,9,pagamento em dia,móveis,918,ate 1000,1-4 anos,mau
+602,positivo,24,pagamento em dia,educação,1837,ate 1000,4-7 anos,mau
+603,sem conta,36,pagamento em dia,móveis,3349,ate 1000,1-4 anos,mau
+604,positivo,10,pagamento em dia,móveis,1275,ate 1000,1-4 anos,bom
+605,negativo,24,pagamento em dia,móveis,2828,ate 1000,1-4 anos,bom
+606,sem conta,24,já atrasou pagamentos,negócios,4526,ate 1000,1-4 anos,bom
+607,positivo,36,pagamento em dia,radio/televisão,2671,nao,1-4 anos,mau
+608,sem conta,18,pagamento em dia,radio/televisão,2051,ate 1000,1-4 anos,bom
+609,sem conta,15,pagamento em dia,carro usado,1300,nao,> 7 anos,bom
+610,negativo,12,pagamento em dia,itens de casa,741,nao,desempregado,mau
+611,positivo,10,pagamento em dia,carro novo,1240,nao,> 7 anos,mau
+612,negativo,21,pagamento em dia,radio/televisão,3357,>1000,1-4 anos,bom
+613,negativo,24,pagamento em dia,carro usado,3632,ate 1000,1-4 anos,bom
+614,sem conta,18,já atrasou pagamentos,móveis,1808,ate 1000,4-7 anos,mau
+615,positivo,48,pagamento em dia,negócios,12204,nao,1-4 anos,bom
+616,positivo,60,já atrasou pagamentos,radio/televisão,9157,nao,1-4 anos,bom
+617,negativo,6,já atrasou pagamentos,carro novo,3676,ate 1000,1-4 anos,bom
+618,positivo,30,pagamento em dia,móveis,3441,nao,1-4 anos,mau
+619,sem conta,12,pagamento em dia,carro novo,640,ate 1000,1-4 anos,bom
+620,positivo,21,já atrasou pagamentos,negócios,3652,ate 1000,4-7 anos,bom
+621,sem conta,18,já atrasou pagamentos,carro novo,1530,ate 1000,1-4 anos,mau
+622,sem conta,48,pagamento em dia,negócios,3914,nao,1-4 anos,mau
+623,negativo,12,pagamento em dia,móveis,1858,ate 1000,1-4 anos,bom
+624,negativo,18,pagamento em dia,radio/televisão,2600,ate 1000,1-4 anos,mau
+625,sem conta,15,pagamento em dia,radio/televisão,1979,nao,> 7 anos,bom
+626,positivo,6,pagamento em dia,móveis,2116,ate 1000,1-4 anos,bom
+627,positivo,9,pagamento em dia,carro novo,1437,nao,4-7 anos,mau
+628,sem conta,42,já atrasou pagamentos,móveis,4042,ate 1000,1-4 anos,bom
+629,sem conta,9,pagamento em dia,educação,3832,nao,> 7 anos,bom
+630,negativo,24,pagamento em dia,radio/televisão,3660,ate 1000,1-4 anos,bom
+631,negativo,18,pagamento em dia,móveis,1553,ate 1000,1-4 anos,mau
+632,positivo,15,pagamento em dia,radio/televisão,1444,nao,1-4 anos,bom
+633,sem conta,9,pagamento em dia,móveis,1980,ate 1000,1-4 anos,mau
+634,positivo,24,pagamento em dia,carro novo,1355,ate 1000,1-4 anos,mau
+635,sem conta,12,pagamento em dia,educação,1393,ate 1000,> 7 anos,bom
+636,sem conta,24,pagamento em dia,radio/televisão,1376,ate 1000,4-7 anos,bom
+637,sem conta,60,já atrasou pagamentos,radio/televisão,15653,ate 1000,4-7 anos,bom
+638,sem conta,12,pagamento em dia,radio/televisão,1493,ate 1000,1-4 anos,bom
+639,negativo,42,já atrasou pagamentos,radio/televisão,4370,ate 1000,4-7 anos,mau
+640,negativo,18,pagamento em dia,educação,750,ate 1000,desempregado,mau
+641,positivo,15,pagamento em dia,reparos,1308,ate 1000,> 7 anos,bom
+642,sem conta,15,pagamento em dia,educação,4623,nao,1-4 anos,mau
+643,sem conta,24,já atrasou pagamentos,radio/televisão,1851,ate 1000,4-7 anos,bom
+644,negativo,18,já atrasou pagamentos,radio/televisão,1880,ate 1000,4-7 anos,bom
+645,sem conta,36,já atrasou pagamentos,negócios,7980,nao,1-4 anos,mau
+646,negativo,30,pagamento em dia,móveis,4583,ate 1000,1-4 anos,bom
+647,sem conta,12,pagamento em dia,carro novo,1386,ate 1000,1-4 anos,mau
+648,positivo,24,pagamento em dia,carro novo,947,ate 1000,4-7 anos,mau
+649,negativo,12,pagamento em dia,educação,684,ate 1000,1-4 anos,mau
+650,negativo,48,pagamento em dia,educação,7476,ate 1000,4-7 anos,bom
+651,positivo,12,pagamento em dia,móveis,1922,ate 1000,1-4 anos,mau
+652,negativo,24,pagamento em dia,carro novo,2303,ate 1000,> 7 anos,mau
+653,positivo,36,já atrasou pagamentos,carro novo,8086,nao,> 7 anos,mau
+654,sem conta,24,já atrasou pagamentos,carro usado,2346,ate 1000,4-7 anos,bom
+655,negativo,14,pagamento em dia,carro novo,3973,ate 1000,desempregado,bom
+656,positivo,12,pagamento em dia,carro novo,888,ate 1000,> 7 anos,mau
+657,sem conta,48,pagamento em dia,radio/televisão,10222,nao,4-7 anos,bom
+658,positivo,30,pagamento em dia,negócios,4221,ate 1000,1-4 anos,bom
+659,positivo,18,já atrasou pagamentos,móveis,6361,ate 1000,> 7 anos,bom
+660,positivo,12,pagamento em dia,radio/televisão,1297,ate 1000,1-4 anos,bom
+661,negativo,12,pagamento em dia,carro novo,900,nao,1-4 anos,mau
+662,sem conta,21,pagamento em dia,móveis,2241,ate 1000,> 7 anos,bom
+663,positivo,6,já atrasou pagamentos,móveis,1050,ate 1000,desempregado,bom
+664,positivo,6,já atrasou pagamentos,educação,1047,ate 1000,1-4 anos,bom
+665,sem conta,24,já atrasou pagamentos,outros,6314,ate 1000,desempregado,bom
+666,positivo,30,pagamento em dia,móveis,3496,>1000,1-4 anos,bom
+667,sem conta,48,pagamento em dia,negócios,3609,ate 1000,1-4 anos,bom
+668,negativo,12,já atrasou pagamentos,carro novo,4843,ate 1000,> 7 anos,mau
+669,positivo,30,já atrasou pagamentos,radio/televisão,3017,ate 1000,> 7 anos,bom
+670,sem conta,24,já atrasou pagamentos,negócios,4139,nao,1-4 anos,bom
+671,sem conta,36,pagamento em dia,negócios,5742,nao,4-7 anos,bom
+672,sem conta,60,pagamento em dia,carro novo,10366,ate 1000,> 7 anos,bom
+673,sem conta,6,já atrasou pagamentos,carro novo,2080,ate 1000,1-4 anos,bom
+674,sem conta,21,já atrasou pagamentos,negócios,2580,ate 1000,1-4 anos,mau
+675,sem conta,30,já atrasou pagamentos,radio/televisão,4530,ate 1000,4-7 anos,bom
+676,sem conta,24,já atrasou pagamentos,móveis,5150,ate 1000,> 7 anos,bom
+677,positivo,72,pagamento em dia,radio/televisão,5595,nao,1-4 anos,mau
+678,negativo,24,pagamento em dia,radio/televisão,2384,ate 1000,> 7 anos,bom
+679,sem conta,18,pagamento em dia,radio/televisão,1453,ate 1000,1-4 anos,bom
+680,sem conta,6,pagamento em dia,educação,1538,ate 1000,1-4 anos,bom
+681,sem conta,12,pagamento em dia,radio/televisão,2279,nao,1-4 anos,bom
+682,sem conta,15,já atrasou pagamentos,radio/televisão,1478,ate 1000,1-4 anos,bom
+683,sem conta,24,já atrasou pagamentos,radio/televisão,5103,ate 1000,1-4 anos,bom
+684,positivo,36,já atrasou pagamentos,negócios,9857,nao,4-7 anos,bom
+685,sem conta,60,pagamento em dia,carro novo,6527,nao,1-4 anos,bom
+686,positivo,10,já atrasou pagamentos,radio/televisão,1347,nao,4-7 anos,bom
+687,positivo,36,já atrasou pagamentos,carro novo,2862,nao,> 7 anos,bom
+688,sem conta,9,pagamento em dia,radio/televisão,2753,nao,> 7 anos,bom
+689,negativo,12,pagamento em dia,carro novo,3651,>1000,1-4 anos,bom
+690,negativo,15,já atrasou pagamentos,móveis,975,ate 1000,1-4 anos,bom
+691,positivo,15,pagamento em dia,reparos,2631,nao,1-4 anos,bom
+692,positivo,24,pagamento em dia,radio/televisão,2896,nao,1-4 anos,bom
+693,negativo,6,já atrasou pagamentos,carro novo,4716,nao,1-4 anos,bom
+694,sem conta,24,pagamento em dia,radio/televisão,2284,ate 1000,4-7 anos,bom
+695,sem conta,6,pagamento em dia,carro usado,1236,ate 1000,1-4 anos,bom
+696,positivo,12,pagamento em dia,radio/televisão,1103,ate 1000,4-7 anos,bom
+697,sem conta,12,já atrasou pagamentos,carro novo,926,ate 1000,desempregado,bom
+698,sem conta,18,já atrasou pagamentos,radio/televisão,1800,ate 1000,1-4 anos,bom
+699,positivo,15,pagamento em dia,educação,1905,ate 1000,> 7 anos,bom
+700,sem conta,12,pagamento em dia,móveis,1123,ate 1000,1-4 anos,mau
+701,negativo,48,já atrasou pagamentos,carro usado,6331,ate 1000,> 7 anos,mau
+702,positivo,24,pagamento em dia,radio/televisão,1377,nao,> 7 anos,bom
+703,positivo,30,já atrasou pagamentos,negócios,2503,nao,> 7 anos,bom
+704,positivo,27,pagamento em dia,negócios,2528,ate 1000,1-4 anos,bom
+705,sem conta,15,pagamento em dia,carro novo,5324,ate 1000,> 7 anos,bom
+706,positivo,48,pagamento em dia,carro novo,6560,nao,4-7 anos,mau
+707,positivo,12,pagamento em dia,móveis,2969,ate 1000,1-4 anos,mau
+708,positivo,9,pagamento em dia,radio/televisão,1206,ate 1000,> 7 anos,bom
+709,positivo,9,pagamento em dia,radio/televisão,2118,ate 1000,1-4 anos,bom
+710,sem conta,18,já atrasou pagamentos,radio/televisão,629,ate 1000,> 7 anos,bom
+711,negativo,6,pagamento em dia,educação,1198,ate 1000,> 7 anos,mau
+712,sem conta,21,pagamento em dia,carro usado,2476,nao,> 7 anos,bom
+713,negativo,9,já atrasou pagamentos,radio/televisão,1138,ate 1000,1-4 anos,bom
+714,positivo,60,pagamento em dia,carro novo,14027,ate 1000,4-7 anos,mau
+715,sem conta,30,já atrasou pagamentos,carro usado,7596,nao,> 7 anos,bom
+716,sem conta,30,já atrasou pagamentos,radio/televisão,3077,nao,> 7 anos,bom
+717,sem conta,18,pagamento em dia,radio/televisão,1505,ate 1000,1-4 anos,bom
+718,positivo,24,já atrasou pagamentos,radio/televisão,3148,nao,1-4 anos,bom
+719,positivo,20,pagamento em dia,carro usado,6148,nao,> 7 anos,bom
+720,positivo,9,pagamento em dia,radio/televisão,1337,ate 1000,1-4 anos,mau
+721,positivo,6,pagamento em dia,educação,433,>1000,1-4 anos,mau
+722,negativo,12,pagamento em dia,carro novo,1228,ate 1000,1-4 anos,mau
+723,positivo,9,pagamento em dia,radio/televisão,790,ate 1000,1-4 anos,bom
+724,sem conta,27,pagamento em dia,carro novo,2570,ate 1000,1-4 anos,mau
+725,sem conta,6,já atrasou pagamentos,carro novo,250,>1000,1-4 anos,bom
+726,sem conta,15,já atrasou pagamentos,radio/televisão,1316,ate 1000,1-4 anos,bom
+727,negativo,18,pagamento em dia,radio/televisão,1882,ate 1000,1-4 anos,mau
+728,positivo,48,pagamento em dia,negócios,6416,ate 1000,> 7 anos,mau
+729,positivo,24,já atrasou pagamentos,negócios,1275,>1000,1-4 anos,bom
+730,positivo,24,já atrasou pagamentos,radio/televisão,6403,ate 1000,1-4 anos,bom
+731,negativo,24,pagamento em dia,radio/televisão,1987,ate 1000,1-4 anos,mau
+732,positivo,8,pagamento em dia,radio/televisão,760,ate 1000,4-7 anos,bom
+733,sem conta,24,pagamento em dia,carro usado,2603,>1000,1-4 anos,bom
+734,sem conta,4,já atrasou pagamentos,carro novo,3380,ate 1000,4-7 anos,bom
+735,positivo,36,pagamento em dia,itens de casa,3990,nao,1-4 anos,bom
+736,positivo,24,pagamento em dia,carro usado,11560,ate 1000,1-4 anos,mau
+737,negativo,18,pagamento em dia,carro novo,4380,nao,1-4 anos,bom
+738,sem conta,6,já atrasou pagamentos,carro novo,6761,ate 1000,4-7 anos,bom
+739,positivo,30,pagamento em dia,negócios,4280,nao,1-4 anos,mau
+740,negativo,24,pagamento em dia,carro novo,2325,nao,4-7 anos,bom
+741,positivo,10,pagamento em dia,radio/televisão,1048,ate 1000,1-4 anos,bom
+742,sem conta,21,pagamento em dia,radio/televisão,3160,nao,> 7 anos,bom
+743,negativo,24,pagamento em dia,móveis,2483,ate 1000,1-4 anos,bom
+744,negativo,39,já atrasou pagamentos,móveis,14179,nao,4-7 anos,bom
+745,negativo,13,já atrasou pagamentos,negócios,1797,ate 1000,1-4 anos,bom
+746,negativo,15,pagamento em dia,carro novo,2511,ate 1000,desempregado,bom
+747,negativo,12,pagamento em dia,carro novo,1274,ate 1000,1-4 anos,mau
+748,sem conta,21,pagamento em dia,carro usado,5248,nao,1-4 anos,bom
+749,sem conta,15,pagamento em dia,carro usado,3029,ate 1000,4-7 anos,bom
+750,negativo,6,pagamento em dia,móveis,428,ate 1000,> 7 anos,bom
+751,negativo,18,pagamento em dia,carro novo,976,ate 1000,1-4 anos,mau
+752,positivo,12,pagamento em dia,negócios,841,nao,4-7 anos,bom
+753,sem conta,30,já atrasou pagamentos,radio/televisão,5771,ate 1000,4-7 anos,bom
+754,sem conta,12,já atrasou pagamentos,reparos,1555,>1000,> 7 anos,mau
+755,negativo,24,pagamento em dia,carro novo,1285,nao,4-7 anos,mau
+756,positivo,6,já atrasou pagamentos,carro novo,1299,ate 1000,1-4 anos,bom
+757,positivo,15,já atrasou pagamentos,radio/televisão,1271,nao,1-4 anos,mau
+758,sem conta,24,pagamento em dia,carro novo,1393,ate 1000,1-4 anos,bom
+759,negativo,12,já atrasou pagamentos,carro novo,691,ate 1000,> 7 anos,mau
+760,sem conta,15,já atrasou pagamentos,carro novo,5045,nao,> 7 anos,bom
+761,negativo,18,já atrasou pagamentos,móveis,2124,ate 1000,1-4 anos,mau
+762,negativo,12,pagamento em dia,radio/televisão,2214,ate 1000,1-4 anos,bom
+763,sem conta,21,já atrasou pagamentos,carro novo,12680,nao,> 7 anos,mau
+764,sem conta,24,já atrasou pagamentos,carro novo,2463,nao,4-7 anos,bom
+765,positivo,12,pagamento em dia,radio/televisão,1155,ate 1000,> 7 anos,bom
+766,negativo,30,pagamento em dia,móveis,3108,ate 1000,1-4 anos,mau
+767,sem conta,10,pagamento em dia,carro usado,2901,nao,1-4 anos,bom
+768,positivo,12,já atrasou pagamentos,móveis,3617,ate 1000,> 7 anos,bom
+769,sem conta,12,já atrasou pagamentos,radio/televisão,1655,ate 1000,> 7 anos,bom
+770,negativo,24,pagamento em dia,carro usado,2812,nao,> 7 anos,bom
+771,negativo,36,já atrasou pagamentos,educação,8065,ate 1000,1-4 anos,mau
+772,sem conta,21,já atrasou pagamentos,carro usado,3275,ate 1000,> 7 anos,bom
+773,sem conta,24,já atrasou pagamentos,radio/televisão,2223,nao,> 7 anos,bom
+774,positivo,12,já atrasou pagamentos,carro novo,1480,ate 1000,desempregado,bom
+775,negativo,24,pagamento em dia,carro novo,1371,nao,1-4 anos,mau
+776,sem conta,36,já atrasou pagamentos,carro novo,3535,ate 1000,4-7 anos,bom
+777,negativo,18,pagamento em dia,radio/televisão,3509,ate 1000,4-7 anos,bom
+778,sem conta,36,já atrasou pagamentos,carro usado,5711,>1000,> 7 anos,bom
+779,positivo,18,pagamento em dia,reparos,3872,ate 1000,desempregado,bom
+780,positivo,39,já atrasou pagamentos,radio/televisão,4933,ate 1000,4-7 anos,mau
+781,sem conta,24,já atrasou pagamentos,carro novo,1940,>1000,> 7 anos,bom
+782,positivo,12,pagamento em dia,retreinamentos,1410,ate 1000,1-4 anos,bom
+783,positivo,12,pagamento em dia,carro novo,836,nao,1-4 anos,mau
+784,positivo,20,pagamento em dia,carro usado,6468,nao,desempregado,bom
+785,positivo,18,pagamento em dia,negócios,1941,>1000,1-4 anos,bom
+786,sem conta,22,pagamento em dia,radio/televisão,2675,ate 1000,> 7 anos,bom
+787,sem conta,48,já atrasou pagamentos,carro usado,2751,nao,> 7 anos,bom
+788,positivo,48,já atrasou pagamentos,educação,6224,ate 1000,> 7 anos,mau
+789,negativo,40,já atrasou pagamentos,educação,5998,ate 1000,1-4 anos,mau
+790,positivo,21,pagamento em dia,negócios,1188,ate 1000,> 7 anos,mau
+791,sem conta,24,pagamento em dia,carro usado,6313,nao,> 7 anos,bom
+792,sem conta,6,já atrasou pagamentos,móveis,1221,nao,1-4 anos,bom
+793,positivo,24,pagamento em dia,móveis,2892,ate 1000,> 7 anos,bom
+794,sem conta,24,pagamento em dia,móveis,3062,ate 1000,> 7 anos,bom
+795,sem conta,9,pagamento em dia,móveis,2301,nao,1-4 anos,bom
+796,negativo,18,pagamento em dia,carro usado,7511,nao,> 7 anos,mau
+797,sem conta,12,já atrasou pagamentos,móveis,1258,ate 1000,1-4 anos,bom
+798,sem conta,24,já atrasou pagamentos,carro novo,717,nao,> 7 anos,bom
+799,positivo,9,pagamento em dia,carro novo,1549,nao,1-4 anos,bom
+800,sem conta,24,já atrasou pagamentos,educação,1597,ate 1000,> 7 anos,bom
+801,positivo,18,já atrasou pagamentos,radio/televisão,1795,ate 1000,> 7 anos,bom
+802,negativo,20,já atrasou pagamentos,móveis,4272,ate 1000,> 7 anos,bom
+803,sem conta,12,já atrasou pagamentos,radio/televisão,976,nao,> 7 anos,bom
+804,positivo,12,pagamento em dia,carro novo,7472,nao,desempregado,bom
+805,negativo,36,pagamento em dia,carro novo,9271,ate 1000,4-7 anos,mau
+806,positivo,6,pagamento em dia,radio/televisão,590,ate 1000,1-4 anos,bom
+807,sem conta,12,já atrasou pagamentos,radio/televisão,930,nao,> 7 anos,bom
+808,positivo,42,pagamento em dia,carro usado,9283,ate 1000,desempregado,bom
+809,positivo,15,pagamento em dia,carro novo,1778,ate 1000,1-4 anos,mau
+810,positivo,8,pagamento em dia,negócios,907,ate 1000,1-4 anos,bom
+811,positivo,6,pagamento em dia,radio/televisão,484,ate 1000,4-7 anos,bom
+812,negativo,36,já atrasou pagamentos,carro usado,9629,ate 1000,4-7 anos,mau
+813,negativo,48,pagamento em dia,itens de casa,3051,ate 1000,1-4 anos,mau
+814,negativo,48,pagamento em dia,carro novo,3931,ate 1000,4-7 anos,mau
+815,positivo,36,já atrasou pagamentos,carro novo,7432,ate 1000,1-4 anos,bom
+816,sem conta,6,pagamento em dia,itens de casa,1338,ate 1000,1-4 anos,bom
+817,sem conta,6,já atrasou pagamentos,radio/televisão,1554,ate 1000,4-7 anos,bom
+818,negativo,36,pagamento em dia,outros,15857,ate 1000,desempregado,bom
+819,negativo,18,pagamento em dia,radio/televisão,1345,ate 1000,1-4 anos,mau
+820,sem conta,12,pagamento em dia,carro novo,1101,ate 1000,1-4 anos,bom
+821,positivo,12,pagamento em dia,radio/televisão,3016,ate 1000,1-4 anos,bom
+822,negativo,36,pagamento em dia,móveis,2712,ate 1000,> 7 anos,mau
+823,negativo,8,já atrasou pagamentos,carro novo,731,ate 1000,> 7 anos,bom
+824,sem conta,18,já atrasou pagamentos,móveis,3780,ate 1000,1-4 anos,bom
+825,negativo,21,já atrasou pagamentos,carro novo,1602,ate 1000,> 7 anos,bom
+826,negativo,18,já atrasou pagamentos,carro novo,3966,ate 1000,> 7 anos,mau
+827,sem conta,18,pagamento em dia,negócios,4165,ate 1000,1-4 anos,mau
+828,negativo,36,pagamento em dia,carro usado,8335,nao,> 7 anos,mau
+829,positivo,48,já atrasou pagamentos,negócios,6681,nao,1-4 anos,bom
+830,sem conta,24,já atrasou pagamentos,negócios,2375,ate 1000,1-4 anos,bom
+831,negativo,18,pagamento em dia,carro novo,1216,ate 1000,1-4 anos,mau
+832,negativo,45,pagamento em dia,negócios,11816,ate 1000,> 7 anos,mau
+833,positivo,24,pagamento em dia,radio/televisão,5084,nao,> 7 anos,bom
+834,positivo,15,pagamento em dia,radio/televisão,2327,ate 1000,1-4 anos,mau
+835,negativo,12,pagamento em dia,carro novo,1082,ate 1000,1-4 anos,mau
+836,sem conta,12,pagamento em dia,radio/televisão,886,nao,1-4 anos,bom
+837,sem conta,4,pagamento em dia,móveis,601,ate 1000,1-4 anos,bom
+838,negativo,24,já atrasou pagamentos,carro usado,2957,ate 1000,> 7 anos,bom
+839,sem conta,24,já atrasou pagamentos,radio/televisão,2611,ate 1000,> 7 anos,bom
+840,negativo,36,pagamento em dia,móveis,5179,ate 1000,4-7 anos,mau
+841,sem conta,21,já atrasou pagamentos,carro usado,2993,ate 1000,1-4 anos,bom
+842,sem conta,18,pagamento em dia,reparos,1943,ate 1000,1-4 anos,mau
+843,sem conta,24,pagamento em dia,negócios,1559,ate 1000,4-7 anos,bom
+844,sem conta,18,pagamento em dia,móveis,3422,ate 1000,> 7 anos,bom
+845,positivo,21,pagamento em dia,móveis,3976,nao,4-7 anos,bom
+846,sem conta,18,pagamento em dia,carro novo,6761,nao,1-4 anos,mau
+847,sem conta,24,pagamento em dia,carro novo,1249,ate 1000,1-4 anos,bom
+848,negativo,9,pagamento em dia,radio/televisão,1364,ate 1000,4-7 anos,bom
+849,negativo,12,pagamento em dia,radio/televisão,709,ate 1000,> 7 anos,mau
+850,negativo,20,já atrasou pagamentos,carro novo,2235,ate 1000,1-4 anos,mau
+851,sem conta,24,já atrasou pagamentos,carro usado,4042,nao,4-7 anos,bom
+852,sem conta,15,já atrasou pagamentos,radio/televisão,1471,ate 1000,1-4 anos,bom
+853,negativo,18,pagamento em dia,carro novo,1442,ate 1000,4-7 anos,mau
+854,sem conta,36,já atrasou pagamentos,carro novo,10875,ate 1000,> 7 anos,bom
+855,sem conta,24,pagamento em dia,carro novo,1474,nao,1-4 anos,bom
+856,sem conta,10,pagamento em dia,retreinamentos,894,nao,4-7 anos,bom
+857,sem conta,15,já atrasou pagamentos,móveis,3343,ate 1000,1-4 anos,bom
+858,negativo,15,pagamento em dia,carro novo,3959,ate 1000,1-4 anos,mau
+859,sem conta,9,pagamento em dia,carro novo,3577,nao,1-4 anos,bom
+860,sem conta,24,já atrasou pagamentos,carro usado,5804,>1000,1-4 anos,bom
+861,sem conta,18,já atrasou pagamentos,negócios,2169,ate 1000,1-4 anos,mau
+862,negativo,24,pagamento em dia,radio/televisão,2439,ate 1000,1-4 anos,mau
+863,sem conta,27,já atrasou pagamentos,móveis,4526,>1000,1-4 anos,bom
+864,sem conta,10,pagamento em dia,móveis,2210,ate 1000,1-4 anos,mau
+865,sem conta,15,pagamento em dia,móveis,2221,ate 1000,1-4 anos,bom
+866,negativo,18,pagamento em dia,radio/televisão,2389,ate 1000,1-4 anos,bom
+867,sem conta,12,já atrasou pagamentos,móveis,3331,ate 1000,> 7 anos,bom
+868,sem conta,36,pagamento em dia,negócios,7409,nao,> 7 anos,bom
+869,negativo,12,pagamento em dia,móveis,652,ate 1000,> 7 anos,bom
+870,sem conta,36,já atrasou pagamentos,móveis,7678,ate 1000,4-7 anos,bom
+871,positivo,6,já atrasou pagamentos,carro novo,1343,ate 1000,> 7 anos,bom
+872,negativo,24,já atrasou pagamentos,negócios,1382,nao,4-7 anos,bom
+873,sem conta,15,pagamento em dia,itens de casa,874,nao,1-4 anos,bom
+874,negativo,12,pagamento em dia,móveis,3590,ate 1000,1-4 anos,bom
+875,positivo,11,já atrasou pagamentos,carro novo,1322,>1000,1-4 anos,bom
+876,negativo,18,pagamento em dia,radio/televisão,1940,ate 1000,1-4 anos,bom
+877,sem conta,36,pagamento em dia,radio/televisão,3595,ate 1000,> 7 anos,bom
+878,negativo,9,pagamento em dia,carro novo,1422,ate 1000,1-4 anos,mau
+879,sem conta,30,já atrasou pagamentos,radio/televisão,6742,nao,4-7 anos,bom
+880,sem conta,24,pagamento em dia,carro usado,7814,ate 1000,4-7 anos,bom
+881,sem conta,24,pagamento em dia,carro usado,9277,nao,1-4 anos,bom
+882,positivo,30,já atrasou pagamentos,carro novo,2181,nao,> 7 anos,bom
+883,sem conta,18,já atrasou pagamentos,radio/televisão,1098,ate 1000,desempregado,bom
+884,positivo,24,pagamento em dia,móveis,4057,ate 1000,4-7 anos,mau
+885,negativo,12,pagamento em dia,educação,795,ate 1000,1-4 anos,mau
+886,positivo,24,já atrasou pagamentos,negócios,2825,nao,4-7 anos,bom
+887,positivo,48,pagamento em dia,negócios,15672,ate 1000,1-4 anos,mau
+888,sem conta,36,já atrasou pagamentos,carro novo,6614,ate 1000,> 7 anos,bom
+889,sem conta,28,pagamento em dia,carro usado,7824,nao,1-4 anos,bom
+890,negativo,27,já atrasou pagamentos,negócios,2442,ate 1000,> 7 anos,bom
+891,sem conta,15,já atrasou pagamentos,radio/televisão,1829,ate 1000,> 7 anos,bom
+892,negativo,12,já atrasou pagamentos,carro novo,2171,ate 1000,1-4 anos,bom
+893,positivo,36,já atrasou pagamentos,carro usado,5800,ate 1000,1-4 anos,bom
+894,sem conta,18,já atrasou pagamentos,radio/televisão,1169,nao,1-4 anos,bom
+895,sem conta,36,já atrasou pagamentos,carro usado,8947,nao,4-7 anos,bom
+896,negativo,21,pagamento em dia,radio/televisão,2606,ate 1000,1-4 anos,bom
+897,sem conta,12,já atrasou pagamentos,móveis,1592,>1000,4-7 anos,bom
+898,sem conta,15,pagamento em dia,móveis,2186,nao,4-7 anos,bom
+899,negativo,18,pagamento em dia,móveis,4153,ate 1000,1-4 anos,mau
+900,negativo,16,já atrasou pagamentos,carro novo,2625,ate 1000,> 7 anos,mau
+901,sem conta,20,já atrasou pagamentos,carro novo,3485,nao,1-4 anos,bom
+902,sem conta,36,já atrasou pagamentos,carro usado,10477,nao,> 7 anos,bom
+903,sem conta,15,pagamento em dia,radio/televisão,1386,nao,1-4 anos,bom
+904,sem conta,24,pagamento em dia,radio/televisão,1278,ate 1000,> 7 anos,bom
+905,negativo,12,pagamento em dia,radio/televisão,1107,ate 1000,1-4 anos,bom
+906,negativo,21,pagamento em dia,carro novo,3763,nao,4-7 anos,bom
+907,positivo,36,pagamento em dia,educação,3711,nao,1-4 anos,bom
+908,sem conta,15,já atrasou pagamentos,carro usado,3594,ate 1000,1-4 anos,bom
+909,positivo,9,pagamento em dia,carro novo,3195,nao,1-4 anos,bom
+910,sem conta,36,já atrasou pagamentos,radio/televisão,4454,ate 1000,1-4 anos,bom
+911,positivo,24,já atrasou pagamentos,móveis,4736,ate 1000,1-4 anos,mau
+912,positivo,30,pagamento em dia,radio/televisão,2991,nao,> 7 anos,bom
+913,sem conta,11,pagamento em dia,negócios,2142,>1000,> 7 anos,bom
+914,negativo,24,pagamento em dia,negócios,3161,ate 1000,1-4 anos,mau
+915,positivo,48,pagamento em dia,outros,18424,ate 1000,1-4 anos,mau
+916,sem conta,10,pagamento em dia,carro usado,2848,nao,1-4 anos,bom
+917,negativo,6,pagamento em dia,carro novo,14896,ate 1000,> 7 anos,mau
+918,negativo,24,pagamento em dia,móveis,2359,nao,desempregado,mau
+919,negativo,24,pagamento em dia,móveis,3345,ate 1000,> 7 anos,mau
+920,sem conta,18,já atrasou pagamentos,móveis,1817,ate 1000,1-4 anos,bom
+921,sem conta,48,já atrasou pagamentos,radio/televisão,12749,ate 1000,4-7 anos,bom
+922,negativo,9,pagamento em dia,radio/televisão,1366,ate 1000,1-4 anos,mau
+923,positivo,12,pagamento em dia,carro novo,2002,ate 1000,4-7 anos,bom
+924,negativo,24,pagamento em dia,móveis,6872,ate 1000,1-4 anos,mau
+925,negativo,12,pagamento em dia,carro novo,697,ate 1000,1-4 anos,mau
+926,negativo,18,já atrasou pagamentos,móveis,1049,ate 1000,1-4 anos,bom
+927,negativo,48,pagamento em dia,carro usado,10297,ate 1000,4-7 anos,mau
+928,sem conta,30,pagamento em dia,radio/televisão,1867,nao,> 7 anos,bom
+929,negativo,12,já atrasou pagamentos,carro novo,1344,ate 1000,1-4 anos,bom
+930,negativo,24,pagamento em dia,móveis,1747,ate 1000,1-4 anos,bom
+931,positivo,9,pagamento em dia,radio/televisão,1670,ate 1000,1-4 anos,mau
+932,sem conta,9,já atrasou pagamentos,carro novo,1224,ate 1000,1-4 anos,bom
+933,sem conta,12,já atrasou pagamentos,radio/televisão,522,ate 1000,> 7 anos,bom
+934,negativo,12,pagamento em dia,radio/televisão,1498,ate 1000,1-4 anos,bom
+935,positivo,30,já atrasou pagamentos,radio/televisão,1919,nao,1-4 anos,mau
+936,positivo,9,pagamento em dia,radio/televisão,745,ate 1000,1-4 anos,mau
+937,positivo,6,pagamento em dia,radio/televisão,2063,ate 1000,1-4 anos,bom
+938,positivo,60,pagamento em dia,educação,6288,ate 1000,1-4 anos,mau
+939,sem conta,24,já atrasou pagamentos,carro usado,6842,nao,1-4 anos,bom
+940,sem conta,12,pagamento em dia,carro novo,3527,nao,1-4 anos,bom
+941,sem conta,10,pagamento em dia,carro novo,1546,ate 1000,1-4 anos,bom
+942,sem conta,24,pagamento em dia,móveis,929,nao,4-7 anos,bom
+943,sem conta,4,já atrasou pagamentos,carro novo,1455,ate 1000,4-7 anos,bom
+944,negativo,15,pagamento em dia,móveis,1845,ate 1000,1-4 anos,bom
+945,positivo,48,pagamento em dia,carro novo,8358,ate 1000,1-4 anos,bom
+946,negativo,24,pagamento em dia,móveis,3349,ate 1000,1-4 anos,mau
+947,sem conta,12,pagamento em dia,carro novo,2859,nao,desempregado,bom
+948,sem conta,18,pagamento em dia,móveis,1533,ate 1000,1-4 anos,mau
+949,sem conta,24,pagamento em dia,radio/televisão,3621,nao,> 7 anos,mau
+950,positivo,18,já atrasou pagamentos,negócios,3590,ate 1000,desempregado,bom
+951,negativo,36,já atrasou pagamentos,negócios,2145,ate 1000,4-7 anos,mau
+952,positivo,24,pagamento em dia,carro usado,4113,ate 1000,1-4 anos,mau
+953,sem conta,36,pagamento em dia,móveis,10974,ate 1000,desempregado,mau
+954,negativo,12,pagamento em dia,carro novo,1893,ate 1000,1-4 anos,bom
+955,negativo,24,já atrasou pagamentos,radio/televisão,1231,>1000,> 7 anos,bom
+956,positivo,30,já atrasou pagamentos,radio/televisão,3656,nao,> 7 anos,bom
+957,positivo,9,já atrasou pagamentos,radio/televisão,1154,ate 1000,> 7 anos,bom
+958,negativo,28,pagamento em dia,carro novo,4006,ate 1000,1-4 anos,mau
+959,positivo,24,pagamento em dia,móveis,3069,nao,> 7 anos,bom
+960,sem conta,6,já atrasou pagamentos,radio/televisão,1740,ate 1000,> 7 anos,bom
+961,positivo,21,já atrasou pagamentos,carro novo,2353,ate 1000,1-4 anos,bom
+962,sem conta,15,pagamento em dia,carro novo,3556,nao,1-4 anos,bom
+963,sem conta,24,pagamento em dia,radio/televisão,2397,ate 1000,> 7 anos,mau
+964,positivo,6,pagamento em dia,reparos,454,ate 1000,1-4 anos,bom
+965,positivo,30,pagamento em dia,radio/televisão,1715,nao,1-4 anos,bom
+966,positivo,27,já atrasou pagamentos,radio/televisão,2520,ate 1000,1-4 anos,mau
+967,sem conta,15,pagamento em dia,radio/televisão,3568,ate 1000,> 7 anos,bom
+968,sem conta,42,pagamento em dia,radio/televisão,7166,nao,4-7 anos,bom
+969,negativo,11,já atrasou pagamentos,carro novo,3939,ate 1000,1-4 anos,bom
+970,positivo,15,pagamento em dia,reparos,1514,nao,1-4 anos,bom
+971,sem conta,24,pagamento em dia,carro novo,7393,ate 1000,1-4 anos,bom
+972,negativo,24,pagamento em dia,carro novo,1193,ate 1000,desempregado,mau
+973,negativo,60,pagamento em dia,negócios,7297,ate 1000,> 7 anos,mau
+974,sem conta,30,já atrasou pagamentos,radio/televisão,2831,ate 1000,1-4 anos,bom
+975,positivo,24,pagamento em dia,radio/televisão,1258,ate 1000,1-4 anos,bom
+976,positivo,6,pagamento em dia,radio/televisão,753,ate 1000,1-4 anos,bom
+977,positivo,18,já atrasou pagamentos,negócios,2427,nao,> 7 anos,bom
+978,sem conta,24,já atrasou pagamentos,carro novo,2538,ate 1000,> 7 anos,mau
+979,positivo,15,pagamento em dia,carro novo,1264,nao,1-4 anos,mau
+980,positivo,30,já atrasou pagamentos,móveis,8386,ate 1000,4-7 anos,mau
+981,sem conta,48,pagamento em dia,negócios,4844,ate 1000,desempregado,mau
+982,positivo,21,pagamento em dia,carro novo,2923,nao,1-4 anos,bom
+983,negativo,36,pagamento em dia,carro usado,8229,ate 1000,1-4 anos,mau
+984,sem conta,24,já atrasou pagamentos,móveis,2028,ate 1000,4-7 anos,bom
+985,negativo,15,já atrasou pagamentos,móveis,1433,ate 1000,1-4 anos,bom
+986,positivo,42,pagamento em dia,negócios,6289,ate 1000,1-4 anos,bom
+987,sem conta,13,pagamento em dia,radio/televisão,1409,nao,desempregado,bom
+988,negativo,24,pagamento em dia,carro usado,6579,ate 1000,desempregado,bom
+989,positivo,24,já atrasou pagamentos,radio/televisão,1743,ate 1000,> 7 anos,bom
+990,sem conta,12,já atrasou pagamentos,educação,3565,nao,1-4 anos,bom
+991,sem conta,15,pagamento em dia,radio/televisão,1569,nao,> 7 anos,bom
+992,negativo,18,pagamento em dia,radio/televisão,1936,nao,4-7 anos,bom
+993,negativo,36,pagamento em dia,móveis,3959,ate 1000,desempregado,bom
+994,sem conta,12,pagamento em dia,carro novo,2390,nao,> 7 anos,bom
+995,sem conta,12,pagamento em dia,móveis,1736,ate 1000,4-7 anos,bom
+996,negativo,30,pagamento em dia,carro usado,3857,ate 1000,1-4 anos,bom
+997,sem conta,12,pagamento em dia,radio/televisão,804,ate 1000,> 7 anos,bom
+998,negativo,45,pagamento em dia,radio/televisão,1845,ate 1000,1-4 anos,mau
+999,positivo,45,já atrasou pagamentos,carro usado,4576,nao,desempregado,bom
