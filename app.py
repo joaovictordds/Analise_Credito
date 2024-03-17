@@ -9,7 +9,8 @@ if pagina == 'Home':
     st.title('Meus modelos em produção :gem:')
     
 if pagina == 'Modelo - Liberação de Crédito':
-      
+
+    modelo = joblib.load('modelo.pkl')  
     subpag = ['Liberação de crédito'] #'Sugestão de quantia' 
     pag = st.sidebar.selectbox('Selecione o modelo:', subpag)
     
@@ -17,29 +18,51 @@ if pagina == 'Modelo - Liberação de Crédito':
         
         st.title('LIberação de crédito')
         st.markdown('---')
-        modelo = joblib.load('modelo.pkl')        
-        # Criando um novo DataFrame para novos dados
-        #novos_dados = pd.DataFrame(columns=['quantia',	'conta', 'duração',	'idade', 'historico'])
+             
         
-        
-        #st.write('Valor em conta:')
-        quantia = st.number_input('Saldo em conta', 0, 100000000)
-        
-                
-        saldo = ['sem conta','negativo','ate 200','200+']
-        conta = st.selectbox('Situação da conta', saldo)
-        
-        
+
+    # INPUT DE VARIAVEIS
+
+        saldocon = ['sem conta','negativo','positivo']
+        cont = st.selectbox('Situação da conta', saldocon)
+
         #st.write('Quantidade de parcelas')
-        duração = st.number_input('Qtde. Parcelas', 1, 120)
-        
-        
-        idade = st.number_input('Idade', 18, 65, 18)
-        
-        
+        dur = st.number_input('Qtde. Parcelas', 1, 120)
+
         #st.write('Histórico do cliente:')
-        his = ['pagamento em dia','conta crítica','já atrasou pagamentos','creditos quitados','primeira vez']
-        historico = st.selectbox('Histórico do cliente', his) 
+        his = ['pagamento em dia','já atrasou pagamentos']
+        histori = st.selectbox('Histórico do cliente', his) 
+
+        #st.write('Valor em conta:')
+        quant = st.number_input('Quantia solicitada', 1, 1000000)
+
+        his = ['ate 1000','>1000','nao']
+        poupan = st.selectbox('Saldo atual na instituição', his)
+
+        empr = ['1-4 anos','> 7 anos','4-7 anos','desempregado']
+        empreg = st.selectbox('Tempo de emprego', empr)
+		
+        #Novos dados
+        duracao = dur
+        quantia = quant
+        conta = cont
+        historico = histori
+        poupança = poupan
+        emprego = empreg
+
+        # Dados
+        tdados = {'conta': [conta],
+                'historico': [historico],
+                'poupança': [poupança],
+                'emprego': [emprego],
+                'duração': duracao,
+                'quantia': quantia}
+
+        # Criar DataFrame
+        dtf = pd.DataFrame(tdados)
+        
+           
+        
         
         
         #input0 = {'quantia':[quantia], 'conta':[conta], 'duração':[duração], 'idade':[idade], 'historico':[historico]}
@@ -48,18 +71,18 @@ if pagina == 'Modelo - Liberação de Crédito':
         
         
         # Criando um novo DataFrame para novos dados
-        nvds = pd.DataFrame(columns=['quantia',	'conta',	'duração',	'idade',	'historico'])
-        nvds.loc[0, 'quantia'] = quantia
-        nvds.loc[0, 'conta'] = conta
-        nvds.loc[0, 'duração'] = duração
-        nvds.loc[0, 'idade'] = idade
-        nvds.loc[0, 'historico'] = historico
+        #nvds = pd.DataFrame(columns=['quantia',	'conta',	'duração',	'idade',	'historico'])
+        #nvds.loc[0, 'quantia'] = quantia
+        #nvds.loc[0, 'conta'] = conta
+        #nvds.loc[0, 'duração'] = duração
+        #nvds.loc[0, 'idade'] = idade
+        #nvds.loc[0, 'historico'] = historico 
         
         st.markdown('---')
         
         if st.button('Executar modelo'):
             
-            novos_dados = modelo.predict(nvds)
+            novos_dados = modelo.predict(dtf)
             saida = []
             
             if novos_dados == 0:
