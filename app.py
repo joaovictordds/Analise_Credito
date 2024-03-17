@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-modelo = joblib.load('C:\\Users\\Joao Victor\\Documents\\Cursos Tec\\Data Science\\Projetos\\novo_german\\modeloclas.pkl')
+modelo = joblib.load('modeloclas.pkl')
 paginas = ['Home','Modelo - Liberação de Crédito']
 
 pagina = st.sidebar.radio('Navegue por aqui:', paginas)
