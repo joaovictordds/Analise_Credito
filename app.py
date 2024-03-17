@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import joblib
+
+modelo = joblib.load('C:\\Users\\Joao Victor\\Documents\\Cursos Tec\\Data Science\\Projetos\\novo_german\\modeloclas.pkl')
 paginas = ['Home','Modelo - Liberação de Crédito']
 
 pagina = st.sidebar.radio('Navegue por aqui:', paginas)
@@ -10,7 +12,7 @@ if pagina == 'Home':
     
 if pagina == 'Modelo - Liberação de Crédito':
 
-    modelo = joblib.load('modelo.pkl')  
+      
     subpag = ['Liberação de crédito'] #'Sugestão de quantia' 
     pag = st.sidebar.selectbox('Selecione o modelo:', subpag)
     
@@ -19,7 +21,7 @@ if pagina == 'Modelo - Liberação de Crédito':
         st.title('LIberação de crédito')
         st.markdown('---')
              
-        
+      
 
     # INPUT DE VARIAVEIS
 
